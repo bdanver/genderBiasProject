@@ -1,0 +1,123 @@
+Contact
+www.linkedin.com/in/jaimeschubert
+(LinkedIn)
+www.JaimeSchubert.com
+(Personal)
+Top Skills
+Ruby on Rails
+Ruby
+RubyMotion
+Jaime Schubert
+Senior Software Engineer at Albert.io
+Chicago, Illinois
+Summary
+I have over 5 years experience in software engineering with a
+background in Computer Graphics. As a passionate problem-solver,
+my love of puzzles, programming, and design is fulfilled through
+learning JavaScript, Python, and other web technologies. I provide a
+high attention to detail, and an efficient workflow, while also keeping
+collaborations open and dynamic.
+I have a strong desire and dedication to continually advance my
+skills. I'm seeking a passionate learning environment where I can
+not only deepen my existing skills, but develop new ones while
+immediately adding value to future projects.
+My interests and specialties include: JavaScript, Python, Ruby, front
+end and back end development, machine learning.
+Reach out if you want to talk more about all things code!
+Experience
+Albert.io
+3 years 10 months
+Senior Software Engineer
+July 2019 - Present (9 months)
+Chicago, IL
+Software Engineer
+June 2016 - Present (3 years 10 months)
+Chicago, IL
+I work as a software engineer focusing on front end development. On a
+daily basis, collaborate closely on feature implementations with a small team
+including the CTO, back end, product manager, and designer.
+Contribute ideas and knowledge of front end architecture in weekly design
+meetings encompassing both UX and UI, including discussing possible
+Page 1 of 4
+implementations to avoid potential pitfalls. As well as, contribute to PR reviews
+on an ongoing basis.
+Given full autonomy over the architecture and implementation of features
+assigned to me, including school administration dashboard and managing
+tools, refactoring question editor, marketplace checkout with Stripe payments,
+and classroom creation with integrating Google Classroom. Also lead the
+implementation and maintenance of data visualization with the D3 library.
+Shiftgig
+Front End Developer
+January 2015 - June 2016 (1 year 6 months)
+Chicago, IL
+Worked as a frontend engineer on a small team, allowing me to take the lead
+on a variety of projects using Backbone.js. Continually worked on improving
+the platform for both consumers and internal employees. Actively tested and
+managed my own code deployments to production.
+Punchkick Interactive Inc.
+JavaScript Developer
+July 2014 - November 2014 (5 months)
+Punchkick Interactive is a full-service mobile marketing agency that transforms
+clients into leaders of the mobile space. Punchkick works with some of the
+world's most recognized brands to marry innovative thinking with enterprise-
+tested processes and technology. From concept to execution, Punchkick
+works closely with its clients to craft mobile strategies that provide tangible
+ROI.
+• Learned new technologies, such as Backbone.js, to complete front-end
+development.
+• Collaborated on an agile team, with some pair programming, to complete
+project.
+• Worked in HTML, CSS, JavaScript, Backbone.js, jQuery, Underscore.js.
+Dev Bootcamp
+Web Development Student
+December 2013 - May 2014 (6 months)
+Chicago, IL
+Completed 9-week intensive web development program, with a 12-week prep
+phase. Dedicated over 80 hours per week learning and implementing Ruby on
+Page 2 of 4
+Rails, RubyMotion, HTML5, CSS, Sass, Test Driven Development, Javascript
+(AJAX, jQuery, CoffeeScript), Git and Source Control, Heroku, and Agile
+Development.
+• Collaborated on at least 4 major and 5 minor group projects, varying in
+responsibilities for both front-end and back-end.
+• Pair programmed on over 100 challenges, including stretch challenges.
+Digital Skylight
+VFX/Graphic Artist
+January 2010 - March 2014 (4 years 3 months)
+Chicago, IL
+Managed over 25 visual effects projects and 3 web developments and
+redesigns. Gained experience quickly learning new technologies and
+techniques to meet the needs of various projects.
+• Led VFX compositing and CG integration on music video for both EDM artist
+Steve Aoki and I Fight Dragons, for a combined effort on over 6,000 frames
+within a two-week and 3 month time period, respectively.
+• Nominated for Best Visual Effects at DePaul’s Film Festival for VFX work
+done on music video for I Fight Dragons.
+• Managed rebranding of the company’s website, logo, and business cards.
+Optimus
+Intern
+January 2013 - June 2013 (6 months)
+Chicago, IL
+Gained hands-on film production experience and deep technical exposure
+while serving in a highly selective internship where only 15% of applicants are
+given the opportunity.
+• Assisted pre-production tasks for a global restaurants project that aired on
+national TV
+Protokulture
+Motion Design Apprentice
+January 2012 - March 2012 (3 months)
+Chicago, IL
+Page 3 of 4
+Apprentice responsibilities included managing and organizing props for
+production, compositing, rotoscoping, animation, and working with legacy
+projects.
+• Collaborated on VFX for major commercials including YouTube AdBlitz,
+StateFarm, and Always
+Education
+DePaul University
+B.S., Computer Graphics and Motion Technology · (2007 - 2011)
+Dev Bootcamp
+Web Development · (2013 - 2014)
+Academy of Art University
+M.F.A., Animation and Visual Effects · (2011 - 2013)
+Page 4 of 4

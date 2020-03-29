@@ -1,0 +1,122 @@
+Contact
+www.linkedin.com/in/amerriman
+(LinkedIn)
+ashleymerriman.com (Personal)
+github.com/amerriman (Portfolio)
+students.galvanize.com/people/429
+(Portfolio)
+Top Skills
+HTML
+JavaScript
+AngularJS
+Certifications
+Colorado Professional Teaching
+License
+New York State Professional
+Teaching License
+Publications
+Teaching U.S. History, Dialogues
+Among Social Studies Teachers and
+Historians.
+Ashley Merriman
+Software Developer at Charter Communications
+Denver, Colorado
+Summary
+Full Stack developer with an extensive background in education.
+Keen ability to wrangle classrooms filled with adults and middle
+school students alike. Diverse professional experience includes web
+and software development, curriculum design, training and conflict
+mitigation.
+When I'm not coding I'm - hiking, skiing, traveling, building something
+or trying a new brewery.
+Experience
+Charter Communications
+Software Developer (Contract)
+October 2018 - Present (1 year 6 months)
+IHS Markit
+Associate Software Engineer
+August 2017 - October 2018 (1 year 3 months)
+Greater Denver Area
+Utilize Angular (4-6), AngularJS, TypeScript, JavaScript, JQuery, HTML, and
+CSS to contribute to development of enterprise web app. Convert AngularJS
+1.6 application to Angular 6 in phases to ensure older codebase works
+alongside new Angular modules. Develop new front-end feature modules for
+processing complex custom notifications based on large data sets. Refine
+and iterate on user interface designs to create clear and intuitive customer
+experiences.
+Field Squared
+Jr. Software Developer
+May 2016 - June 2017 (1 year 2 months)
+Denver, CO
+Translate high level requirements into new user story solutions and bug fixes.
+Utilize Angular, JavaScript, HTML5, CSS3, LESS, RESTful API interaction
+and CoffeeScript to produce clean and intuitive user interface for large,
+Page 1 of 3
+customizable software platform. Implemented customized time zone feature
+with Kendo date-pickers and MomentJS to allow users to set and view
+application and data across multiple time zones. Created a customizable drag-
+and-drop document interface to allow users to design and develop their own
+customized screens, interfaces and pdf print views using pre-configured data
+objects. Utilize Agile workflow process.
+Field Squared - "Mobile Applications Development Platform: Code-free mobile
+front-end platform extends any back-office business system to the field
+Intelligently mobilize your field workforce with Field Squared’s mobile app
+platform that integrates all your back-office systems into a completely
+configurable and easy to use mobile front end.
+Two-way connections to existing databases and enterprise products, smart
+forms, data blending, and workflow creation is done through a drag and drop
+integration designer. Get the exact mobile platform your business needs – no
+coding required."
+Galvanize Inc
+Web Development Workshop Instructor (Contract)
+June 2016 - October 2016 (5 months)
+Denver, CO
+Instructor for short sessions of intensive web development and design
+workshops. Guide students through the process of designing and developing
+websites. Provide feedback on student generated code, troubleshoot bugs,
+provide one-on-one assistance.
+HomeAdvisor
+Software Development Intern
+February 2016 - May 2016 (4 months)
+Golden, CO
+Utilized knowledge of the full stack to contribute to both front and back end
+development. Participated on agile team working on enterprise level software.
+Responsibilities included completing stories as part of the typical sprint
+process, refactoring legacy code and pairing with Sr. Developers to develop
+best practices.
+Cherry Creek Schools
+Instructor
+August 2013 - August 2015 (2 years 1 month)
+Page 2 of 3
+Englewood, Colorado
+Utilized best practices for classroom instruction and management. Analyzed
+formal and informal assessment data to support core teacher team in
+increasing student achievement across content area. Partnered with core
+teacher team for collaborative planning and cross-curricular connections.
+Differentiated classroom activities to accommodate culturally and linguistically
+diverse students as well as those with varying abilities. Project manager for
+yearbook creation and production
+New York City Department of Education
+Instructor
+September 2005 - August 2011 (6 years)
+Taught combined courses of English Language Arts and Social Studies
+(Humanities) to classes of
+7th grade students with mixed ability levels. Co-created and implemented
+curriculum map, aligned with the Common Core State Standards for Social
+Studies and Language Arts, for the 7th grade Humanities department.
+Supervised student teachers from New York University and Columbia
+University as well as staff members of the America Reads program
+New York University
+Adjunct Instructor
+September 2009 - June 2011 (1 year 10 months)
+Adjunct instructor for undergraduate and graduate teacher education courses.
+Specialized in practicum courses with an emphasis on methodology and
+curriculum development for teaching Social Studies in middle and secondary
+grades.
+Education
+New York University
+Master of Arts, Social Studies Education
+Richmond University Florence Campus
+Sonoma State University
+Bachelor of Arts, History
+Page 3 of 3

@@ -1,0 +1,118 @@
+Contact
+www.linkedin.com/in/sarah-
+keller-741040115 (LinkedIn)
+github.com/SebetheWombat
+(Portfolio)
+sarahkeller.com.s3-website-us-
+east-1.amazonaws.com (Portfolio)
+Top Skills
+Ruby
+JavaScript
+Python
+Languages
+English
+Certifications
+Front End Development Program
+Sarah Keller
+Software Developer at Financial Apps
+Summary
+Sarah is an experienced QA Engineer and Developer who likes to
+keep her code readable and easy to maintain. Over the course of her
+professional career she has taken charge of the project to automate
+frontend regression tests. Through this project she has researched
+and implemented principles of object oriented design and the page
+object model in order to leave behind friendly code with continued
+value for others.
+Experience
+Financial Apps
+2 years 10 months
+Software Developer
+December 2019 - Present (3 months)
+QA/Developer
+May 2017 - December 2019 (2 years 8 months)
+Miami/Fort Lauderdale Area
+• Wrote functional UI regression tests using selenium Webdriver, python, and
+the Pytest framework in order to ensure new functionality in portals did not
+break existing functionality.
+• Set up log metrics and alerts using AWS Cloudwatch in order to inform
+operations if certain events that could indicate issues were showing up in the
+logs.
+• Manually tested the portals to find issues outside the scope of the automated
+tests.
+• Using Postman and Javascript, assisted in testing the API and confirmed
+whether or not existing issues could be closed out.
+• Helped maintain Zenhub boards to record, close, or send back issues in
+order to keep the bug tracking process organized.
+• Wrote a script to extract logs from our Iron.io workers and upload them
+to AWS DynamoDB and AWS s3 standard storage in order to overcome
+limitations in log retrieval, storage, and searchability.
+Page 1 of 3
+• Scheduled scripts to run as linux cron jobs or windows scheduled tasks
+where needed. Packaged up script functionality into bash scripts or batch files
+on appropriate systems.
+Maine Sport Outfitters
+Sales Associate
+September 2014 - October 2015 (1 year 2 months)
+Rockport, ME
+• Educated customers on the different types and aspects of gear and provided
+recommendations based on their specified experience and fit
+• Used hand tools for maintenance and assembly of racks and displays
+• Worked register for point of sales, updating customer information and looking
+up product information
+• Filled out forms for hunting and fishing licenses
+Sunday River Ski Resort
+Lift Operator
+November 2013 - April 2014 (6 months)
+Newry, ME
+• Performed daily safety checks of machinery
+• Maintained a safe and friendly environment for participants
+• Provided participants with information on difficulty level of terrain
+Bat Conservation International
+Field Technician
+July 2013 - October 2013 (4 months)
+Farmington, PA
+• Set up plots and transects around wind turbines using sighting compass
+• Searched transects for bird and bat fatalities, recording species, gender,
+relative age, and location of any specimen found along with any visible injuries
+• Entered data
+U.S. Fish and Wildlife Service (USFWS)
+Biology Intern
+April 2013 - July 2013 (4 months)
+Pea Island NWR, NC
+• Patrolled the beach on ATV for sea turtle crawls
+• Relocated turtle nests to a safe zone if needed
+• Banded royal and sandwich terns and captured and restrained pelicans for
+banding
+Page 2 of 3
+• Collected beach sampling data including macro-invertebrates and sand
+samples
+• Recorded weekly water level and salinity readings
+• Lead canoe tours
+Maine Bound Adventure Center
+Recreation Assistant
+July 2009 - December 2012 (3 years 6 months)
+Orono, ME
+• Taught participants how to belay while monitoring rock wall to maintain a safe
+environment
+• Set routes on climbing wall
+• Assisted trip leaders with short outings
+U.S. Fish and Wildlife Service (USFWS)
+Field Technician
+May 2012 - August 2012 (4 months)
+Maine Coastal Islands NWR
+• Banded black guillemot chicks and measured the wing cords and weighed
+the chicks every two to three days after hatching to monitor growth
+• Located, marked, and monitored black guillemot burrows
+• Painted and set up tern, razorbill, and puffin decoys with the intention of
+attracting and establishing a colony
+• Observed and recorded Alcid activity
+• Contributed articles to the project’s weekly blog
+Education
+University of Maine
+Bachelor's degree, Wildlife Ecology · (2008 - 2012)
+Ironhack
+Full Stack Web Development · (2016)
+Free Code Camp
+Full Stack Web Development Certification, Computer Software
+Engineering · (2016 - 2017)
+Page 3 of 3

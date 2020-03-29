@@ -1,0 +1,93 @@
+Contact
+www.linkedin.com/in/ercarignan
+(LinkedIn)
+Top Skills
+C++
+XML
+WPF
+Erin Carignan
+Software Developer
+Westminster, Massachusetts
+Summary
+Highly motivated, creative and versatile software engineer with
+over 20 years of experience in software design, coding and testing.
+A commitment to quality and a gift for solving complex problems
+in a fast-paced environment. Energetic self-starter with excellent
+analytical, organizational, and creative skills.
+Technical Skills:
+• Xamarin, .Net/C#, WPF, XML, XAML, LINQ, SQL, SOA, WCF
+• Angular, Typescript, RxJs, Websockets, JSON
+• Object oriented design, Agile practices, UI/UX design
+methodologies
+• Unit Testing, TDD, Git, Atlassian
+Experience
+Billtrust
+Lead Developer
+July 2019 - Present (9 months)
+Lawrence Township, NJ, United States
+Waters Corporation
+17 years 3 months
+Software Engineer
+2015 - Present (5 years)
+In my current role as Technical Lead on the development of the next
+generation UI platform, I participate in an agile team, collaborate daily with the
+architect, product owner, and UX team, and provide guidance to 5 developers
+across 3 sites.
+Accomplishments include:
+• Led 2 developers in the creation of an Angular front-end performance
+dashboard using Angular Material, achieving 85% code coverage through unit
+tests with Jasmine and Karma
+Page 1 of 3
+• Developed an essential platform service to communicate with the backend,
+using RxJs to send JSON payloads across websockets
+• Spearheaded the technical investigation into web-based mobile technologies,
+presenting findings to internal stakeholders
+• Produced a cross-platform mobile UI dashboard for instrument
+communication, written in Xamarin and C#
+• Significantly enhanced usability and maintainability of a legacy method
+transfer tool by re-architecting it into reusable services using loosely coupled
+design, leveraging experience in C#, WPF, and WCF
+Software Engineer
+January 2003 - 2015 (12 years)
+With a combined computer science and biotechnology background,
+I contributed heavily to the continued success of a market leading
+chromatography data system. I consistently exceeded expectations by
+performing a large volume of high quality work on schedule.
+Accomplishments include:
+• Brought an increased customer focus to the development process by
+advocating for user feedback, performing usability tests and consulting on
+interface design
+• Sole developer on design and implementation of client side data acquisition
+application for cutting-edge n-tier analytical instrumentation software
+• Key contributor to design and development of a suite of core user interface
+controls to be used as application building blocks
+• Involved in all aspects of software lifecycle, including requirements gathering,
+writing and reviewing product documentation, solving design problems,
+scheduling, coding, and evaluation support
+Maxtor (and formerly Quantum)
+Software Engineer
+April 1997 - January 2003 (5 years 10 months)
+Page 2 of 3
+As a self-taught application programmer, rapidly gained recognition from other
+developers in the data storage industry. Designed and supported a variety of
+internal, product-critical tools for performing data collection, real-time device
+communication, and data analysis.
+Accomplishments include:
+• Designed and implemented tool for use in disk drive test equipment to
+perform data parsing, file storage, and hardware interrupt handling
+• Actively participated in redesign of an interactive disk drive diagnostic utility
+to a object-oriented architecture
+• Redesigned department web site to promote an integrated customer relations
+and communications tool
+• Supported firmware development through SCSI protocol testing, code builds,
+and release documentation
+• Developed and maintained detailed team project schedules to consistently
+meet deadlines
+Education
+Worcester Polytechnic Institute
+M.S., Computer Science · (1999 - 2003)
+Bentley University
+Certificate, User Experience · (2016)
+University of New Hampshire
+B.S., Animal Science, Bioscience option · (1991 - 1995)
+Page 3 of 3

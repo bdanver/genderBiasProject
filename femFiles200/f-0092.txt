@@ -1,0 +1,90 @@
+Contact
+www.linkedin.com/in/jasmine-
+walters (LinkedIn)
+Top Skills
+JavaScript
+C#
+Cascading Style Sheets (CSS)
+Jasmine Walters
+Junior Software Developer at FortyAU
+Greater Nashville Area, TN
+Summary
+I was born in California but moved to Tennessee shortly after and
+grew up in the city of Franklin. After graduating from Franklin High
+School, I became a certified nursing assistant and started working
+in assisted living facilities taking care of the elderly. After two years
+working in patient care, I was given an opportunity to do a temporary
+data cleanup project for EMR systems. I enjoyed it so much, I
+decided to become a business analyst. In my new position, I was
+able to engage with many developers and quickly gained interest
+in their line of work. After a few years, I decided to go to Nashville
+Software School to learn more about web development.
+I’ve found I really enjoy solving problems and learning from others.
+I’m having fun meeting new people and get excited about discussing
+new projects and ideas. I’m always excited to get involved in what
+the Nashville tech community is doing.
+Experience
+FortyAU
+Junior Software Developer
+December 2019 - Present (4 months)
+Nashville Software School
+Junior Software Developer
+August 2018 - December 2019 (1 year 5 months)
+Greater Nashville Area, TN
+Intensive software development bootcamp focusing on full stack development
+fundamentals and problem
+solving. The final half of the program executed in a simulated company
+environment with Scrum methodology.
+• Experienced hands on application of OOP fundamentals through group and
+individual projects reflecting real world business problems
+Page 1 of 3
+• Used source code version control with Git/GitHub
+• Practiced project management/tracking with Github Projects & Issue Tracking
+• Learned JavaScript fundamentals leveraging DRY, modular, readable code
+and reusable components
+• Built browser-based single page applications using React, HTML, CSS and
+jQuery
+• Task Automation with Webpack: Linting with ESLint and module bundling
+• Styled applications with CSS Frameworks, Bootstrap and wrote custom
+styles as needed
+• Deployed applications through Firebase
+• Learned unit testing to write testing suites for code
+• Practiced application design through white boarding dependencies and
+building ERD’s
+• Created and modified database design/content using SQL, ADO.NET, and
+ORM tooling, including exposure and experience with migrations
+• Created RESTful APIs with C#/.NET using WebAPI
+Optum (formerly Alere Wellbeing)
+Business Analyst
+June 2015 - June 2018 (3 years 1 month)
+worked from home
+• Operated within teams to assist in managing, enhancing, and supporting
+Salesforce EMR systems
+• Worked closely with project managers and developers to document
+requirements and make technical decisions to fulfill business needs
+• Assisted with data management and cleanup by completing data loads and
+writing SQL queries
+• Manually tested systems to replicate bugs and document them in Rally for
+product owners review
+• Made modifications to application settings for updates to profile access and
+set up new users
+• Attended daily Scrum meetings to discuss status updates and attended
+Product Owner meetings to demo application issues in Prod
+• Communicated effectively to customers, teams, and product owners
+regarding system updates and issues
+• Provided support for customers having difficulty and needing assistance with
+our applications
+NHC HEALTHCARE
+Certified Nursing Assistant
+Page 2 of 3
+December 2011 - March 2014 (2 years 4 months)
+Franklin and Murfreesboro, TN
+• Worked as a CNA in assisted living facilities in Franklin and Murfreesboro.
+• Responsible for assisting multiple patients with daily living activities including
+transfers, dressing, eating, walking, toileting, bathing, etc.
+• Responsible for documenting patients ADLs and informing nurses and family
+of changes or concerns.
+Education
+Nashville Software School
+Web Development · (2018 - 2019)
+Page 3 of 3

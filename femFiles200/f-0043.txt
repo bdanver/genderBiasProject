@@ -1,0 +1,69 @@
+Contact
+www.linkedin.com/in/candacestern
+(LinkedIn)
+Top Skills
+Java
+JavaScript
+C/C++
+Honors-Awards
+Honoree, Dean’s List
+Honoree, President’s List
+Honoree, President’s List
+Candace Stern
+Software Developer at Accenture
+Washington D.C. Metro Area
+Summary
+Enthusiastic software developer adept at computer programming
+concepts and techniques. Proficient in the design, development, and
+debugging of programs. Applicable knowledge of data structures
+to include real-world problem-solving concepts, software design,
+android platform and android application components.
+Experience
+Accenture
+Software Developer
+July 2019 - December 2019 (6 months)
+Philadelphia, Pennsylvania
+- Worked in a POC lab developing new technology concepts in 2 week sprints.
+- Implemented Object-Relational Mapping(ORM) using Hibernate to
+seamlessly integrate Java and MySQL.
+- Integrated Web Services like REST and AWS to achieve SOA for
+communication between platforms.
+- Investigated key design parameters and their relationship to product
+performance
+- Plan, procure, test, and evaluate physical prototypes to test performance
+features.
+Revature
+Full Stack Developer
+March 2019 - December 2019 (10 months)
+Reston, Virginia
+- Developed and exposed REST services built with Spring Boot and hosted on
+Apache Tomcat servers.
+- Developed and managed normalized OracleSQL databases using SQL
+scripting.
+- Ample experience with Java, HTML, Angular, TypeScript, SQL, Spring and
+Spring Boot.
+- Created full-stack web applications as Microservices, implemented with
+Netflix OSS technologies: Eureka and Zuul
+Page 1 of 2
+- Implemented automated unit testing in Java with JUnit
+Sprint
+Sales Technician
+May 2016 - March 2019 (2 years 11 months)
+Port Orange, FL
+Provides a total sales solution to customers regarding their wireless/mobility
+needs. Trained and mentored new team members. Replaced circuit boards,
+buttons, and screens for cell phones and tablets. Exceeds key performance
+objectives for sales and customer satisfaction goals
+NASA Florida Space Grant Consortium
+Intern
+September 2017 - December 2017 (4 months)
+Daytona Beach, Florida
+Responsible for analyzing code for system testing and debugging for
+MyOpenMath.com, a mathematics website utilized by college/university faculty
+and students.
+Coordinated with partner using PHP to create a user-friendly webpage for
+faculty and students in the subject areas of precalculus and trigonometry.
+Education
+Bethune-Cookman University
+Bachelor of Science - BS, Computer Science · (2013 - 2017)
+Page 2 of 2

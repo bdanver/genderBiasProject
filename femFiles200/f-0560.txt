@@ -1,0 +1,63 @@
+Contact
+www.linkedin.com/in/pranika-
+seth-733b4573 (LinkedIn)
+Top Skills
+C
+C++
+Java
+Languages
+English (Full Professional)
+Hindi (Native or Bilingual)
+Honors-Awards
+Semester Honors
+Pranika Seth
+Software Engineer at Apple
+Cupertino, California
+Experience
+Apple
+Software Engineer
+June 2015 - Present (4 years 9 months)
+Apple
+Software Engineering Intern
+May 2014 - August 2014 (4 months)
+Cupertino, CA
+• Worked on tools to understand and debug issues on the second revision of
+iAP (iPod Accessory Protocol).
+• Developed a Mac Application to simulate a generic iOS Device and inject
+commands in accessories to test and debug their behavior. This tool is going
+to be used internally to debug new HW.
+Purdue University
+Grader
+September 2013 - May 2014 (9 months)
+• Grade homework and quiz for two sections of Ordinary Differential equations
+Course (200 level).
+• Work under the supervision of the Course Instructor.
+Center for Development of Telematics (C-Do T)
+Software Engineering Intern
+May 2013 - July 2013 (3 months)
+• Worked on the project of Optical Transport - Gigabit Passive Optical Network,
+or GPON (point-to-multipoint access mechanism), that presented a complete
+end to end GPON solution capable of providing triple
+play services (voice, video and data) to the end consumer.
+• Used C programming language to program the time and phase
+synchronization between the Optical Line Terminal (OLT) at the service
+provider's central office and a number of optical network units (ONUs) near
+end
+users in a GPON network.
+Page 1 of 2
+Purdue University
+Teaching Assistant
+January 2013 - May 2013 (5 months)
+Department of Mathematics
+• Provide assistance and guidance to the college freshmen and sophomores in
+Pre Calculus and Applied Calculus.
+• Work in synch with the Course Coordinator
+according to the subject matter covered in the
+lectures.
+• Increase the efficiency of the Mathematics Help Room by assisting the
+students for 8 hours every week and help proctor midterm exams.
+Education
+Purdue University
+Bachelor's degree Computer Engineering · (2011 - 2015)
+Modern School
+Page 2 of 2

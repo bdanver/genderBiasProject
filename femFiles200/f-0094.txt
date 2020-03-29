@@ -1,0 +1,78 @@
+Contact
+www.linkedin.com/in/glattsteins
+(LinkedIn)
+github.com/s-block-g (Other)
+Top Skills
+Computer Literacy
+Computer Network Operations
+Computer Graphics
+Sara Glattstein
+Junior Developer at Guideposts
+Greater New York City Area
+Summary
+I am recent Boston University graduate with an earned Bachelor
+of Arts degree in Computer Science, concentrating in Operating
+Systems, Real-time Systems, Embedded Computing, and
+Programming Languages and Software. I am a creative and artistic
+technical contributor that thrives in a high energy, collaborative
+environment. My experiences include Android and IOS Mobile
+Apps Development, Software Engineering, and Data Science and
+Analysis.
+Experience
+Guideposts
+Junior Developer
+October 2019 - Present (6 months)
+Danbury, CT
+Incluvie
+Android, Mobile App Developer
+January 2018 - November 2018 (11 months)
+Greater Boston Area
+• Developed Android application through Android Studio where users review
+and rate movies around promoting or ignoring diversity
+• Created and maintained a Firebase real-time database; included a Firestore
+• Utilized APIs Google Auth, YouTube, and TheMovieDatabase (TMDB) API
+• Collaborated in weekly SCRUM meetings; appointed Scrum Master
+• Managed and organized the master branch of Github repository; prevented
+conflicts
+findClosest
+Website Developer, Boston University Capstone
+January 2018 - May 2018 (5 months)
+Greater Boston Area
+• Collaborated website creation; combined Grubhub and Analyze Boston
+databases into a proprietary Mongo-DB
+Page 1 of 2
+• Determined algorithm for map users, utilized Google Maps API, offered
+closest sources of food and entertainment in concurrence with T Stop locations
+Fauxflix
+Software Engineer, Boston University Capstone
+September 2017 - December 2017 (4 months)
+Greater Boston Area
+• Collaborated the creation of a Node.js based website with team of three
+interns
+• Created software that recommended movies matched to user input, utilized
+TMDB, and considered weather conditions with Yahoo Weather APIs
+• Led creative meetings, pitched ideas and technical solutions
+Michael Page
+Data Analyst Intern
+June 2017 - August 2017 (3 months)
+Stamford, Connecticut
+• Researched, compiled, and organized companywide back end data
+• Served as point of response for IT desk request tickets, performed system
+updates
+• Provided technical support to all end users; conducted software tutorials
+• Identified, updated, and synchronized key performance indicators for
+employee database and tracking
+iMiller Public Relations
+Intern
+May 2015 - August 2015 (4 months)
+Mamaroneck, New York
+• Developed an online database for NANOG: North America Network
+Operators’ Group
+• Assembled information for clients from online resources into Google Docs
+and Dropbox
+• Created presentations in PowerPoint and Excel for clients and fellow
+employees
+Education
+Boston University
+Bachelor of Arts - BA, Computer Science · (2014 - 2018)
+Page 2 of 2

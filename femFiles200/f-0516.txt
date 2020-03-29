@@ -1,0 +1,123 @@
+Contact
+www.linkedin.com/in/julia-friend15
+(LinkedIn)
+github.com (Personal)
+Top Skills
+Python
+Writing
+Object-Oriented Programming
+(OOP)
+Honors-Awards
+Scholastic Art Gold Key
+2019 Grace Hopper Celebration
+Student Scholarship recipient
+Julia Friend
+Computer Science Research Assistant
+Oberlin, Ohio
+Summary
+I am a senior at Oberlin College majoring in Computer Science
+and English who is excited by intersections between technology
+and language. I have a background in machine learning research
+and have enjoyed communicating my findings to tech and non-tech
+audiences alike. I am currently pursuing full-time industry work as
+a software engineer. While I intend to explore different fields, I'm
+particularly interested in information retrieval and data mining.
+2019 Grace Hopper Celebration Scholar
+Experience
+Oberlin College Computer Science Department
+1 year 2 months
+Research Assistant
+February 2019 - Present (1 year 2 months)
+Oberlin, OH
+• Currently developing RESTful web application with Node.js front and back
+ends for a GIS task.
+• Developed novel solutions for machine learning when predicting rare
+outcomes.
+• Evaluated k-means clustering techniques for image and sequential data in
+Python with Scikit-Learn, running prediction tasks with HPC through Linux;
+visualized results with Matplotlib.
+Computer Lab Helper
+February 2019 - Present (1 year 2 months)
+Oberlin, OH
+• Mentor students weekly to debug and conceptually understand algorithms in
+Python and Java.
+Oberlin Student Cooperative Association (OSCA)
+Web Development Intern
+May 2019 - August 2019 (4 months)
+Page 1 of 4
+Oberlin College
+• Updated Drupal website navigation, themes, and content for non-profit that
+supports 600+ students each year. Involved HTML, CSS, MySQL, and Linux.
+DIS Game Development Course
+Game Developer
+September 2018 - December 2018 (4 months)
+Copenhagen Area, Capital Region, Denmark
+- Designed and implemented 2 computer games with C# using the Unity
+Engine: a 2D puzzle platformer and a 3D surreal survival horror game.
+- Horror game can be played at: http://dis.benno-lueders.de/2018FallGames/
+FinalProjects/Tremor/
+- Platformer can be played at: http://dis.benno-
+lueders.de/2018FallGames/2DPlatformer/GravityBoi2/
+Worcester Polytechnic Institute
+Data Science REU Researcher
+May 2018 - August 2018 (4 months)
+Worcester, MA
+• Developed novel neural network architecture in Python to classify sequential
+data with missing values and evaluated the model with prediction tasks run on
+HPC through Linux.
+• Authored a paper accepted to the 2018 MIT Undergraduate Research
+Technology Conference comparing predictive accuracy of neural networks
+over 2 cell types and 5 input types; validated that models benefit from
+determining patterns in missing values.
+• Presented scientific poster accepted to the 2018 NSF Symposium for 50+
+faculty and guests where it was ranked 1st in presentation quality.
+Oberlin College Quantitative Skills Center
+Oberlin Workshop and Learning Sessions (OWLS) Leader
+February 2018 - May 2018 (4 months)
+Oberlin, OH
+I design and lead two weekly 1.5 hour review sessions for a Calculus I
+course with another OWLS Leader. The sessions use activities, worksheets,
+and homework help to review coursework. I attend classes and take notes
+alongside the students to inform session planning.
+Wilder Voice Literary Magazine
+Senior Arts Editor
+August 2017 - May 2018 (10 months)
+Page 2 of 4
+Oberlin, OH
+I am the art and layout backbone of Wilder Voice, Oberlin College's long-
+form journalism magazine that publishes once a semester. Working closely
+with the editors-in-chief and the help of an assistant, I promote the magazine
+with posters and collect visual art submissions from students and faculty
+throughout the semester. Once the magazine is in layout, I match art pieces to
+the journalistic articles and fiction included in the magazine, editing each with
+Adobe Photoshop and laying them out using Adobe InDesign.
+In addition, I also oversee the Visual Processes section of the magazine in
+which we interview 2-3 student artist and publish the edited transcriptions
+along with photos of their work. The selection process involves networking
+within the art department, and each set of interview questions is personalized
+to best represent the work of the artist.
+College Academy Summer Program
+Art Instructor
+May 2016 - July 2017 (1 year 3 months)
+Maynard, MA
+I developed and taught a visual art course called "It's Sketchy" for a three-
+week camp for kids aged 10-14. I created a curriculum based on past versions
+of the course, online tutorials, and my own artwork from that age. The
+curriculum covered twenty-one 70-minute classes exploring fundamental
+art skills and building up to more independent, conceptual projects. Once
+camp started, I implemented the course for four periods of ten campers each
+day.
+Brooklyn New School
+Teaching Intern
+January 2017 - January 2017 (1 month)
+Brooklyn, New York City
+I assisted in facilitating a fifth grade classroom as an intern for a month through
+Oberlin College's Winter Term. I helped students individually and in small
+groups on a variety of projects ranging from math worksheets to a research
+paper, monitored students' behavior in their main classroom as well as in their
+electives, and I graded homework.
+Education
+Oberlin College
+Page 3 of 4
+Bachelor's degree, Computer Science, English (double major) · (2016 - 2020)
+Page 4 of 4

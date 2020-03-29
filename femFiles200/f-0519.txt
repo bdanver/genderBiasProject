@@ -1,0 +1,150 @@
+Contact
+www.linkedin.com/in/stephanie-
+kelly-jordan-mba-5772749
+(LinkedIn)
+Top Skills
+Security
+Firewalls
+Networking
+Certifications
+GIAC Certified Intrusion Analyst
+(GCIA)
+Microsoft Certified Professional
+ITILv3 Foundation
+GIAC Security Leadership
+Certification (GSLC)
+Security+
+Honors-Awards
+Miss Congeniality 2004
+Information Systems Student of the
+Year
+Bravo Zulu
+Bravo Zulu
+SPAWAR "On the Spot" Award
+Stephanie Kelly Jordan, MBA
+Computer Scientist at Naval Information Warfare Center Atlantic
+Charleston, South Carolina Area
+Summary
+2020 BEYA STEM Community Service in Government Award
+Recipient
+Experience
+NAVWAR
+Computer Scientist
+September 2011 - Present (8 years 7 months)
+Charleston, South Carolina Area
+MHS Information Delivery (MID) | Systems Engineer and Technical Lead -
+Data Layer | August 2019 - Present
+Defense Intelligence Agency (DIA) Chief Information Office (CIO) | Data
+Scientist | January 2019 - July 2019
+Command Tools, Processes and Data Team | NIWC Chief Information Office |
+Business Process and Requirements Engineering | April 2018 - January 2019
+Mid-Career Leadership Program (MCLP) 15-1 Cohort - Rotation Assignment
+- Command Initiatives and Tools - Supporting Program and Project
+Management | January 2018 - April 2018
+Cooperative Engagement Capability (CEC) Network
++ Information Systems Security Engineer (ISSE) | July 2016 – December 2017
+Marine Corps Systems Command (MARCORSYSCOM), Extensible MAGTF
+C2 Systems (EMC2), PMM-111
++ Information Systems Security Manager (ISSM) | March 2016 – July 2016
++ Information Systems Security Officer (ISSO) | July 2014 – March 2016
++ Information Assurance Technician (IAT) Lead | August 2013 – July 2014
+SPAWAR Network Security Operations Center (NSOC) Computer Network
+Defense Service Provider (CNDSP):
+Page 1 of 4
++ Plans and Programs Lead | May 2013 – August 2013
++ Cyber Threat Analyst Team Lead | September 2011 – May 2013
+Network Security Systems Plus, Inc.
+Cyber Threat Analyst
+April 2011 - September 2011 (6 months)
+Charleston, South Carolina Area
+Performs daily review of cyber threat warnings, bulletins, alerts, and incident
+reporting documentation and databases produced by various military service
+cyber intelligence support activities, and their coalition and allied partners.
+Performs analysis and identify threats, vulnerabilities, or change to the level
+of risk associated with continued operations. Assess the level of threat
+associated with the circumstances and provide reporting to SPAWAR Network
+Security Operations Center (NSOC) Computer Network Defense Service
+Provider (CNDSP) management. The reported information include guidelines,
+specific information and sources used in the analysis, summary information,
+threat content, and recommendations for managing, mitigating, or avoiding the
+associated risk associated with the threat.
+Mystikal Solutions LLC
+Computer Network Defense Analyst
+October 2009 - March 2011 (1 year 6 months)
+Performs daily review of cyber threat warnings, bulletins, alerts, and incident
+reporting documentation and databases produced by various military service
+cyber intelligence support activities, and their coalition and allied partners.
+Performs analysis and identify threats, vulnerabilities, or change to the level
+of risk associated with continued operations. Assess the level of threat
+associated with the circumstances and provide reporting to SPAWAR Network
+Security Operations Center (NSOC) Computer Network Defense Service
+Provider (CNDSP) management.
+The reported information include guidelines, specific information and
+sources used in the analysis, summary information, threat content, and
+recommendations for managing, mitigating, or avoiding the associated risk
+associated with the threat.
+Parsons Corporation
+2 years
+Computer Specialist
+January 2009 - October 2009 (10 months)
+Page 2 of 4
+Provides NIPR outage support of Netscreen Security Monitor, DSN, Mail, and
+SSH servers for fault isolation and analysis.
+Interacts with customers and site administrators from various Medical Health
+Systems command locations and enters information in the appropriate
+ticketing system.
+Examines McAfee Intrushield IDS and reports any possible attacks.
+Provides available Navy Medicine Enterprise support ensuring front-end
+network health for Active Directory, Domain Controllers, Exchange Servers,
+Active Roles Server and Systems Management Server, which includes post-
+outage checks on Enterprise Domain Controllers, Front-End Exchange
+Servers, Iron-Mail Servers, Exchange Clusters, and DNS Servers.
+Provides necessary improvement features regarding job performing
+skillfulness with essential quality assertion maintenance in event log reporting
+and analysis.
+Provided support as technical writing skills in documenting and modifying
+SPAWAR Network Security Operations Center (NSOC) based Computer
+Network Defense (CND) Operations Standard Operating Procedures.
+Network Engineer
+November 2007 - January 2009 (1 year 3 months)
+Monitored security stack sites for the Defense Research and Engineering
+Network (DREN) and the Secure Defense Research and Engineering Network
+(SDREN) using Iron-View and Hyperic HQ software applications to view
+Foundry switch and Netscreen firewall activities and corresponding statistics.
+Attended to any sites whose maintenance notifications involving equipment
+maintenance, temporary outages causing brief connectivity losses, and
+contacting those sites once the maintenance window is completed to ensure
+connection to the network.
+Completed Netscreen firewall and Juniper router configuration upgrades for
+various security stack sites.
+Implemented firewall policy requests for various sites and customers who need
+to permit or block services for applications per request form documentation.
+Compiled standard operating procedures of many activities performed in the
+DREN and SDREN Network Operations Center.
+Benefitfocus
+Data Analyst
+July 2005 - May 2007 (1 year 11 months)
+Responsibilities entailed securing the information integrity given to clients who
+are health insurance carriers and groups.
+Page 3 of 4
+Scheduled and ran daily electronic extractions of membership transmissions to
+send information to health insurance carriers.
+Created and executed SQL scripts through an Oracle based software product
+called TOAD to access and generate member information from the web
+application.
+Provided research information and detailing various application issues into an
+issue-tracking database called JIRA.
+Provided support in training new hires to the policies and processes pertaining
+to the Carrier Services team.
+Education
+Charleston Southern University
+Master of Science - MS, Data Science and Analytics · (2018 - 2021)
+Charleston Southern University
+Master of Business Administration - MBA, Business Administration,
+Management and Operations · (2007 - 2009)
+Charleston Southern University
+Bachelor of Science - BS, Business Information Systems, Computer
+Science · (2001 - 2005)
+Trident Technical College
+Professional Certificate, Graphic Design/Artist · (2017 - 2017)
+Page 4 of 4

@@ -1,0 +1,93 @@
+Contact
+www.linkedin.com/in/taniarascia
+(LinkedIn)
+Top Skills
+React
+JavaScript
+Node.js
+Languages
+English (Native or Bilingual)
+Spanish (Professional Working)
+Publications
+Understanding Events in JavaScript
+Introduction to the DOM
+Working with Objects in JavaScript
+How to Make Changes to the DOM
+Walking and Traversing the DOM
+Tania Rascia
+Full Stack Software Engineer
+Chicago, Illinois
+Summary
+Tania Rascia is a Full Stack Software Developer specializing in
+modern JavaScript (ES6+), Node.js, TypeScript, React, Redux,
+Vue.js, Webpack, HTML and CSS. She also builds open-source
+projects and writes tutorials, guides, and articles on programming
+and development.
+Experience
+DAIS Technology, Inc.
+Front End Software Engineer
+August 2018 - Present (1 year 8 months)
+Chicago, IL
+I currently work as Front End Lead writing claims software for insurance
+companies. I architected a React, Node, and Express authentication platform
+with over 90% test coverage, which is used in multiple production apps.
+I also wrote an internal user management system and cross-trained the
+automation team to maintain and add new features to it. I helped write the
+Internet of Insurance in Vue.js and Hapi. I write clear documentation alongside
+my software to ensure any developer can easily understand and continue the
+project.
+DigitalOcean
+Technical Writer - JavaScript
+February 2017 - February 2020 (3 years 1 month)
+Remote
+I wrote two tutorial series for Digital Ocean – Understanding the DOM and How
+to Code in JavaScript, which encompass JavaScript, web, and programming
+fundamentals. These tutorials cover concepts ranging from datatypes and the
+DOM to prototypes and generators.
+RateYourSeats.com
+Web Developer
+January 2018 - August 2018 (8 months)
+Page 1 of 3
+Chicago, IL
+I created interactive SVGs for arenas and concert halls with JavaScript and
+PHP. I introduced Git version control to the company, and created a REST API
+to allow for data reuse across multiple clients.
+Lettuce Entertain You Restaurants
+Web Developer
+June 2015 - June 2017 (2 years 1 month)
+Chicago, IL
+I wore many hats at Lettuce Entertain You, from designer and web developer
+to taking ownership of DevOps and system administration with Amazon Web
+Services. I set up LAMP servers on EC2, load balancers, and DNS routing.
+Martin Creative
+Web Development Intern
+March 2015 - June 2015 (4 months)
+Greater Chicago Area
+Red Axle
+Contract Web Developer
+August 2014 - March 2015 (8 months)
+Chicago, IL
+Ala Carte Entertainment
+Culinary Manager
+May 2010 - March 2015 (4 years 11 months)
+Schaumburg, IL
+Select Restaurants
+Culinary Manager
+September 2013 - August 2014 (1 year)
+Buffalo Grove
+Dave & Buster's Inc.
+Banquet Chef
+November 2007 - May 2010 (2 years 7 months)
+Compass Group
+Line Cook
+January 2009 - July 2009 (7 months)
+Chicago, IL
+Page 2 of 3
+Robert Morris University
+Webmaster
+2007 - 2008 (1 year)
+Chicago, IL
+Education
+Robert Morris University - Illinois
+Bachelor of Professional Studies · (2007 - 2010)
+Page 3 of 3

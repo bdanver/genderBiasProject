@@ -1,0 +1,102 @@
+Contact
+www.linkedin.com/in/
+sandrapfuentes (LinkedIn)
+Top Skills
+Java
+Spring Boot
+Hibernate
+Languages
+Inglés (Full Professional)
+Sandra Patino Fuentes
+Software Developer
+Greater Boston Area
+Summary
+Sandra Patiño Fuentes, es un experimentado desarrollador de
+software, con más de 4 años de experiencia en las industrias de TI.
+Trabajó en Deloitte Consulting LLP como desarrollador Java para
+Virginia Case Management System Department of Social Services.
+Antes de Deloitte Consulting LLP, trabajó en BBVA Bancomer como
+desarrollador analista para el equipo de Seguridad. Antes de BBVA
+Bancomer, trabajó en GNP Seguros como desarrollador Java para
+el equipo MAAR. Antes de GNP Seguros, trabajó en Iusacell como
+desarrollador de software para el equipo de transmisión de datos.
+Ella está muy familiarizada de desarrollo de software a través de la
+metodología SCRUM y ha participado en todas las fases del ciclo
+de vida de desarrollo de software, incluyendo el análisis, diseño,
+codificación y pruebas. Ella tiene experiencia en desarrollo en Java,
+Spring MVC y Oracle PL / SQL. También tiene experiencia técnica
+en el desarrollo de aplicaciones para iPhone usando Objective-C,
+iOS SDK y aplicaciones web usando HTML, JavaScript, Ajax, Java,
+JSP, JSF, Hibernate, CSS, XML y Ruby on Rails.
+Sandra ha completado su Licenciatura en Ingeniería en Telemática
+de la Unidad Profesional Interdisciplinaria en Tecnologías
+Avanzadas) en el Instituto Politécnico Nacional.
+Especialidades:
+• Idiomas: Java, Objective-C, C, C ++, Ruby on Rails
+• Tecnologías Web: Ajax, HTML, CSS, JSP, JavaScript, XML
+• Frameworks Java: Spring MVC, JSF, Hibernate, Struts
+• Tecnologías móviles: iOS SDK
+• Base de datos: Oracle PL / SQL, MySQL, PostgreSQL PL / SQL,
+DB2
+• IDE: Eclipse, RAD, Xcode
+• Servidor: WebSphere Application Server, Apache Tomcat
+• Gestión de la Configuración: ClearCase, RTC, Tortoise
+• Control de versiones: CVS, SVN
+• Automatización de la construcción: Maven, Ant
+Page 1 of 3
+• Servicios Web: XSD, WSDL, SOAP
+Experience
+AT&T
+Analista programador
+January 2015 - August 2017 (2 years 8 months)
+Mexico City Area, Mexico
+Configuration Management -IT
+BBVA Bancomer
+Desarrollador Analista
+January 2014 - December 2014 (1 year)
+Ciudad de México y alrededores, México
+Trabajó como desarrollador analista Java para el Departamento de Seguridad,
+responsable del análisis funcional, instalación y configuración de los
+componentes para las aplicaciones FDS México PIBBE, SLOD_DR, CUG
+Googlon y OTP por SMS, con la funcionalidad correspondiente para cada una
+de las aplicaciones, seguimiento de la funcionalidad de las aplicaciones en
+servidores remotos en los cuales se alojan las aplicaciones, coordinación y
+soporte de pruebas.
+Las tecnologías utilizadas incluyen WEBSeal, JSP, HTML, Java 1.6, CSS,
+Linux.
+GNP SEGUROS
+Desarrollador Analista
+April 2013 - December 2013 (9 months)
+Ciudad de México y alrededores, México
+MAAR (Módulo de Administración de Alternativas de Rendimiento)
+Trabajó como un desarrollador de software de Java para el Departamento
+de Tesorería, responsable de análisis funcional, diseño técnico, codificación,
+pruebas y soporte. El proyecto aborda las posibilidades que GNP Seguros
+ofrece a sus clientes para mejorar las alternativas de rendimiento basados en
+los ahorros generados por la póliza que los clientes han contratado.
+El equipo sigue la metodología SCRUM que implica procesos como la revisión
+y planificación de sprints, depuración del backlog, reuniones SCRUM, estudio
+Page 2 of 3
+de usuarios y colaboración estrecha con los propietarios de productos,
+experiencia de diseño, etc.
+Las tecnologías utilizadas en el proyecto fueron Java J2EE, Servlets, Spring
+MVC 3.2, Hibernate 4, JSP, JNDI, XML, HTML, JavaScript, AJAX, WebSphere
+Application Server 7.0, DB2 9.1, XSD, WSDL, SOAP, Rational Application
+Developer y Rational Team Concert.
+Grupo Iusacell
+Desarrollador de Software
+January 2011 - June 2012 (1 year 6 months)
+Solicitudes de Ingeniería
+Trabajó como desarrollador de software para el Departamento de Ingeniería
+de Transmisión. El proyecto aborda la aplicación de un sistema capaz de
+mejorar el proceso de ingeniería de fibra óptica para las líneas de negocio de
+Iusacell. Las responsabilidades incluyeron el análisis funcional, diseño técnico,
+codificación, pruebas y soporte.
+Las tecnologías utilizadas incluyen Java J2EE 1.4, Servlets, JSF (Primer
+Caras 3), Hibernate 3, JSP, JDBC, XML, HTML, SVN, Eclipse, AJAX, Apache
+Tomcat 7 y PostgreSQL 8.
+Education
+Instituto Politécnico Nacional
+Licenciatura en Ingeniería en Telemática, Tecnología de la
+información · (2006 - 2011)
+Page 3 of 3

@@ -1,0 +1,126 @@
+Contact
+www.linkedin.com/in/jcenglish
+(LinkedIn)
+www.jasmineenglish.com
+(Personal)
+github.com/jcenglish (Portfolio)
+Top Skills
+React.js
+JavaScript
+CSS
+Languages
+Spanish (Elementary)
+English (Native or Bilingual)
+Japanese (Elementary)
+Certifications
+CompTIA A+
+Honors-Awards
+Completed Part I of IBM's Master the
+Mainframe Contest
+Completed Part I of IBM's Master the
+Mainframe Contest
+Executive Protégé
+Publications
+Given an array of integers, find the
+length of the longest increasing
+subsequence
+Jasmine English
+Software Engineer at Codecademy
+Greater New York City Area
+Summary
+I started getting into web development when I was about 12, creating
+websites for some of my favorite geeky interests. In college, I
+studied IT with a focus on system and database administration
+because I enjoyed working with data, architecture and conveying
+complex information in an easy-to-understand medium. Over time,
+programming turned out to be the part of my work that I derived the
+most enjoyment and sense of purpose out of.
+I'm currently a full stack developer (Node, Express, React, Postgres)
+with an interest in the backend, primarily, but I excel anywhere along
+the stack.
+Experience
+Codecademy
+6 months
+Software Engineer
+January 2020 - Present (2 months)
+Greater New York City Area
+Frontend Engineer Apprentice
+September 2019 - December 2019 (4 months)
+Greater New York City Area
+Self
+Freelance Web Developer, System Administrator
+February 2016 - September 2019 (3 years 8 months)
+Remote
+• Updating web content and implementing fullstack, backend and frontend
+features as needed in C#, XML, SQL, HTML, CSS and JavaScript
+• Managing network and system security for Windows 7, Windows 10, and
+Windows Server 2012 for Allegro Music Center
+• Consulting on web, SEO and IT best practices
+Page 1 of 3
+Allegro Music Center
+1 year 6 months
+System Administrator
+September 2014 - February 2016 (1 year 6 months)
+Miami/Fort Lauderdale Area
+• Delegated user, file, and backup management to the local Windows Server
+by implementing native features such as Active Directory, Group Policy, Folder
+Redirection and Windows Client Backup
+• Designed and implemented disaster recovery plan for backup and restoration
+of mission-critical workstations, applications and server using native Windows
+backup over RAID-1 and cloud storage
+• Researched, evaluated, and deployed antivirus/firewall suite for workstations
+and server
+• Automated patch management, hardware monitoring, event log capture
+and network inventory using free or native IT tools such as SpiceWorks,
+ManageEngine Desktop Central, PSTools and the command line
+• Redesigned network connections between switches and routers to improve
+security and power usage
+• Configured private and public Wi-Fi networks to separate traffic between
+customers and employees
+Web Developer
+September 2014 - February 2016 (1 year 6 months)
+Miami/Fort Lauderdale Area
+• Collaborated with graphic designer to prototype new design in PHP, later
+ported to ASP.net Web Forms for compatibility with AspDotNetStorefront e-
+commerce and CMS software
+• Applied responsive design programming techniques to present website
+across various devices
+• Converted some graphical elements (instrument sizing guides) into plain text
+and CSS
+• Built custom navigation menu from scratch with jQuery
+Sousa Bows
+Web Developer
+September 2014 - November 2015 (1 year 3 months)
+Miami/Fort Lauderdale Area
+• Collaborated with graphic designer to launch sousabows.com
+• Built site from the ground up – setting up web server, configuring DNS,
+development
+Page 2 of 3
+• Developed custom interactive experiences (navigation, carousels, overlays,
+product selection, dealer directory) using jQuery, AJAX, MySQL, Google Maps
+API and other 3rd-party plugins
+• Utilized secure PHP programming methods to validate e-mail form
+submission
+• Achieved 88/100 Google PageSpeed desktop score by implementing asset
+compression and minification, content delivery networks (CDN) and browser
+caching
+• Developed dealer locator map using MySQL, Google Maps API, and 100+
+dealers across 3 countries
+Miami-Dade County
+Web Content Analyst Intern
+January 2010 - April 2010 (4 months)
+Miami/Fort Lauderdale Area
+• Identified areas of improvement for 22 Miami­-Dade county websites using
+page analytics, user feedback and Excel PivotTables
+• Improved the navigation architecture for the Community Action Agency (CAA)
+website
+• Integrated online content and 311 knowledgebase articles for greater
+consistency and readability
+Education
+Fullstack Academy of Code
+· (2018 - 2018)
+TNTP TeachNOLA
+Middle School Mathematics · (2017 - 2017)
+Florida International University
+Bachelor of Science (B.S.), Information Technology · (2009 - 2013)
+Page 3 of 3

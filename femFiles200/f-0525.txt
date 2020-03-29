@@ -1,0 +1,82 @@
+Contact
+www.linkedin.com/in/emmakopf
+(LinkedIn)
+Top Skills
+Microsoft Office
+Java
+Python
+Languages
+English
+Spanish
+Emma Kopf
+Software Engineer at Data Intelligence Technologies, Inc.
+Arlington, Virginia
+Summary
+Experienced Software Engineer with a Top Secret Clearance w/ Poly
+currently working on full stack web application development and big
+data processing. High levels of experience in Python, Javascript,
+Golang, Elasticsearch, and AWS. Works directly with clients and has
+great communication skills and a continuous desire for growth!
+Experience
+Data Intelligence Technologies, Inc.
+Software Engineer
+August 2018 - Present (1 year 8 months)
+Work directly with clients to complete scripts and applications that fit their
+specific needs;
+Implement Agile methodology for day to day software development;
+Work with Python, Golang, Javascript, HTML/CSS, React, Linux,
+Elasticsearch, AWS;
+Projects include:
+- Creating and maintaining a web application for big data processing, allowing
+for real time searching, indexing, and retrieval of large data sets
+- Creating a REST and websocket middleware layer connecting Elasticsearch
+and UI
+University of Virginia
+2 years 10 months
+Software Development Teaching Assistant
+January 2016 - May 2018 (2 years 5 months)
+Proctor a weekly two hour lab session of 100+ students;
+Hold weekly office hours;
+Grade homework, projects, and exams;
+Assist in administration and course creation
+Research Technician
+August 2015 - May 2016 (10 months)
+Page 1 of 3
+Monitor interaction between an insulin pump and bluetooth monitor on Diabetic
+patients;
+Troubleshoot the monitors when necessary;
+Examine code for errors or missed insulin level readings;
+Alert nursing staff of sharp drops or raises of insulin levels;
+Coding4Youth Inc
+Online Course Instructor
+August 2017 - December 2017 (5 months)
+Charlottesville, Virginia
+Instruct various levels of computer science introductory courses for students in
+grades 3-12;
+Host multiple online classes of one to two students weekly;
+Courses include introductory computer animation, game design, and AP Java
+(College Board approved class)
+People Global Relocation
+Intern
+June 2017 - August 2017 (3 months)
+Madrid, Spain
+Create and manage back end database of company website using Heroku;
+Manage content and layout for the front end of the company website;
+Create and organize dossiers on homestays or flats available for rent;
+Work directly with clients through entire relocation process;
+Translate documents from English to Spanish and vice versa
+Wireless Health REU
+Undergraduate Research Assistant
+May 2016 - August 2016 (4 months)
+Charlottesville, VA
+Helped create and troubleshoot a computer vision measurement system using
+MatLab and Canon Hack Firmware, used to measure Rolls Royce jet engine
+blade fins;
+Tested the system's variability using Gage Repeatability & Reproducibility;
+Calculated data to be used as a base for future graduate students' work;
+Wrote a research paper and designed a research poster on the subject
+Education
+University of Virginia
+Page 2 of 3
+Bachelor of Science (BS), Computer Science · (2014 - 2018)
+Page 3 of 3

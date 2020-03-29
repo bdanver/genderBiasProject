@@ -1,0 +1,101 @@
+Contact
+www.linkedin.com/in/leahbelin
+(LinkedIn)
+Top Skills
+C#
+VB.NET
+SQL
+Leah Belin
+Software Developer at Homesnap
+Rockville, Maryland
+Summary
+Full stack software developer experienced in an agile environment
+and TDD practices with experience working independently as well
+as part of a team. An excellent public speaker, communicator, and
+innovator who is regularly involved in the development and local
+community.
+Experience
+Homesnap
+Software Developer
+September 2018 - Present (1 year 6 months)
+Bethesda, Maryland
+General Responsibilities
+• Implementation and maintenance of Google Ads integration
+• Implementation and maintenance of Waze Ads integration
+• Implementation of automation for large data aggregation
+VariQ
+Software Developer
+January 2016 - September 2018 (2 years 9 months)
+Rockville, MD
+General Responsibilities
+• Development and maintenance of E-verify and Save applications
+• Design and estimates for new features and maintenance projects
+• Support for department modernization efforts
+Fortigent, LLC
+Associate Software Engineer
+January 2013 - May 2015 (2 years 5 months)
+Rockville, MD
+Associate Software Developer
+General Responsibilities
+• Development in report generation system using VB and C#
+• Wrote, tested, and maintained database objects for report generation system
+Page 1 of 3
+• Development in MVC web portal code using C#, JavaScript, knockout, and
+html
+Recent Projects
+Leveraged an existing web portal text customization UI for customization of
+financial reporting pages, saving cost and time previously required by custom
+development for small text changes
+Added unit testing framework and dependency injection to legacy application
+to reduce bugs introduced to production
+Retrofitted the reporting engine for foreign language reporting, enabling
+advisors to offer reporting services to high net worth foreign speaking clients
+Added functionality to financial simulation and invoicing APIs to support
+additional risk analysis needs of a large client
+Feature development and maintenance of web portal client and server code
+Other Responsibilities
+Organized networking, professional, and community service events for the
+company as Co-Chair of Women’s Employee Resource Group
+Facilitated corporate relationship with the University of Maryland resulting in
+the attainment of two associate developers and four interns
+Served on interview committee for associate developer positions
+To improve user experience and save money on printed paper, pitched
+paperless reporting system and XAML bot based user interface for company
+innovation initiative
+ARPC
+Software Developer
+2015 - 2015 (less than a year)
+General Responsibilities
+• Development in ASP.net Web Forms application
+• Design and estimates for new features and maintenance projects
+• Extensive unit testing of Web Forms application
+Page 2 of 3
+Landauer Games
+Programmer/ Content Developer
+2011 - 2013 (2 years)
+Responsibilities and Projects
+Created and maintained a Kanban board to help organize team’s weekly
+development work
+Converted a large percentage of in game custom galaxies to use Irrlicht
+Engine framework, facilitating launch of new client.
+Added solo player missions to obtain new skills paralleling a new squad based
+skill zone
+Improved the appearance of the client landing page
+Filled in a low level content gap with an original progression zone
+Montgomery County Public Schools
+Instrumental Music Teacher
+2004 - 2012 (8 years)
+Adhered to strict deadlines to produce and lead elaborate public performances
+Collaborated with diverse teams across schools, clusters, and cities
+Used communications skills to facilitate cooperation among groups of all ages
+Brought creative elements to required curriculum
+Promoted music program by producing newsletters, programs, and lesson
+materials
+Education
+University of Maryland University College
+BA, Computer Science · (2010 - 2012)
+University of Maryland
+MA, Music Education · (2004 - 2008)
+University of Maryland
+BA, Music Education · (2004)
+Page 3 of 3

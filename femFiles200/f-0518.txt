@@ -1,0 +1,103 @@
+Contact
+www.linkedin.com/in/
+stephaniebrink (LinkedIn)
+Top Skills
+C/C++
+Vim
+Git
+Honors-Awards
+Dochterman Outstanding Junior
+Scholarship
+Outstanding New Member
+Outstanding Graduate for Computer
+Engineering
+Publications
+PaViz: A Power-Adaptive Framework
+for Optimizing Visualization
+Performance
+Exploring Tradeoffs Between Power
+and Performance for a Scientific
+Visualization Algorithm
+Patents
+Mitigating load imbalances through
+hierarchical performance balancing
+Stephanie Brink
+#HPC Computer Scientist at Lawrence Livermore National
+Laboratory
+Livermore, California
+Summary
+HPC Computer Scientist at Lawrence Livermore National Laboratory.
+Research interests are in power-constrained HPC and performance
+analysis.
+Experience
+Lawrence Livermore National Laboratory
+3 years 10 months
+Computer Scientist
+April 2019 - Present (1 year)
+Livermore Graduate Scholar
+June 2016 - March 2019 (2 years 10 months)
+Intel Corporation
+HPC Power Management Researcher
+July 2015 - June 2016 (1 year)
+- Prototyped a potential power management feature of future x86 processors
+that will improve application performance by leveraging fine-grained power
+management capabilities within a node.
+- Patent filed on minimizing load imbalances with hierarchical performance
+rebalancing.
+Intel Corporation
+Software Tools Development Intern for Energy and Power Analysis
+June 2014 - September 2014 (4 months)
+Hillsboro, OR
+Used C++ and XML to provide users with a detailed report providing insights
+into
+energy and power usage of components in mobile devices.
+Lawrence Livermore National Laboratory
+Computation Student Intern
+Page 1 of 3
+May 2013 - August 2013 (4 months)
+- Designed a load balanced synthetic Jacobi benchmark in C and implemented
+it with OpenMP and MPI
+- Wrote a PMPI noise measurement and noise injector tool that intercepts MPI
+calls, records its duration, and inserts a user defined noise distribution
+- Built a noise simulator and replay engine in R, allowing simulation of noise for
+proposed exascale architectures
+Lawrence Livermore National Laboratory
+Computation Student Intern
+May 2012 - November 2012 (7 months)
+Livermore, CA
+- Researched a new programming language and evaluating its possible
+implementation on LLNL computers
+- Programmed High Performance Computing Challenge benchmarks in Chapel
+and running experiments
+- Discovered a bug in the current version of the Chapel compiler dealing with
+interpretation of a single-tuple element or an arrays
+University of the Pacific's Center for Community Involvement
+Development Officer
+August 2011 - May 2012 (10 months)
+Stockton, CA
+- Promoted to Executive Board serving as a resource for other student leaders
+- Researched and wrote funding requests through grant writing, planned,
+marketed, and executed several fundraising endeavors for the Center for
+Community Involvement and its individual programs
+- Prepared in-kind donation letters and solicited donations from over 100
+businesses in Stockton
+University of the Pacific's Center for Community Involvement
+Reach Out Coordinator
+August 2009 - May 2011 (1 year 10 months)
+Stockton, CA
+- Coordinated and monitored over 300 active volunteers through online data
+management system
+- Planned a celebration to recognize volunteers for dedication to helping the
+community
+- Created an efficient and well-rounded manner of reporting service hours
+recorded by active volunteers
+Page 2 of 3
+- Established and carried out the recruiting and hiring of a co-worker
+Education
+University of Oregon
+Doctor of Philosophy (Ph.D.), Computer Science · (2013 - 2019)
+University of Oregon
+Master of Science - MS, Computer Science · (2013 - 2016)
+University of the Pacific
+Bachelor of Science (B.S.), Computer Engineering · (2008 - 2013)
+Page 3 of 3

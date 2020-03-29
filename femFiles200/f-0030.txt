@@ -1,0 +1,75 @@
+Contact
+www.linkedin.com/in/nupur-goyal-
+a4892230 (LinkedIn)
+Top Skills
+Core Java
+Java Enterprise Edition
+Eclipse
+Nupur Goyal
+Staff Software Engineer at Slack
+San Francisco Bay Area
+Experience
+Slack
+Staff Software Engineer
+July 2018 - Present (1 year 8 months)
+Pandora
+Staff Software Engineer
+March 2014 - June 2018 (4 years 4 months)
+Oakland, CA
+• Established myself as a technical leader on the ad buying and campaign
+management systems that are responsible for the lifecycle of an ad campaign
+from planning to billing by leading and coordinating engineering efforts and
+mentoring several engineers. These systems are core for bringing in $1B+ in
+ad revenue
+• Broke out the business logic responsible for targeting audience segments
+into its own JSON-RPC web service (Python + Django)
+- Designed extensible and scalable data models
+- Set up alerts and monitoring for production support
+- Came up with a release plan to transition usage the new service.
+- Coordinated work with QE and Analytics to transition complex and crucial
+workflows leading to a smooth production launch
+• Delivered on a time-sensitive project to migrate all video ads and associated
+creatives to the video VAST ad format (Python + Django + Celery)
+- Changed existing workflows to consume VAST DFP (Google’s ad server) API
+- Developed asynchronous tasks to re-push all video ads to DFP
+- Coordinated end to end development and testing with Mobile, Web, Ad
+Server Mediation, Analytics, Product, and QE teams
+• Developed Celery tasks using in-built workflows for large data backfills
+• Continually took the opportunity to refactor legacy codebase while working on
+projects and bugs
+• Enabled creating, transacting on and billing viewable lines to measure an
+ad's 'viewable' metrics.
+Page 1 of 2
+• Contributed to the Viewability OM SDK project to come up with new industry-
+wide third party viewability tag standards
+• Experience in writing Django REST APIs with Swagger documentation
+eBay
+Software Engineer
+July 2011 - February 2014 (2 years 8 months)
+San Jose, CA
+ListAd France Project:
+Developed features on List Ad page for ebay.fr
+Contributed to important production bugfixes
+Geo Expansion Project:
+Worked in the Geo Expansion Platform/Services team
+Responsible for writing scalable platform code for user geo location detection
+and providing API for downstream domain logic
+Wrote REST service using JAX-RS with Jersey for geo location detection
+Developed and maintained Jersey client jars for external teams
+Provided continual support for multiple internal ebay platforms
+Item Title Translation Project:
+Contributed to end to end development in the Item Title Translation project
+Wrote a consumer to get real time event information of newly listed, re-listed or
+revised items on ebay.com
+Contributed to writing a REST service using JAX-RS with Jersey for translation
+and caching of item specifics to different languages in a MongoDB collection
+Provided service client apis to external teams
+Cisco
+Software Engineer Intern
+May 2010 - July 2010 (3 months)
+Worked on quality metrics (code coverage and complexity) for the WSG
+project.
+Education
+University of California, Berkeley
+B.S, Electrical Engineering Computer Science · (2007 - 2011)
+Page 2 of 2

@@ -1,0 +1,60 @@
+Contact
+www.linkedin.com/in/shreya-
+sawant-445a08135 (LinkedIn)
+Top Skills
+Java
+JavaScript
+HTML
+Shreya Sawant
+Software Engineer at GE Healthcare
+New York, New York
+Summary
+Software Engineer with a demonstrated history of working in start-
+up and non-profit organization management industry. Skilled in Java,
+JavaScript, Angular 5, Android, SQL, Php, C, HTML 5, CSS 3 and
+Bootstrap. Strong professional with a Master’s Degree focused in
+Computer Science from New York Institute of Technology.
+Experience
+GE Healthcare
+Software Engineer
+May 2019 - Present (11 months)
+Chicago, IL
+Sunbird Software
+Software Engineer Intern
+August 2018 - January 2019 (6 months)
+New Jersey
+• Working on migrating the application from bower using npm task manager
+and Webpack.
+• Modularizing and bundling the Angular application and switching the build
+tool from Grunt using Webpack.
+• Involved in discussions to improve product across teams and ensuring
+delivery through all stages of agile development lifecycle and participate in
+sprint review cycles.
+Girls Inc.
+Volunteer Web developer
+April 2017 - September 2017 (6 months)
+Greater New York City Area
+• Designed website for an NGO that empowers and inspires girls by providing
+educational programs.
+• Designed WordPress themes for the website, developed plugin and
+performed Search Engine Optimization.
+• Implemented using HTML, CSS, PHP, JavaScript, jQuery.
+Page 1 of 2
+G10 Consultancy
+Software Developer Intern
+June 2017 - August 2017 (3 months)
+Mumbai Area, India
+• Developed an Android app that involved parsing the JSON data into readable
+format.
+• Worked with web APIs / server-side scripting and handled Python API’s in
+real time.
+• Maintained user sessions using cookies via different HTTP headers.
+• Worked with threads using AsyncTask and involved in discussions to improve
+product across teams and ensured delivery through all stages of development
+lifecycle.
+Education
+New York Institute of Technology
+Master’s Degree, Computer Science · (2016 - 2018)
+St. Francis Institute Of Technology
+Bachelor’s Degree, Computer Engineering · (2012 - 2016)
+Page 2 of 2

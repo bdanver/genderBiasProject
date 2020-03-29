@@ -1,0 +1,83 @@
+Contact
+www.linkedin.com/in/nicole-
+maguire-3a2314104 (LinkedIn)
+Top Skills
+Java
+Programming
+Software Engineering
+Languages
+English (Native or Bilingual)
+Honors-Awards
+James Madison University Dean's
+List
+James Madison University
+Scholarship to Attend the Grace
+Hopper Celebration for Women in
+Computing
+Nicole Maguire
+Software Engineer at Facebook
+Menlo Park, California
+Summary
+I am currently a backend engineer at Facebook. I previously worked
+as an iOS engineer at Facebook. I graduated May 2018. I have
+previous experience as a software engineer in aeronautics for NASA,
+a mobile developer for Instagram/Facebook, and experience as
+an iOS developer at Apple. I am interested in mobile development,
+wearable technology, and robotics.
+Experience
+Facebook
+Software Engineer
+May 2018 - Present (1 year 10 months)
+Menlo Park, California
+iOS engineer working on the Youth team. Previously worked on a growth
+team within youth. Worked on rapid prototyping of iOS apps for research
+developments. Led the team to get an app out for research which involved
+software development, testing the app, deploying the app, and working with
+XFN to get the app to their specifications.
+Apple
+Software Engineer Internship
+May 2017 - August 2017 (4 months)
+Cupertino
+I worked in Apple’s IS&T as a Software Engineer and iOS Developer. I
+created a new iMessage Extension, starting from an empty code base and
+building a fully functional app. I developed in Swift and used services like
+Core Data, Location Services, and HTTP requests to build the internal layers
+of the iMessage Extension. For the User Interface, I designed the app both
+programmatically as well as using Xcode’s Interface Builder.
+Facebook
+Software Engineer Internship
+January 2017 - April 2017 (4 months)
+Menlo Park, California
+Page 1 of 2
+Software Engineering intern on the Instagram growth team. I worked as an
+iOS engineer for registration, new user experience, and notifications for the
+Instagram app. My work duties included writing code, testing code, setting up
+experiments, and collaborating with other team members.
+James Madison University
+Undergraduate Research Assistant
+August 2016 - December 2016 (5 months)
+Harrisonburg, Virginia
+My research focuses on writing a software language for creating circle-packing
+algorithms for aperiodic tilings.
+NASA - National Aeronautics and Space Administration
+8 months
+Software Engineering Intern
+May 2016 - August 2016 (4 months)
+Kennedy Space Center, Florida
+I was competitively selected to return to Kennedy Space Center (KSC) for
+a second internship. I enhance and implement new functionality for a user
+dashboard for KSC’s firing rooms for the manned space flight program. My
+tasks include writing software, debugging, troubleshooting, and validating/
+verifying java source code.
+Software Engineering Intern
+January 2016 - May 2016 (5 months)
+Kennedy Space Center, Florida
+My main task was to automate software testing. This included unit testing,
+verification, and integration, debugging/troubleshooting, implementing and
+fixing jUnit tests, executing tests, analyzing automated tests output, and
+enhancing an automated test framework. I designed and created a software
+called IMPERIO used for image replication and emulation.
+Education
+James Madison University
+Bachelor's degree, Computer Science · (2014 - 2018)
+Page 2 of 2

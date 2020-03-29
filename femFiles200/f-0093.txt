@@ -1,0 +1,272 @@
+Contact
+www.linkedin.com/in/leahhoefling
+(LinkedIn)
+github.com/leahhoefling/ (Portfolio)
+leahhoefling.github.io/ (Personal)
+Top Skills
+Social Media
+Public Speaking
+Event Planning
+Languages
+English (Native or Bilingual)
+German (Elementary)
+Honors-Awards
+Recipient of Trustee Scholarship
+University of Virginia: Jefferson Book
+Award
+College of Business Outstanding
+Marketing Student
+High Achievement in BSG Project
+for Business Policy and Strategy
+Capstone Course
+Who's Who Among Students
+in American Universities and
+Colleges®
+Publications
+Student Experiences with the Syrian
+Refugee Migration in Europe
+The Walking Guys Return Home
+Leah Hoefling
+Software Developer at Tennessee Comptroller of the Treasury
+Nashville, Tennessee
+Summary
+In 2016, I was a bright-eyed, recent college grad who had just landed
+a Social Media Customer Experience position at one of my dream
+companies, Lyft. It was my first step out of the safe nest of college
+and internships and into the tech world. During college, I dove deep
+into the world of Digital Marketing, learning a variety of skills such
+as Public Speaking, Social Media Strategy, Digital Photography,
+WordPress, Google Analytics, Facebook Ads, Google Adwords,
+Spotify Analytics Strategy, and more. I was excited to take these
+skills and put them to use in my role at Lyft.
+During my time at Lyft, I was able to learn more of the depths of the
+tech industry and the different roles required to make an excellent
+product. Because the Social Media Department is on the "front
+lines", in my role, I was constantly working with Software Engineers,
+Product Managers, Voice of Customer Specialists, and Branding
+Managers. After being in constant communication with Engineering
+and Product, that side of the tech industry started piquing my interest
+because of how much creativity, strategy, and innovation went into
+the product.
+From then on, I worked to integrate my Social Media role in with
+Engineering and Product by adding on additional responsibilities
+such as organizing Product Feedback, reporting major bugs
+through JIRA, and working with Engineering on the Lyft + Facebook
+Messenger integration.
+Eventually, I decided to take the exciting leap towards a full-time
+role as a Web Developer. I enrolled at Nashville Software School
+in the full-time Web Developer Bootcamp in order to gain the skills
+necessary to join a development team as a Junior Developer.
+After graduating in November 2018, I joined Nashville Software
+School as a Junior Instructor, and now I get to pour into the lives of
+students who will impact Nashville's tech scene.
+Page 1 of 7
+Experience
+Tennessee Comptroller of the Treasury
+Software Developer
+March 2020 - Present (1 month)
+Nashville, Tennessee
+Nashville Software School
+1 year 11 months
+Junior Instructor
+December 2018 - March 2020 (1 year 4 months)
+Greater Nashville Area, TN
+• 6 months teaching JavaScript, React, and introductory software
+development concepts, 6 months teaching C#, .Net Core, and SQL Server,
+and 3 months teaching Python, Django, Django REST Framework, and SQLite
+• Helped develop and write a new frontend curriculum that provided more
+context in the form of narrative to teach beginning students the fundamentals
+of HTML, CSS, & JavaScript; saw students grasping the concepts of loops,
+conditionals, and modular code at faster paces than the previous curriculum
+• Taught a variety of lessons on topics: SQL, fundamentals of JavaScriptand
+C#, ERD’s, Github, Debugging, basics of the React Framework, and backend
+data structures
+• Acted as a product owner/scrum master by teaching Agile Methodologies,
+running sprint planning ceremonies, daily standups, clarifying product
+requirements, and performing code reviews/retros at the end of each sprint
+• Recognized for clear communication, relatable and diplomatic leadership
+skills in the classroom and on the Instructional Team, and dedication to
+mentoring students through the program
+Junior Full Stack Developer
+May 2018 - November 2018 (7 months)
+Greater Nashville Area, TN
+Rigorous full-time software development bootcamp that concentrates on
+full stack development essentials and problem solving. The final half of
+the program is executed in a simulated company environment with Scrum
+methodology.
+• Hands on application of OOP fundamentals through group and individual
+projects reflecting real world business problems
+Page 2 of 7
+• Held position as the one group project’s “product manager” to ensure the
+following of guidelines, the project was on track, and that the team was
+communicating efficiently
+• Source code version control with Git/GitHub
+• Project management/tracking with Trello and GitHub Projects & Issue
+Tracking
+• JavaScript fundamentals leveraging DRY, modular, readable code and
+reusable components
+• Built browser-based single page applications using React, HTML, CSS and
+jQuery
+• Task Automation with Grunt: Linting with ESLint, module bundling with
+Browserify
+• Styled applications with CSS Frameworks, Bootstrap and Bulma, and
+personally customized design
+• Deployed applications through Firebase, GitHub Pages, Heroku and Azure
+• Leveraged VirtualBox for virtualizing a Windows environment
+• Learned unit testing to write testing suites for code
+• Application design through white boarding dependencies and building
+ERD’s
+• Created and modified database design/content using SQL, ADO.NET, and
+ORM tooling, including exposure and experience with migrations
+• Created RESTful APIs with C#/.NET using WebAPI
+• Leveraged Razor for creating and editing MVC applications
+Link to my Front-End project built in ReactJS:
+https://github.com/leahgwin/GroupTravelApp
+Good Grit Magazine
+Contributing Writer
+October 2015 - January 2019 (3 years 4 months)
+Birmingham, Alabama Area
+Freelance writer for Good Grit to have multiple pieces featured in issues.
+Assigned topics as well as pitched ideas in meetings with magazine editors. A
+few digital versions of pieces are linked below.
+Inflammo LLC
+Brand Ambassador
+March 2017 - May 2018 (1 year 3 months)
+Greater Nashville Area, TN
+Page 3 of 7
+In this role, at this startup company, I wore many hats, which taught me how
+to balance a variety of projects at once, as well as teach myself news skills
+required to help the company succeed.
+Project Management
+-A large part of my role at Inflammo involved redoing the company's website
+UX and strategy. I managed this project by working with a Web Design agency
+to incorporate Inflammo's new branding guide, an inbound marketing strategy,
+and new UX. Through this project, I integrated the UX with our new inbound
+funnel strategy, and worked on ways the website design could lead visitors to
+conversion. I also contributed to writing the copy for the pages of the website,
+as well as writing the script and planning the vision for the Animated Explainer
+Video.
+Marketing and Branding
+-The Marketing and Branding side of my role included writing content for the
+blog, scheduling social media, growing the business's following on Facebook/
+Instagram/ Twitter/ LinkedIn, partnering with other local companies to host
+lunch and learns, managing the Google Analytics for our website, producing
+email blasts, and planning a strategy for engaging with the Nashville startup
+community.
+Sales Development and Client Happiness
+-I was able to build out the company's first CRM platform. I tracked the
+potential clients and current clients through the CRM in order to ensure
+organization, consistent communication, and data tracking.
+-Planned and executed ways Inflammo could go above and beyond for its
+clients, such as baseball games, gifts, cookie deliveries, personalized post
+cards, and gifts for company milestones. These strategies helped maintain
+retention of the current clients as well as turn them into evangelists for the
+business.
+Internal Engagement
+-Planned multiple outings and get togethers for the employees of Inflammo in
+order to build culture and create a close team dynamic.
+Country Music Association (CMA)
+Marketing Photo Editor
+June 2014 - November 2017 (3 years 6 months)
+Greater Nashville Area
+Page 4 of 7
+Hired to work during the CMA festivals and award shows to process, edit,
+and select photos to be used for CMA’s social media marketing and website.
+Worked efficiently under high pressure and time sensitivity in an active, event-
+marketing atmosphere.
+Lyft
+Social Media Associate
+June 2016 - March 2017 (10 months)
+Greater Nashville Area, TN
+This role represents Lyft’s voice on social media through Facebook,
+Twitter, and other platforms. It involves exercising impeccable judgment
+as Lyft's representative both internally and to the public. The role works
+cross-functionally within Lyft with Partnerships, Product, Marketing, Legal,
+Communications, Engineering, Press, and Voice of Customer to ensure a
+cohesive voice of support and improve the Lyft product.
+Through this role, I was able to support our drivers and passengers with the
+use of the app while responding to incoming messages and producing content
+for the social channels.
+On this team, I also took on additional responsibilities such as planning team
+outings, onboarding new Social Media team members, and organizing Product
+feedback.
+Moon River Music Festival
+Social Media Specialist
+October 2016 - October 2016 (1 month)
+Joined the Moon River Music Festival and Good Time Inc. marketing team
+for the week of the festival to participate in producing content for all social
+channels. This involved live Instagram and Snapchat stories; content for
+Facebook, Twitter, and Instagram; and engaging with customers through each
+channel.
+Universal Music Group
+Digital Marketing and Data Analytics Streaming Intern
+January 2016 - May 2016 (5 months)
+Greater Nashville Area, TN
+• Pulled data weekly from Apple Radio to analyze the streaming algorithm
+• Took part in the plan and action behind Shawn Mendes reaching 1 billion
+streams on Spotify
+• Contributed to the branding and strategy behind the global Digster brand
+Page 5 of 7
+• Found creative ways to connect with playlisters' over social media to grow
+Universal's market share
+• In-depth competitive research analysis
+• Creating Facebook tour ads for US and UK tour legs for clients
+• Update Digster/ Universal Music's Spotify playlists each week
+Chadwick Cannon Agency
+Social Media Marketing Intern
+September 2015 - December 2015 (4 months)
+Worked in a start-up environment at CCA learning about branding, email, and
+inbound marketing approaches. Scheduled social media posts through Buffer,
+Facebook, LinkedIn, Pinterest, and Twitter for CCA's clients.
+The Walking Guys
+Artist Manager and Director of Marketing
+May 2015 - November 2015 (7 months)
+Managed The Walking Guys band as they physically walked from Portland,
+Maine to Nashville, Tennessee. They played over 60 shows along the way
+and depended on the hospitality of strangers for many meals, lodging, and
+encouragement.
+I managed the branding, marketing, public relations, publicity, and day
+planning for the group.
+-Grew social media channels with advertising and grass roots strategies from 0
+following to over 4,000 followers.
+-Executed the branding of the name, logo, voice, and style of the band.
+-Managed the PR side of the band when working with large sponsorships such
+as Swiftwick, Saucony, and Fleet Feet.
+-Had constant communication with band on the scheduling of shows, travel,
+and day-to-day activities.
+Moon River Music Festival
+Social Media Strategist
+April 2015 - August 2015 (5 months)
+-Designed and implemented social media calendars and strategies for
+Facebook, Twitter, Instagram, Snapchat, Pinterest, and Spotify to promote a
+music festival with 5,000+ attendees.
+-Increased ticket sales from previous year by 140%.
+-Provided constant customer service leading up to and during the festival
+through Facebook, Instagram, Twitter, and Snapchat.
+Page 6 of 7
+Good Time Inc
+Digital Marketing Intern
+January 2015 - August 2015 (8 months)
+Worked on all digital marketing elements for clients including: Facebook Ads,
+Google Analytics, Bandcamp, Audiam, Spotify, Youtube, MailChimp, Twitter,
+Instagram, Snapchat, Pinterest, etc.
+Lipscomb University
+Admissions Recruiter Assistant to Director of Undergraduate
+Admissions
+September 2012 - May 2015 (2 years 9 months)
+Recruited prospective students from around the world as a tour guide and
+student recruiter assistant.
+Cross Point Community Church
+Intern
+January 2013 - May 2013 (5 months)
+Interned under Creative department and assisted in all production aspects on
+Sunday mornings as well as managing and building social media platforms.
+Assisted Missions department with planning, organizing, and preparing Dream
+Center campus as well as over 20 mission trips.
+Education
+Nashville Software School
+Web Development · (2018 - 2018)
+Lipscomb University
+Bachelor's Degree, Digital Marketing and International
+Business · (2012 - 2016)
+Page 7 of 7

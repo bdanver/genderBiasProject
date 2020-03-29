@@ -1,0 +1,137 @@
+Contact
+www.linkedin.com/in/priya-
+shonti-12147213b (LinkedIn)
+Top Skills
+C++
+C
+Java
+Certifications
+MuleSoft Certified Developer - Level
+1 (Mule4)
+Priya Shonti
+MuleSoft Certified Developer | Mulesoft Developer at Mountain State
+Software Solutions
+Chicago, Illinois
+Summary
+• 3 years of experience in software development and 2 years of
+hands on experience in MULE ESB and Enterprise Application
+Integration (EAI).
+• Strong integration experience using Mule ESB with Connectors,
+transformations using dataweave and building flows using Anypoint
+Studio
+• API management and deployment on both flavors of Anypoint
+Platform: On Premise and CloudHub.
+• Expertise in configuring APIs, proxy endpoints, API Portals and
+API analytics based on technical specifications with MuleSoft API
+manager.
+• Experience in Service Oriented Architecture (SOA) in building
+SOAP web services as well as implementing REST services using
+design-first approach with RAML
+• Expertise in building event-driven processes using message-broker
+RabbitMQ and implementing fault-tolerant applications within flows
+• Familiar working with various Mule runtime versions: 3.8.x and
+3.9.x
+• Adept at working with source control management tools - Bitbucket
+and GitHub.
+• Exposure to working with project and issue management tools like
+JIRA in Agile project lifecycle.
+• Proficient in requirements gathering, design and development of
+integrations and providing testing support.
+Experience
+Randstad USA
+Software developer
+January 2020 - Present (2 months)
+Mountain State Software Solutions (MS³ )
+Software Developer
+Page 1 of 4
+August 2017 - December 2019 (2 years 5 months)
+Ranson, WestVirginia
+• Worked closely with functional leads and project managers to understand the
+partner integration requirements.
+• Created design document specifications by analyzing functional and non-
+functional requirements.
+• Designed and documented REST APIs using RAML in design center,
+followed best practices to publish them to Anypoint Exchange.
+• Leveraged various Mule connectors of diverse protocols such as AMQP,
+database and HTTP to build integration flows.
+• Deployed applications to on-premise servers and CloudHub by setting up the
+proxy applications with whitelisting and Client Id enforcement policies.
+• Experience in setting up periodic jobs and alerts in JAMS scheduler to
+monitor the queues in RabbitMQ.
+• Hands on experience on developing logging framework using KIBANA with
+ELK search.
+• Used Amazon S3 connector to create and delete the objects from S3 bucket
+as a part of integration usage.
+• Worked on CSV and JSON data and Mapped data from different formats like
+CSV to JSON using DataWeave.
+• Developed application to accept the response from cloud ERP and send the
+status emails to users using SMTP Connector.
+• Implemented catch exception strategy to handle various errors, exceptions
+and push the error messages to the logging database using Amazon SQS
+queues.
+• Used google developers console to create the new project and generate
+the ClientID, client secret and token URL’s used for setting up Oauth 2.0
+authentication to generate the secret token.
+• Created MuleSoft API to retrieve, create new and delete google enterprise
+user accounts and assigned to appropriate groups.
+• Configured GSuite using Oauth2.0 authentication using HTTP requestor with
+appropriate google scopes.
+• Good knowledge on Google Oauth 2.0 playground to enable the API’s,
+consume them and exchange the tokens.
+• Responsible for Migration of API's from 3.7.x to 3.8.5 and validated the APIs.
+Softhq
+Programmer analyst
+March 2017 - July 2017 (5 months)
+Greater San Diego Area
+Page 2 of 4
+Involved in Requirement Gathering, analysis, design and development of the
+project. Used Mule ESB in designing the application as a middleware between
+the third-party system and the customer side system.
+• My responsibilities involve with integrations using connectors such as
+Database, HTTP, and File Connectors. Hands on work in MuleSoft Expression
+Language (MEL) to access payload data, properties and variable of Mule
+Message Flow and using Mule Connectors like FILE, SFTP.
+• Extensively worked on Workday to create RAAS reports, web service
+enablement etc.
+• Used many Mule based components/Scopes like Async, Scatter Gather,
+Splitter gather, Resequencer, Message Enricher, For-Each, Choice etc.
+• Used Data Weave for data transformations and data validations within flows
+& sub flows.
+• Experience in creating RAML file using Mulesoft API definition. Experience
+in testing REST API’S using Postman tool. Experience in creating SLA tiers,
+policies for proxy application.
+Intense Technologies
+Software Developer
+November 2014 - June 2015 (8 months)
+Hyderabad Area, India
+• Mid Marks Analysis system is an analyzing system which mainly concerns
+with analyzing of student marks in an educational institution that deals with
+assigning marks to the students.
+• Developed code for the web pages and web application using My Eclipse
+Software (Java IDE, HTML, and JavaScript).
+• Participated in the designing and developing of UI Screens using JSP 1.2,
+JavaScript and HTML/XHTML.
+• Worked with the real-time data taking into consideration of student marks
+from my major at the university.
+• Represented the raw data in bar graphs and pie diagrams. Analysis &amp;
+study of the new enhancements and guiding the team on the requirements.
+Electronics Corporation of India Limited (ECIL), Department of
+Atomic Energy, Government of India.
+Software Developer
+June 2014 - October 2014 (5 months)
+Hyderabad Area, India
+Page 3 of 4
+This project is a management system where the task management mainly
+concerns with the workflow management in the organization that deals with the
+assigning tasks to the subordinates.
+Worked on the front-end of the application and was responsible for designing
+the web pages for all the associated users using NetBeans.
+Designed UML diagrams based on the requirements. Established the
+connection between web pages and database using Java. Worked on backend
+application to store and retrieve data.
+Education
+University of Illinois Springfield
+Master's degree, Computer Science · (2015 - 2016)
+Gitam University, Hyderabad
+Bachelor's degree, Information Technology · (2011 - 2015)
+Page 4 of 4

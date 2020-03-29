@@ -1,0 +1,61 @@
+Contact
+www.linkedin.com/in/emma-
+lin-60b3158a (LinkedIn)
+Top Skills
+Cloud Computing
+Distributed Systems
+Java
+Languages
+English (Full Professional)
+Chinese (Native or Bilingual)
+Emma Lin
+Software Engineer at Facebook
+Austin, Texas
+Summary
+A senior software architect and technical lead with deep expertise in
+security, virtualization, containerization, cloud computing, kubernets,
+and big data.
+Specialties: Container, Kubernetes, Cloud, Distributed Systems, Big
+Data
+Experience
+Facebook
+Software Engineer
+February 2020 - Present (2 months)
+Greater Seattle Area
+VMware
+9 years 1 month
+Staff II Software Engineer
+March 2016 - Present (4 years 1 month)
+Austin, Texas Area
+Tech lead of VMware Kubernetes solution, PKS, which is VMware enterprise
+kubernetes solution.
+Tech lead of VMware Cloud solution, VMC, which is VMware cloud solution on
+AWS.
+Staff II Software Engineer
+July 2013 - November 2017 (4 years 5 months)
+Beijing City, China
+Tech lead of vSphere Integrated Containers & Openstack on Photon platform.
+Tech lead of Big Data extensions
+Sr. MTS
+January 2012 - July 2013 (1 year 7 months)
+Key developer of VMware Big Data Extension, focused on virtualization and
+infrastructure managment
+Page 1 of 2
+Sr. MTS
+March 2011 - January 2012 (11 months)
+Beijing, China
+VMware Data Director development and security enhancement
+Oracle
+7 years 1 month
+Principal Software Engineer
+May 2007 - March 2011 (3 years 11 months)
+Technical lead of OES enterprise securty entitlement system development
+Software Engineer
+March 2004 - May 2007 (3 years 3 months)
+BEA enterprise security system development
+Education
+NORTHERN JIAOTONG UNIVERSITY
+Master's Degree, Computer and Information Sciences and Support Services
+Nankai University
+Bachelor's Degree, Computer Science
+Page 2 of 2

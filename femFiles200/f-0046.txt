@@ -1,0 +1,263 @@
+Contact
+www.linkedin.com/in/blondiebytes
+(LinkedIn)
+bit.ly (Other)
+blondiebytes.github.io (Personal)
+medium.com/@blondiebytes
+(Other)
+Top Skills
+Java
+Scheme
+Python
+Languages
+English (Native or Bilingual)
+French (Limited Working)
+Spanish (Limited Working)
+Certifications
+Learning Terraform
+Learning Amazon Web Services
+(AWS) for Developers
+Honors-Awards
+Target Case Study 1st Place Winner
+| Wishbone Chatbot
+Quip Diversity Scholarship
+Target Diversity Leadership
+Symposium Scholar
+Tapia 2016 Scholarship
+NCWIT Collegiate Award (Honorable
+Mention)
+Kathryn Hodge
+Software Developer at Comcast NBCUniversal
+Greater Philadelphia Area
+Summary
+Kathryn Hodge works with Comcast NBCUniversal as a Software
+Developer in the MediaTech program.
+She also runs a YouTube channel that has technical programming
+tutorials for people wanting to learn how to code. In 2016, she
+launched a 30 Days of Code initiative with HackerRank, a start-up
+that creates coding challenges and created thirty videos with topics
+ranging from variables to data structures all the way up to testing
+code. Each video had a HackerRank challenge associated with it
+and the series continues to be featured on the HackerRank website
+with over 5 million code submissions to date and over 2 million views
+on her channel.
+Before coming to NBCUniversal, she worked for three years as a
+computer science teaching assistant and created a course on Python
+3 Standard Libraries for Lynda.com. She is very interested in the
+intersection of media, entertainment, and technology and is focused
+on building software that creates immersive experiences for viewers.
+Experience
+Comcast NBCUniversal
+3 years 10 months
+Software Developer II, xFi Platform Peace of Mind (Parental Controls)
+August 2019 - Present (7 months)
+Greater Philadelphia Area
+- Migrated our cloud infrastructure from Open Stack to AWS to make our API
+more scalable and reliable.
+- Migrated our build-and-deploy pipeline from Jenkins to Concourse to make
+our deployments more seamless.
+Cyber Security Analyst in Identity and Access Management (MediaTech
+Associate)
+November 2018 - August 2019 (10 months)
+Page 1 of 7
+Universal City, CA
+- Designed and developed an internal visualization dashboard for
+CyberSecurity to monitor service, downtime, and impact for PAM, IDM,
+Authentication, and Directory services.
+- Revamped the design and integration of the internal Single Sign On pages
+used across all of NBCUniversal.
+Project Manager in Emerging Technology (MediaTech Associate)
+March 2018 - November 2018 (9 months)
+New York, NY
+- Investigated, tested, and integrated the YouTube Player as an alternative
+player for our cable brands (Syfy, E!, Bravo, etc).
+- Created a Digital Footprint system that encapsulates vendors NBCUniversal
+uses in order to encourage communication between the brands, consolidate
+vendors, and help the sourcing team negotiate more cost-effective vendor
+contracts.
+- Developed augmented reality features for Universal Hollywood’s Halloween
+Horror Nights 2018 app.
+- Built a Java automation tool for leadership that makes employee directory
+data more accessible.
+- Pitched, developed, and initiated a new process for recruiting and
+interviewing candidates for the NBCUniversal Media Tech software
+development internship and associate programs.
+Software Developer in Emerging Technology (MediaTech Associate)
+January 2017 - March 2018 (1 year 3 months)
+Englewood Cliffs, NJ
+- Developed and produced entertaining and informative public-facing products
+for Google Assistant and Amazon Alexa.
+- Spearheaded the installation of the Immersive Lab in 30 Rock, designing and
+developing several VR/AR experiences.
+- Led development of a system that uses machine learning and NFC tags to
+produce more accurate wait times for Parks.
+- Built VR/AR prototypes for confidential projects with Universal Creative and
+Entertainment teams at Parks.
+- Scripted, coordinated, and led technology tours for NBCUniversal Ad Sales
+clients at the CES 2018.
+- Collaborated with NBC Sports’ Winter Olympics production teams on several
+projects including the development of the capture-stitch-composite-distribution
+pipeline for 360 Video content. Also worked in partnership with CNBC‘s Secret
+Lives of the Super Rich and Adventure Capitalist.
+Page 2 of 7
+- Managed ground-up development of several Media Labs initiatives and led
+daily stand-ups.
+- Served as a key contributor in several NBCUniversal internal and external
+hackathons, including but not limited to, mentoring, organizing, and
+participating.
+Software Developer Intern in Emerging Technology (MediaTech Intern)
+May 2016 - January 2017 (9 months)
+Englewood Cliffs, NJ
+- Worked with machine learning and bots to create a prototype content delivery
+application with NBCU content as a part of Operations and Technology.
+- Consulted and evaluated different vendors that help automate processes at
+NBC News.
+- Developed an add-on that will help merge NBCUniversal content into
+messaging applications.
+LinkedIn
+Author
+August 2016 - Present (3 years 7 months)
+Making effective and engaging online training content for beginner to
+advanced programmers.
+Courses:
+- Learning Java
+- Learning the Python 3 Standard Library
+- Nail Your Java Interview
+- Programming Foundations: Data Structures
+- Debugging in C#
+- Getting Started with Technology: Think Like an Engineer
+- First Look: Java 10 and Java 11
+YouTube
+Content Creator
+June 2015 - Present (4 years 9 months)
+New York, NY
+Creating, filming, editing, and uploading programming tutorials onto the
+blondiebytes YouTube Channel. Past projects include a "Code in 5" series,
+command line tutorials along with a 30 Days of Code series designed
+specifically for people with no programming experience that want to learn how
+to code. (http://bit.ly/1NbxNzV)
+Page 3 of 7
+30,000+ subscribers
+85,000+ views a month
+2.5 million+ lifetime views
+Girls Who Code
+Girls Who Code Instructor at Twitter HQ
+May 2019 - August 2019 (4 months)
+San Francisco Bay Area
+- Led instruction and effectively maintained an exciting, engaging and
+accessible classroom environment for a highly diverse group of 20 high school
+girls.
+- Managed and assessed students’ progress in and proficiency of hard and
+soft computer science skills (includes administering program evaluations to
+assess student’s understanding).
+- Managed 2 Teaching Assistants (TA) who served as support in classroom
+management, lesson delivery, logistical tasks, equipment management, etc.
+- Supported the growth and development of Girls Who Code relationships with
+important partners by serving as a representative of the organization during all
+program activities including guest speaker and partner visits to the classroom,
+field trips, and on-site learning opportunities
+- Effectively addressed students’ challenges and questions to ensure that all
+students are engaged and demonstrating understanding of course material
+- Communicated regularly and effectively with all Girls Who Code staff
+throughout the duration of the program
+- Counseled students, as needed or requested, with maturity and appropriate
+discretion
+- Interfaced with student families, if necessary, in a professional manner and
+following proper protocol
+The Programmer Toolbox
+Founder and Co-Host of The Programmer Toolbox
+March 2018 - February 2019 (1 year)
+New York, NY
+A podcast hosted by Kathryn Hodge and Robyn Silber that aims to introduce
+others to coding and start more conversations around different topics in
+technology. Available on Apple Podcasts, Spotify, Tunein, Google Podcasts,
+and Stitcher.
+Check our Medium where we post show notes, https://medium.com/
+@theprogrammertoolbox
+Page 4 of 7
+Follow us on Instagram, @theprogrammertoolbox.
+Follow us on Twitter, @theprogrammert
+Highbrow Inc.
+Author
+February 2018 - March 2018 (2 months)
+Created a Python Basics (premium) email course with Highbrow.
+https://gohighbrow.com/portfolio/python-basics/
+Codecademy
+Codecademy Pro Advisor
+April 2016 - January 2017 (10 months)
+- Worked as an online advisor for up to 30 hours per week.
+- Chatted with students regularly to help define student goals, review coding
+topics one-on-one, and guide students to additional resources available to
+deepen learning capacity.
+- Helped students debug code and pass tricky exercises, motivated students,
+and worked with fellow advisors to support and track student progress.
+Adobe
+Adobe Student Representative
+January 2016 - December 2016 (1 year)
+Poughkeepsie, NY
+- Responsible for planning, promoting and executing at least one product
+training workshop each semester
+- Amplified program activity through word-of-mouth and social media
+- Developed relationships and partnerships with relevant student organizations
+who might benefit from a free trial of Adobe Creative Cloud and/or hands-on
+product training.
+Vassar College
+3 years
+Computer Science Teaching Assistant
+January 2014 - December 2016 (3 years)
+Poughkeepsie, NY
+- Worked one-on-one with students during weekly computer laboratories
+as well as in office hours to answer specific questions on assignments and
+elaborate on broad topics, such as algorithms and data structures.
+- Assisted supervising professors in other course-related work.
+Page 5 of 7
+Game Design Research Assistant
+May 2015 - September 2015 (5 months)
+Poughkeepsie, NY
+- Researched how game designers can create optimally interesting role-
+playing games using game trees and a method called Adversary Search.
+- Created a game that implements this technique where the Drama Manager
+of the game guides the player towards more interesting and satisfying endings
+without forcing the player towards one single end game.
+Yik Yak, Inc.
+Mobile Application Campus Representative
+August 2015 - May 2016 (10 months)
+Poughkeepsie, NY
+- Encouraged students to download the Yik Yak application through
+merchandising events and other creative strategies.
+- Facilitated open conversation between Yik Yak HQ and the Vassar
+community.
+- Nurtured an accepting, diverse, and constructive community on Yik Yak.
+Square
+Code Camp VI Selected Participant
+December 2015 - January 2016 (2 months)
+San Francisco, CA
+- Selected out of 600+ applicants to participate in a five-day immersion
+program at Square's San Francisco headquarters.
+- Attended coding workshops and leadership sessions, participated in a
+hackathon, and toured San Francisco—all while surrounded by women
+engineers from across the U.S. and Canada.
+KennyEdit
+Production Intern
+May 2014 - August 2014 (4 months)
+Houston, TX
+- Assisted as needed in the production department.
+- Worked with green screens, jib arms, and teleprompters in developing
+marketing material for Vision Source. Edited promotional content for Alley
+Theatre.
+- Filmed charity events along with other documentary material.
+Acorn Systems
+Marketing Intern
+Page 6 of 7
+June 2013 - August 2013 (3 months)
+Houston, TX
+- Assisted as needed in the marketing department.
+- Created and edited power points for marketing presentations.
+- Edited text for articles, whitepapers and website.
+Education
+Vassar College
+Bachelor of Arts (B.A.), Computer Science and Film/Cinema/Video
+Studies · (2013 - 2016)
+Duchesne Academy of the Sacred Heart
+N/A · (2009 - 2013)
+Page 7 of 7

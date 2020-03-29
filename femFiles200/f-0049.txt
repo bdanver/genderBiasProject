@@ -1,0 +1,100 @@
+Contact
+www.linkedin.com/in/
+rodriguezaliciaf (LinkedIn)
+aliciar.me/ (Personal)
+Top Skills
+Angular
+JavaScript
+TypeScript
+Languages
+Spanish (Native or Bilingual)
+English (Native or Bilingual)
+Certifications
+Try Git
+The Magical Marvels of MongoDB
+Front-end Foundations
+Try SQL
+Honors-Awards
+Seventh Place
+Alicia Rodriguez
+Software Engineer II at Ultimate Software
+Miami, Florida
+Summary
+Dynamic bilingual professional. Highly organized and independent;
+able to effectively coordinate tasks to accomplish projects with
+timeliness and creativity.
+Experience
+Ultimate Software
+4 years 4 months
+Software Engineer II
+September 2018 - Present (1 year 6 months)
+Weston, FL
+Continued working on the same team with the latest version of Angular. Was
+part of the process/migration to keep our front-end project version up to date.
+Attended the AngularMix conference in Orlando, FL, USA where I learned and
+got a sneak peak of what would be coming up next for Angular, which helped
+guide and shape the way our Angular application is working right now.
+Currently, working on a new product in the team to provide in-product support
+to customers for our current products. This has given me the opportunity to
+start looking into back-end technologies like NestJS.
+On the side, working on a workshop I will be hosting, alongside a teammate,
+about Angular Testing guidelines and best practices, which we will be
+presenting in the ngAtlanta 2020 conference in Atlanta, GA, USA.
+Software Engineer I
+February 2017 - September 2018 (1 year 8 months)
+Weston, FL
+Transitioned from an intern to a full-time employee on February 13, 2017.
+Continued working on the team and assisted in migrating the application from
+AngularJS to Angular. Continued working with Angular and Typescript as well
+as AngularMaterial to provide business solutions.
+Page 1 of 3
+During this time, I worked on the Angular Material open source project to
+fix an issue they were having with their stepper component. Attended an
+all-day workshop on Developing and Architecting Solutions with Functional
+Programming. Conducted front-end interviews and internship interviews.
+Was awarded the "Bridge Builder" award for taking the initiative in working
+with the another team and getting to know their best-practices and processes
+and seeing how our team could benefit from them and vice versa; this led to
+authoring a front-end best-practices document for my team.
+Software Engineer Intern
+November 2015 - February 2017 (1 year 4 months)
+Weston, FL
+Worked within the Research/POC team (for about 9 months) where we
+developed applications in a number of different languages such as Javascript,
+GO, and others.
+For the remainder of the internship, I was placed in another team where we
+developed an application in AngularJS and Java Spring Boot. I mostly worked
+with AngularJS.
+Mercantil Commercebank
+Service Desk Analyst
+February 2015 - November 2015 (10 months)
+Doral, FL
+Provided assistance and help to the Support Center team. Answering calls and
+managing tickets on a ticketing system where all technical and non-technical
+problems are reported. Organizing the team’s work load and improving their
+service levels by 40% every-day.
+Causey C. Lee, Orthodontics
+Front Desk Assistant
+August 2014 - January 2015 (6 months)
+Hialeah, FL
+Support in: making calls for patients to schedule appointments, creating
+documents, filing and organizing highly sensitive information, as well as
+maintaining a good relationship with patients.
+Mercantil Commercebank
+Summer Intern
+June 2012 - August 2014 (2 years 3 months)
+Page 2 of 3
+Doral, FL
+Worked here for 3 summers as a Summer Intern in the Wealth Management
+Department.
+Provided support for projects including making copies, filing, creating
+documents, making calls, and checking files for accuracy as well as
+maintaining confidentiality when dealing with highly sensitive information.
+Education
+Florida International University - College of Engineering & Computing
+Bachelor of Science (BS), Computer Science · (2014 - 2017)
+Miami Dade College
+Associate of Arts (A.A.), Computer Science · (2011 - 2014)
+School for Advanced Studies
+· (2011 - 2014)
+Page 3 of 3

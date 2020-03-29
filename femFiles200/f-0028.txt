@@ -1,0 +1,102 @@
+Contact
+www.linkedin.com/in/lydiawagner
+(LinkedIn)
+Top Skills
+User Interface Design
+JavaScript
+User Experience
+Honors-Awards
+Best Home/Welcome Page: DuJour
+Lydia Wagner
+Engineering at Slack
+San Francisco, California
+Summary
+Engineering lead experienced in building and scaling websites and
+applications, technical project management (tech specs, scoping
+and sprint planning, risk assessment and management, prioritizing
+and delivering on deadline), mentoring and growing developers,
+and fostering collaboration between engineering and non-technical
+stakeholders.
+Experience
+Slack
+Senior Software Engineer
+September 2016 - Present (3 years 6 months)
+San Francisco Bay Area
+• Lead front-end development for new user experience (account creation, sign-
+in, and onboarding)
+• Work with design and product to set roadmaps and KPIs and prioritize
+features and bugs
+• Rapidly prototype and iterate on potential team creation and onboarding
+flows for user research
+• Design and build short- and long-term experiments to increase activation and
+usage
+• Monitor stability and quality with UI/visual tests, analytics, alerts, custom
+logging, and customer service ticket monitoring
+• Architected data model and developed guided onboarding for all new
+workspace creators
+• Managed women’s mentoring program by matching through interest and
+leading career conversations
+Edelman Digital
+Technical Lead
+June 2014 - December 2015 (1 year 7 months)
+New York, NY
+• Developed solutions, wrote and reviewed code, created development/
+production environments, and deployed versioned codebases.
+Page 1 of 3
+• Wrote functional specs and SOWs, scoped projects, and managed JIRA and
+sprint / Scrum planning.
+• Reviewed/annotated wireframes, comps, and MSAs for technical feasibility
+and assessed vulnerabilities via security scans and penetration testing.
+• Mentored junior designers and developers and coordinated and managed
+third-party development teams.
+• Interacted with clients and stakeholders, responding to issue reports and
+functionality requests, and consulted on technical aspects of new business
+opportunities.
+Appy Couple
+Lead Web Developer
+September 2013 - May 2014 (9 months)
+New York, NY
+• Responsible for all user interface development for appycouple.com.
+• Projects included full-stack website technical refactoring and redesign of 20k
++ wedding websites (PHP, jQuery, SASS) by rapid prototyping, architecting
+a multi-template system from an existing code base and rewriting the
+administrative website editor with a focus on optimizing UX and performance
+and simplifying complex user flows.
+Code and Theory
+Web Developer
+February 2011 - September 2013 (2 years 8 months)
+New York, NY
+• Developed projects for marquee brands (publishing, e-commerce, media)
+under tight deadlines.
+• Worked across a broad set of industry-standard and custom content
+management systems.
+• Technically advised and supported design and project management groups.
+• Deployed code and managed servers on Rackspace and AWS hosting
+environments
+The Adsmith
+Web Developer
+February 2010 - November 2010 (10 months)
+Athens, Georgia
+• Managed development workload in collaboration with design team.
+Page 2 of 3
+• Installed, adapted, and skinned CMS platforms and created custom features
+as needed.
+• Introduced and standardized project scoping, QA practices, and browser and
+usability testing.
+Sugar Inc.
+Web Developer
+May 2007 - August 2009 (2 years 4 months)
+San Francisco Bay Area
+• Designed and implemented new features on the Drupal-based Sugar network
+of sites as first dedicated front-end hire.
+• Coordinated between editorial and engineering staff to fix bugs and improve
+user experience.
+• Prototyped new interfaces and reviewed with product managers and
+stakeholders.
+• Acted as front-end lead for major site-wide redesign across network of sites
+using agile methodologies, focusing on the community user-generated content
+platform and customization of administrative interface.
+Education
+Wesleyan University
+BA, Biology
+Page 3 of 3

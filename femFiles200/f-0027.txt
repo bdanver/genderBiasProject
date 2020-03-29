@@ -1,0 +1,73 @@
+Contact
+www.linkedin.com/in/
+lynseyahaynes (LinkedIn)
+Top Skills
+Distributed Systems
+Bunny Schemes
+Hot Pot
+Languages
+English (Native or Bilingual)
+Italian (Limited Working)
+Honors-Awards
+Undergraduate Teaching Assistant
+Award 2013
+Undergraduate Teaching Assistant
+Award 2015
+Simba Technologies Award
+Lynsey Haynes
+Senior Software Engineer at Slack
+San Francisco, California
+Experience
+Slack
+3 years 9 months
+Senior Software Engineer
+February 2019 - Present (1 year 1 month)
+I work on the realtime services team. We build the systems that deliver Slack
+messages in real time around the world.
+Software Engineer
+July 2017 - February 2019 (1 year 8 months)
+San Francisco Bay Area
+Associate Engineer
+June 2016 - July 2017 (1 year 2 months)
+San Francisco Bay Area
+I'm on the video calls team! I speak network protocols like RTP, SDP, and ICE.
+I work on the calls server to get those media streams flowing smoothly. And I
+build the calling features into Slack's backend.
+The University of British Columbia
+Undergraduate Teaching Assistant
+September 2012 - April 2016 (3 years 8 months)
+Vancouver, Canada Area
+TA for: Distributed Systems (CPSC 416), Data Structures and Algorithms
+(CPSC 221), Intro to Systems (CPSC 213), Intro to Programming (CPSC 110).
+My main duties were helping students learn and complete the assigned labs,
+but I also hosted weekly office hours, answered questions on the online forum,
+and marked assignments and exams. Less frequent but important tasks I've
+done include advocate for fairness in marking, support students when they are
+feeling overwhelmed, host extra office hours based on impending assignment
+deadlines, and covered shifts for other TAs.
+GIRLsmarts4tech
+Coordinator
+September 2014 - April 2015 (8 months)
+Page 1 of 2
+A computer science day camp for grade 6 and 7 girls with the aim of inspiring
+more women to enter technology and science fields. Sponsored by SAP,
+Tinkerine and Sophos.
+SpeeDee Printers
+Store Clerk
+June 2011 - August 2011 (3 months)
+Terrace, BC, Canada
+A summer job in my hometown before I started university. They sell office
+supplies and do printing jobs. This job was one of my biggest motivations do
+well while in university, lest I would have to come back and work here.
+Some of my tasks included counting all of the pens in the store, then being
+off by one (216 instead of the 217 in inventory? time to count again..), being
+overly excited about a customer entering (and perhaps subsequently scaring
+them off with my overwhelming but genuine excitement about interacting with
+another person), and rearranging displays for no particular reason other than
+to make the time pass faster.
+Education
+The University of British Columbia
+Bachelor of Science (B.Sc.), Computer Science · (2011 - 2016)
+Caledonia Senior Secondary
+High School Diploma · (2008 - 2010)
+Page 2 of 2

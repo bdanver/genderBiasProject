@@ -1,0 +1,111 @@
+Contact
+www.linkedin.com/in/larissaperara
+(LinkedIn)
+larissaperara.me (Portfolio)
+Top Skills
+Research
+Software Development
+Teamwork
+Languages
+Spanish (Elementary)
+English (Native or Bilingual)
+Honors-Awards
+2016 Verizon Scholarship
+E. W. Allen Scholarship
+New River Valley VT Women Award
+GE’s Women’s Networking
+Scholarship
+Aspire! Award, Embrace Ut Prosim
+Scholarship
+Larissa Perara
+iOS Software Developer at Microsoft
+Seattle, Washington
+Summary
+Develop. Innovate. Explore.
+Experience
+Microsoft
+2 years
+iOS Software Developer
+March 2018 - Present (2 years)
+Redmond
+- Developing and integrating of a shared cross-platform database underneath
+existing Outlook Mobile UI
+- Implementing front-end features in conjunction designers and project
+managers
+- Coordinating diversity and inclusion efforts and refinement for immediate
+team
+New Technologist Intern Development Coach
+June 2019 - August 2019 (3 months)
+These are students not traditionally picked up by the Microsoft recruiting
+program.
+Over the course of ten weeks, they built an end-to-end iOS application to help
+visual learner combat information overload. As their development coach, my
+responsibilities included:
+- Engaging with the team daily to ensure expected results by the EOD or EOW
+- Encouraging individuals to have an open mindset and push their intellectual
+capabilities
+- Guiding individuals to brainstorm, develop, conduct user studies, and explore
+ideas.
+Virginia Tech Computer Science Department
+iOS Undergraduate Teaching Assistant
+August 2017 - December 2017 (5 months)
+Blacksburg, VA
+Page 1 of 3
+Assist students in grasping iOS development concepts for the iOS class at
+Virginia Tech.
+Microsoft
+Software Developer Intern
+May 2017 - August 2017 (4 months)
+Redmond, WA
+Created an emoji picker for the Ribbon control in Universal Mail to insert
+emoji’s into Word
+Progeny Systems Corporation
+IA Software Intern
+January 2016 - March 2016 (3 months)
+Manassas, Virginia
+Redesigned and developed an extensive, multi-file log viewer for analyzing,
+search, and filtering a variety of test logs in JavaFX.
+IBM
+SmartCloud Notes Intern
+May 2015 - August 2015 (4 months)
+Littleton, Massachusetts
+- Designed and implemented a cloud Denial of Service detection software in C
+- Functionality includes mitigation, statistical analysis, and documentation of
+attacks
+- Assisting in testing of detection software to insure a strong defense system
+Lockheed Martin
+Senior Tech Intern
+January 2015 - April 2015 (4 months)
+Orlando, Florida
+- Produced real-time, mission-critical, navigation software for the LRASM
+Missile in C++
+- Exposure to software life-cycle including requirements, peer review, unit
+tests, and implementation
+- Created GUI emulators for Lockheed specific hardware to provide testing
+capabilities for third-party component suppliers
+Lockheed Martin
+Software Development Intern
+May 2014 - August 2014 (4 months)
+Orlando, Florida
+Page 2 of 3
+- Developed embedded software applications for a lens control in Turreted
+Systems in C++
+- Enhanced and altered C++ software for a laser emulator to successfully fire
+laser
+- Trained co-op student for integration and testing of embedded software code
+Collegiate Aerial Robotics Demonstration
+Undergraduate Student Researcher
+January 2014 - May 2014 (5 months)
+Blacksburg, VA
+Collegiate Aerial Robotics Demonstration is a design team that creates
+autonomous aerial vehicle and terrestrial vehicle for competition in spring. The
+research includes creating a universal autonomous conversion kit of a small
+outboard aquatic vehicle compatiable with multiple vessles
+Education
+Virginia Polytechnic Institute and State University
+Bachelor of Science (BS), Computer Science · (2013 - 2017)
+University of Technology Sydney
+· (2016 - 2016)
+Briar Woods High School
+Advanced High School Dipolma · (2009 - 2013)
+Page 3 of 3

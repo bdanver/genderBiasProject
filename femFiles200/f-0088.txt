@@ -1,0 +1,167 @@
+Contact
+www.linkedin.com/in/leannecheung
+(LinkedIn)
+Top Skills
+HTML 5
+CSS
+JavaScript
+Languages
+Chinese
+Leanne Cheung
+Software Developer at Freelance
+Denver, Colorado
+Summary
+Full Stack Web Developer with experience in client and server side
+web applications using Javascript and Node. Passionate about
+learning and improving programming skills, identifying barriers, and
+writing clean code to create scalable web applications.
+Front-end: JavaScript, JQuery, HTML5, CSS, Bootstrap, React
+Back-end: NodeJS, Express, PM2
+Database: Redis, MongoDB, Mongoose, PostgreSQL, NoSQL, SQL
+Techniques: RESTful API, Sockets, OOP, MVC, microservices
+Testing: Mocha, Chai, Jest
+Others: Unix/Linux, Heroku, YubiKey authentication, Git/Github/
+GitLab, Agile/Scrum/Kanban
+Language: Chinese(Mandarin and Cantonese)
+Interests: Pool/Billiards, Hiking, Gardening, and Poker
+Shoot me an email at: leannecheung00@gmail.com
+Experience
+Freelance
+Software Developer
+March 2019 - Present (1 year 1 month)
+• Adding features and fixing bugs for managing user orders and services
+part of an application for Zayo Group to provide a better and smooth user
+experience (December 2019 - Present)
+• Added feature to an application for Bitwise LLC ( March - April 2019)
+ShapeShift
+Software Developer
+April 2016 - January 2019 (2 years 10 months)
+Greater Denver Area
+Page 1 of 5
+Cryptocurrency asset management exchange
+https://shapeshift.io
+• Reduced 60% of Bitcoin Exchange time by creating and comparing metrics
+with 2 third-party APIs and integrated with the higher performant one
+• Developed a slack bot for managing coins. Not only that it had a personality,
+it also reduced over 95% of time-saving compared to the previous method
+• Developed a microservice for creating liquidity for the platform
+• Authored technical product documentation for new features and
+troubleshooting
+• Added new features and maintained front-end (Angular I) of the trading
+platform
+• Improved the PageSpeed Insight for the home page from 75 to 95
+• Developed the front-end for Ethereum Splitter, a web and blockchain
+application that
+prevented Replay Attack after the Ethereum hard fork which processed over
+$1 MM of
+volume in the summer of 2016
+• Performed coin migrations, worth over $5MM of assets
+• Built and upgraded full node coin daemons including Bitcoin
+self-employed
+Freelance Web Developer
+November 2015 - April 2016 (6 months)
+Denver, CO
+• Created new features and contents with Node, Express, HTML, JS, and CSS
+for Savory Institute https://www.savory.global
+• Created a Wordpress Website for Dr. Larry Frieder https://
+bouldersportandspine.com
+Gaiam
+Front-End Web Developer
+July 2015 - October 2015 (4 months)
+Louisville, Co
+• Created a better user experience by adding a new feature to allow users
+to mark their favorite moments while watching a video. An instant animation
+played to let users know that they had marked the video and all marked/
+Page 2 of 5
+loved moments of the video are stored and viewed by more than 10k users.
+(Video.js, HTML, CSS, JavaScript, and jQuery)
+• Collaborated with designers and other developers to create a style guide
+which was used to keep the visual look and feel consistent across the
+application. Added web components that would be used by the rest of the
+team according to the style guide.
+• Participated as part of an agile team (including a Scrum Master, a system
+architect, a product owner, a project manager, a database architect,
+designers, and developers), which incorporated daily stand-up as part of a 2
+week sprint.
+Latitude 40 Consulting, Inc
+Full Stack Web Developer
+April 2015 - June 2015 (3 months)
+Broomfield, CO
+• Created a fitness training application in the MEAN stack for an L.A. fitness
+trainer. Coded the back-end with JWT tokenization that works across web and
+mobile devices. I also coded the public landing page so that any visitors to the
+site can sign up and indicate one’s interest in this application. Implemented a
+portfolio page for subscribers to add their information like height, weight, and
+goals so the trainer can create a customized training program for the user. In
+addition, created a page used by trainers to obtain a list of subscribers and
+their information.
+• Worked as part of a team to create a customized internal tool (using the
+MEAN stack) for a sales company by creating customized and responsive
+sales order forms according to the clients' specifications. These forms allow
+salespeople to record sales data, calculate costs, and give quotes to the
+customer. Additionally, inventory people on the administrative side can record
+the status of the order and sales items being fulfilled.
+• Worked in a team to create a Fantasy Cricket application in MEAN (Mongo
+Express Angular Node), researched the rules for Cricket and how to adapt the
+rules to a match, and added the rules to the application.
+Markit
+Associate Web Developer
+October 2014 - April 2015 (7 months)
+Page 3 of 5
+Boulder, CO
+Swiftly fixed bugs using HTML, CSS, JavaScript, and C# .NET for clients, who
+are financial firms.
+RefactorU
+Full-Stack Javascript Web Developer Apprentice
+June 2014 - August 2014 (3 months)
+Boulder, CO
+Selective, 10-week, immersive course with 700 programming hours. Learning
+HTML5, CSS3, Google Chrome Developer Tools, Git/Github, Responsive
+Web Design, Javascript, jQuery.js, Twitter Bootstrap, MongoDB, prototyping,
+Mongoose, Underscore.js, Node.js, Object-Objected Programming, MVC,
+Jade, Heroku, JSON, Ajax, Functional Programming, Agile/Scrum, Grunt,
+Handlebars, Backbone.js, Restful API, Passport, Greensock.js, and web
+development best practices.
+In Step Footwear
+Store Manager
+June 2013 - February 2014 (9 months)
+Mountain View, CA
+Managed a locally owned shoe store and provided footwear solutions to
+customers.
+Linear Technology
+Associate Design Engineer
+June 2008 - February 2012 (3 years 9 months)
+Milpitas, California
+• Evaluated Buck Converters and Buck Boost Converters and obtained
+performance data. Designed and developed interface boards for Power
+Management Integrated Circuit bench evaluation.
+• Successfully analyzed and debugged failed customer boards, and provided
+solutions to fix the problems.
+• Delivered a demonstration on how to use a Thermal Imaging Camera to
+capture and record thermal distribution and variation in real time. Provided
+useful tips for accurate heat pattern measurement.
+National Semiconductor
+Audio Test Development Engineer
+January 2006 - May 2008 (2 years 5 months)
+Page 4 of 5
+Sunnyvale, California
+• Created test programs and designed interface hardware for testing audio
+amplifiers that ranged from Class D Boomer, High-Performance Amplifier, and
+High Voltage MOSFET Driver.
+• Created documentation on servo-loop for DC parameter testing on High-
+Performance Amplifier as a reference for the testing team.
+• Increased the value of LME49830 High Fidelity Power Amplifier by 5% by
+developing a new solution for testing 30-dB gain 0.0006% THD specification,
+which resulted in a Test Development Award.
+Maxim Integrated
+Engineering Intern
+July 2005 - December 2005 (6 months)
+Sunnyvale, California
+Created test programs, debugged hardware boards, and tested semiconductor
+chips.
+Education
+RefactorU
+Full-Stack Javascript Web Developer Programming · (2014 - 2014)
+California Polytechnic State University-San Luis Obispo
+Bachelor of Science (BS), Electrical and Electronics Engineering
+Page 5 of 5

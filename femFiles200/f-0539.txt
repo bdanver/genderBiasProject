@@ -1,0 +1,83 @@
+Contact
+www.linkedin.com/in/emma-
+montross-262222a0 (LinkedIn)
+Top Skills
+Go
+Python
+ElasticSearch
+Emma Montross
+Software Engineer at Splunk
+Greater Denver Area
+Summary
+I am a dedicated software engineer that loves solving coding
+problems. I have a particular interest in distributed systems and
+data at scale. I am always asking "What is wrong with this system
+and what happens when it fails?", with the goal of constant software
+improvement.
+Experience
+Splunk
+Software Engineer
+November 2019 - Present (5 months)
+Boulder, Colorado
+LogRhythm
+3 years 11 months
+Software Engineer
+July 2018 - Present (1 year 9 months)
+Boulder, CO
+• Refactoring and extending large distributed microservice software written in
+Golang and Java that wraps an Elasticsearch cluster
+• Moved team build onto Docker with Bazel and introduced CI/CD, presented
+the successes and lessons learned to engineering architecture council
+• Interface frequently with customers to fix issues and increase the quality of
+the product through feedback
+• Data indexing and search design lead for new, cloud-based implementation
+of LogRhythm software
+• Tech lead: work with product owner to gather requirements, decision
+maker for team technical and architectural issues, coordinate cross-team
+collaboration on technical projects
+• Team scrum master
+Associate Software Engineer
+July 2017 - July 2018 (1 year 1 month)
+Page 1 of 3
+Boulder, CO
+• Improved indexing and search performance of SIEM platform by simplifying
+existing architecture in Golang and Java
+• Mentored team intern on clean coding practices and team and company
+processes
+• Joined new team and advocated for best engineering practices by taking
+lead on a React-Redux application to monitor the health of a LogRhythm
+deployment
+Software Engineering Intern
+May 2016 - July 2017 (1 year 3 months)
+Boulder, CO
+• Improved team process by creating multiple internal tools in Python to speed
+up team flow and productivity
+• Learned Ansible to automate installation and setup of company product on a
+virtual machine
+• Diagnosed and fixed bugs in the indexing and persistence component of
+highly awarded Security Event and Information Management (SEIM) platform
+• Presented projects to entire engineering department and participated in
+company hack-a-thon
+• Trained in cyber security and clean coding practices
+University of Colorado Boulder
+Teaching Assistant
+August 2014 - December 2014 (5 months)
+Boulder, CO
+Teaching assistant for COEN1300 (Intro to Engineering Computing), which
+covers Microsoft Excel, VBA in Excel, and Matlab. I ran a lab session once a
+week, held office hours, and graded homework and tests.
+Los Gatos Swim and Raquet Club
+Lifeguard/Swim Lesson Instructor
+April 2012 - July 2014 (2 years 4 months)
+Los Gatos, CA
+Lifeguard duties included teaching swim lessons to kids ages 3-9, guarding the
+two pools, and being in charge of all the guards for a given day. Administrative
+duties included managing the calendar, scheduling guard shifts and swim
+lessons, and communicating with patrons on the phone and in person.
+Page 2 of 3
+Education
+University of Colorado Boulder
+Bachelor’s Degree, Computer Science · (2013 - 2017)
+Westmont High School
+· (2009 - 2013)
+Page 3 of 3

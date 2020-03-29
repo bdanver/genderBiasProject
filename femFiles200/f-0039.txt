@@ -1,0 +1,121 @@
+Contact
+www.linkedin.com/in/esmadautovic
+(LinkedIn)
+Top Skills
+REST
+SOA
+Python
+Languages
+English (Native or Bilingual)
+Esma Dautovic
+Software Engineer at Rover.com
+Seattle, Washington
+Summary
+- Experienced software engineer with a focus in scalable services
+and platform tools.
+- Passionate about working with complex domains such as
+geospatial, genetics, and nutrition.
+- Always excited to share knowledge, present technical details and
+communicate with a non-technical audience.
+- Passionate about interviewing, recruiting, onboarding, mentoring
+and helping form and shape the team and the culture.
+Experience
+Rover.com
+Software Engineer
+July 2018 - Present (1 year 8 months)
+Greater Seattle Area
+Account signup and profile management project :
+- Tech lead on project to plan an iterative approach with an MVP using
+Python / Django / Django Rest Framework (DRF), MySQL and AWS.
+- Implemented and ran technical mentoring pilot program. With its success,
+Rover has now has an expanded mentoring program within the tech
+organization.
+The Climate Corporation
+Software Engineer
+December 2016 - June 2018 (1 year 7 months)
+Greater Seattle Area
+Infrastructure and Dev Tools :
+- Extended dev cli tool to read yaml specs and create CloudFormation
+templates via Troposphere for RDS, DDB, DDB autoscaling and alarms, Api
+Gateway, etc. Integrated with AWS Lambda to make swagger files deployable
+artifacts with peer reviews for api gateways.
+- Feature development and maintenance of monitoring ecosystem comprised
+of Prometheus with auto-discoverable targets (ECS tasks and services, EC2
+services, EMR jobs, etc) in our multiple AWS accounts across regions with
+Page 1 of 4
+Grafana, NewRelic, Splunk and metrics exporters for CloudWatch, cAdvisor,
+etc.
+Geospatial Product Dev :
+- Integrated cloud detection models and implemented scouting algorithms in
+Clojure that alert on problem areas by geospatial interest via images stored in
+DynamoDB.
+- Developed features on existing data ingest pipeline to ingest public and
+private satellite products using Python, Celery, RabbitMQ, AWS (EC2,
+DynamoDB, S3) and Climate's Mandoline raster data store.
+- POC of running image transformation algorithms on GPGPUS, 50%
+decreased cost.
+Lifesum
+Software Engineer
+June 2015 - December 2016 (1 year 7 months)
+Stockholm, Sweden
+Architected and implemented search service and the data ranking algorithm :
+- Sphinx is used for indexing the exponentially growing crowd-sourced data
+from MySQL and for custom ranking algorithms.
+- AWS hosted and serving our 16+ million users under 35 ms per search
+request
+- Receives over 60% of all user traffic and has scaled over the year to handle
+twice the load with 99.9% uptime.
+- Led workshops to expose the inner workings to other engineers as well as
+non IT coworkers.
+- Documented architecture and implementation decisions for easy onboarding.
+Developed infrastructure tools to enable faster delivery by other developers :
+- A framework agnostic template allowing you to generate a base Python
+microservice with Ansible scripts, enabled same day production deploy of new
+service.
+- A Python library for a unified logging strategy using Logstash, Structlog,
+Sentry, NewRelic and Gunicorn's configuration.
+- A public project exploring Smartstack for service auto discovery along with
+a tutorial exploring various failure states of each component and recovery
+expectations.
+Lead engineer on recipes feature, worked closely with iOS engineers to
+develop a seamless user experience across all recipe views.
+Page 2 of 4
+Interviewed and screened, helped in recruiting via speaker events, resulting in
+more than doubling size of backend team.
+The Climate Corporation
+Software Engineer
+March 2014 - April 2015 (1 year 2 months)
+Service owner for geospatial ingest :
+- Developed features on existing data ingest framework, see more recent work
+above for more details.
+Monsanto
+Software Engineer
+June 2011 - June 2014 (3 years 1 month)
+Saint Louis, MO
+Developed rules engine for FieldScripts® :
+- FieldScripts® evaluates yield utilizing more than 20 data layers to assess
+and diagnose each field, including: SSURGO soil data, topography, geo-
+spatially referenced yield data, soil tests and revolutionary field testing of seed
+performance across soil environments and population densities.
+- Data was aggregated through Hadoop, R and Java.
+Leading developer on progeny generation engine :
+- It sits at the core of our systems through which all records must pass when
+seed is harvested or acquired.
+- Helped coordinate other team members and trained test engineers, business
+analysts, and customer advocates.
+Implemented restrictive and regularity categorization and trial intent features
+on capital projects. Ensured real time plot categorization when adding already
+ranked plant sets.
+Worked in SOA based workflow application to create, maintain, and plan
+breeding experiments across North America based on plant genetics and
+targeted traits :
+- Front end was written in custom open ended framework with Java Swing,
+Spring, and JGoodies Bindings.
+- Web services were implemented using Apache CXF, Spring, JMS queues,
+and Hibernate on Weblogic Servers integrated with Coherence for caching.
+Page 3 of 4
+Mentoring current co-ops and onboarding new developers.
+Education
+Webster University
+B.S. in Computer Science, B.A. in Interacive Media · (2006 - 2011)
+Page 4 of 4

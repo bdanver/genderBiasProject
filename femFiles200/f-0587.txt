@@ -1,0 +1,84 @@
+Contact
+www.linkedin.com/in/briannaloo
+(LinkedIn)
+Top Skills
+API Development
+Digital Media
+Java
+Honors-Awards
+Northrop Grumman Engineering
+Scholar
+Brianna Loo
+Software Engineer at Flatiron Health
+Greater New York City Area
+Summary
+Software engineer with experience in digital media, focusing on
+back-end, API development. Electrical engineering and computer
+science degree from Yale University. Currently working full time as
+a software engineer and pursuing a master's degree in Computer
+Networking at UCLA.
+Experience
+Flatiron Health
+Software Engineer
+December 2018 - Present (1 year 4 months)
+New York, New York
+Disney ABC Television Group
+2 years 4 months
+Software Engineer
+October 2017 - November 2018 (1 year 2 months)
+Burbank, CA
+Building APIs and services that power the ABC and Disney on-demand,
+streaming applications. Leading development of various features relating to
+personalization and search.
+Associate Software Engineer
+August 2016 - October 2017 (1 year 3 months)
+Burbank, CA
+Contributing to a back-end driven UI by adding features and improving
+services that support the multi-platform ABC and Disney applications.
+Electrical Engineering Student Advisory Committee
+Undergraduate Advisor
+2014 - May 2016 (2 years)
+Elected member, working with a group to improve the department by
+evaluating major requirements, discussing ways to improve instruction, and
+proposing new programs.
+Page 1 of 3
+Yale Computer Architecture and Security Laboratory
+Undergraduate Researcher
+August 2013 - May 2016 (2 years 10 months)
+New Haven, CT
+Completed a computer security project using the Arduino platform, OpenStack,
+and virtual machine migration to protect data on servers. Working on a hard
+drive security project by simulating a magnetic field side-channel attack.
+Float Yale
+Co-Founder
+January 2013 - May 2016 (3 years 5 months)
+Organization that aims to promote women in computer science through
+classes, mentorship, and guest speakers. Teach web development classes in
+weekend courses.
+Disney ABC Television Group
+Software Engineering Intern
+May 2015 - August 2015 (4 months)
+Created an automated unit test generation framework to test iOS app
+robustness to erroneous API responses. Redesigned the help/faq system by
+streamlining CMS processes and refactoring API services.
+Yale Daily News
+Web Developer, Senior Photographer, Photography Editor
+2013 - 2014 (1 year)
+Redeveloping the YDN website to create new features, take/edit photos for the
+paper, managed the photography desk (2013-2014)
+DIRECTV
+Software Engineering Intern
+May 2013 - August 2013 (4 months)
+El Segundo, CA
+Created a new user interface for the cinema page of the DIRECTV home
+screen. Redesigned the UI using Java.
+Education
+Yale University
+Bachelor of Science (BS), Electrical Engineering and Computer
+Science · (2012 - 2016)
+Page 2 of 3
+University of California, Los Angeles
+Master of Science - MS, Computer Networking · (2016 - 2019)
+South Pasadena Senior High School
+· (2008 - 2012)
+Page 3 of 3

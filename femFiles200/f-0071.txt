@@ -1,0 +1,187 @@
+Contact
+www.linkedin.com/in/paguinaldo
+(LinkedIn)
+www.trisha-aguinaldo.com/projects
+(Portfolio)
+Top Skills
+Public Speaking
+Event Planning
+Customer Service
+Languages
+English (Native or Bilingual)
+Tagalog (Native or Bilingual)
+Certifications
+Asian American Studies
+Educator Advocate: Rape Crisis &
+Violence Prevention Program
+Honors-Awards
+W.E.B. Du Bois Outstanding
+Sociological Achievement Award
+Dean's List Honor
+Outstanding Community Service and
+Philanthropic Event
+Publications
+Bash profile shortcuts and terminal
+customizations
+Sorority holds candelight vigil in
+support of domestic abuse victims
+Patricia Aguinaldo
+Software Engineer / Developer at Reggora
+Boston, Massachusetts
+Summary
+Hi! I'm a developer/engineer in Boston looking to merge community
+health, education, and web/game development. I care deeply about
+mental health awareness and diversity in the tech field. I write clean,
+accessible, and testable code. LGBTQIA+ member, soap artisan,
+and a foodie.
+Languages: JavaScript, Python, React Native
+Database: Mongo/Mongoose, PostgreSQL
+Soft Skills: Customer service, complex scheduling, problem-solving,
+teamwork, workshop facilitation, event planning, mentoring
+trisha-aguinaldo.com/#projects
+Experience
+Reggora
+1 year
+Software Engineer / Developer
+January 2020 - Present (3 months)
+Boston, MA
+• Designs and implements robust and scalable software that adds new
+functionality for Reggora’s products and platform in a timely manner
+• Engages in all aspects of the release cycle including identifying gaps
+in requirements or designs and present options to address them, work
+estimation, implementation, testing, and review
+• Interviews potential full-stack developers and QA engineers. Helps onboard
+new employees.
+Lead Quality Assurance Engineer
+June 2019 - Present (10 months)
+Boston, MA
+• Ensures that the engineering team has a smooth release by managing QA
+resources, resolving disputes and confusion if tickets are blocked, and keeping
+an open line of communication with the team so we can meet deadlines.
+Page 1 of 5
+Quality Assurance Engineer
+April 2019 - May 2019 (2 months)
+Boston, MA
+• Created detailed, comprehensive and well-structured test cases and
+automated test scripts for integration, regression and functional testing on
+mobile (iOS & Android) and web platforms that increased code coverage by
+35% in a span of 2 months
+• Tested product usability, compatibility, security, accessibility, and
+performance for consistent user experience
+• Proposed several QA and tech infrastructure changes that boosted the
+company’s overall workflow, transparency and decreased ambiguity within a
+product’s lifecycle
+Dana-Farber Cancer Institute
+4 years 7 months
+Clinical Administrative Support Specialist (CASS) - Per Diem
+August 2018 - September 2019 (1 year 2 months)
+Boston, MA
+• Worked with providers, hospital administrators, and clinical staff to provide
+superior customer service to patients and family members in functions related
+to initial patient contact, medical record retrieval and scheduling ongoing care.
+Clinical Administrative Support Specialist (CASS) - Weekend Scheduler
+March 2015 - August 2018 (3 years 6 months)
+Boston, MA
+• Gatekeeper for all weekend infusion appointments. Normalized weekend
+clinical workflow by creating, analyzing, and implementing changes from 5+
+reports per week for all oncology departments.
+• Helped direct clinic and infusion workflow of up to 300+ patients daily through
+call triage, front desk check-in, and check-out functions.
+• Resolves administrative issues directly or ensures appropriate management
+by others; recognizes emergencies and respond using standard operating
+procedures and critical thinking.
+• Interviews and assists with the on-boarding process of new team members;
+act as back-up support for staff.
+Thinkful
+1 year 1 month
+Web Development Teaching Assistant
+April 2019 - August 2019 (5 months)
+Greater Boston Area
+Page 2 of 5
+• Helped students by resolving any issues they are having with the course
+material (JavaScript, jQuery, version control)
+• Assisted the instructors with the workshop/class by handling administrative
+and technical issues within the classroom
+Full Stack Engineering Immersion Student
+August 2018 - March 2019 (8 months)
+Greater Boston Area
+• Full stack JavaScript developer with experience using Mongo/Express/
+React/Node to build web apps.
+• Over 100 hours of pair programming experience with senior developers and
+peers while building dynamic full-stack web apps
+• Experienced in modern RESTful APIs with PostgresSQL and Mongo/
+Mongoose backends.
+• Implemented JWT-based authentication, hashing/salting passwords, and
+testing apps with the Mocha and Chai frameworks on TravisCI, and deploying
+with Heroku.
+• Learned React/Redux/Hooks, basic computer science, data structures and
+analysis of algorithms.
+Teach For America
+Campus Campaign Coordinator
+May 2014 - March 2015 (11 months)
+Amherst, MA
+• Built awareness of educational inequity in America and recruited corps
+members through class presentations and in-person conversations with
+student leaders
+The Center For Women and Community
+Educator Advocate
+September 2013 - December 2014 (1 year 4 months)
+Amherst, MA
+• Certified educator of Rape Crisis & Violence Prevention in the state of
+Massachusetts
+• Facilitated educational workshops and events to diverse population
+promoting gender equality and preventing relationship violence
+Five College Center for the Study of World Languages
+Filipino Conversational Partner
+February 2013 - December 2014 (1 year 11 months)
+Amherst, MA
+Page 3 of 5
+• Organized and taught personalized lesson plans and hands on activities for
+undergraduate students in Tagalog
+Sigma Psi Zeta Sorority, Inc.
+Philanthropic and Recruitment Chair
+September 2012 - December 2014 (2 years 4 months)
+Amherst, MA
+• Coordinated workshops and events fostering sisterhood, academics, and
+professionalism
+• Established and advertised events promoting diversity and sexual violence
+awareness in my community
+Gymboree
+Sales Associate
+May 2012 - August 2013 (1 year 4 months)
+Saugus, MA
+• Handled high-pressure and fast-paced environment well which enabled the
+store to be the top seller for the month of June 2013
+UMass Amherst Alumni Association
+Student Caller
+December 2012 - February 2013 (3 months)
+Amherst, MA
+• Solicited alumni in a genuine and professional way leading to more than
+$50,000 worth of fundraising for the winter semester
+Biology Undergraduate Research Apprenticeships (BURA)
+Intern for Molecular Genetics of Micronutrient Homeostasis
+September 2011 - May 2012 (9 months)
+Amherst, MA
+• Assisted Ph.D. graduate student with project in molecular genetics of
+micronutrient homeostasis leading to publication in Journal of Experimental
+Botany
+• Tissue cultivation, gel-electrophoresis, RNA/DNA priming/sequencing and
+handled lab equipment and chemicals safely
+Broad Institute of MIT and Harvard
+Summer Intern
+June 2010 - August 2010 (3 months)
+Cambridge, MA
+Page 4 of 5
+• Researched the effects of lysis time and [EDTA] on genomic DNA leading
+to better understanding of optimal conditions for DNA extractions (high-
+throughput genome sequencing)
+• Increased awareness of research results by presenting scientific poster to
+scientists and the public
+• Mus musculus blood and liver sample, repeated DNA precipitation,
+purification, and extraction
+Education
+University of Massachusetts, Amherst
+Bachelor of Science (BS), Public Health and Sociology · (2011 - 2015)
+Malden High School
+· (2008 - 2011)
+Page 5 of 5

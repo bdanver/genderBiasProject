@@ -1,0 +1,129 @@
+Contact
+www.linkedin.com/in/snehainguva
+(LinkedIn)
+www.snehainguva.com (Personal)
+Top Skills
+Matlab
+Python
+Research
+Languages
+English (Native or Bilingual)
+Korean (Professional Working)
+Telugu (Native or Bilingual)
+Honors-Awards
+Richard U. Light Fellowship
+Siemens Westinghouse Competition
+Tow Knight Fellowship
+Sneha Inguva
+Software Engineer, CNS Networking at DigitalOcean
+New York, New York
+Summary
+Sneha Inguva is an enthusiastic software engineer currently working
+on building networking primitives at Digital Ocean. She has worked
+at a variety of startups in the last few years and has a unique
+perspective of building and deploying software in eclectic verticals -
+education, 3d-printing, and casinos to name a few. When she isn’t
+bashing away on a project or reading about the latest emerging
+technology, she is busy rescuing animals or exploring nature.
+Experience
+DigitalOcean
+3 years 11 months
+Software Engineer, CNS Networking
+December 2017 - Present (2 years 3 months)
+Software Engineer, Observability
+April 2017 - December 2017 (9 months)
+- Worked on setting up regionally sharded prometheus configuration
+- Used golang to help build out automatic service discovery for prometheus
+targets
+- Used ansible for provisioning monitoring setup
+Software Engineer, Delivery
+April 2016 - April 2017 (1 year 1 month)
+Greater New York City Area
+Member of internal delivery team and working on building developer tools to
+ship code faster and easier.
+- using Kubernetes alongside Prometheus and Alertmanager
+- building golang applications
+- leverage the k8s api to build abstractions on top of k8s
+- using terraform for provisioning
+SOLS
+Software Engineer
+Page 1 of 4
+July 2015 - January 2016 (7 months)
+-Used node.js, react, gulp, and jasmine to build supply chain tool and testing
+suite
+-debugged and updated legacy PHP code built with a variety of open source
+frameworks
+-used opencv, python, and c++ to contribute to machine learning and modeling
+tools
+-prototyped new product line that utilized embedded systems for gait analysis
+Perooz
+Co-founder
+June 2014 - January 2015 (8 months)
+Perooz is a browser extension in the media/publishing space and is going
+to change the way that we consume the news. Tired of the commentary/
+opinionated reporting model, the founders decided to create a company that
+allows experts to objectively refute false claims in real time. Peroozers, fact
+seekers, will now have the ability to examine a story from multiple angles.
+Mobile City Services
+Data Analytics Consultant
+September 2014 - September 2014 (1 month)
+Did some basic data analytics consulting - analyzing user base statistics,
+revenue, growth, use lifetime value, etc.
+Mentored LLC
+Software Engineer
+October 2013 - April 2014 (7 months)
+Englewood Cliffs, NJ
+Assisted in various technical activities including the research of relevant APIs,
+data import, data analysis, and development of an adaptive assessment
+engine.
+High 5 Games
+Mathematician
+October 2012 - September 2013 (1 year)
+Utilize C++ and Matlab to develop casino games.
+Yale University
+Student Summer Researcher
+May 2012 - July 2012 (3 months)
+New Haven, CT
+Page 2 of 4
+After spending a semester learning and applying generalized neural networks
+to various problems, I decided to extend my tenure at Yale to learn about
+the use of adaptive control under my former Sr. Project Advisor, Kumpati S.
+Narendra.
+Columbia University
+Undergraduate Summer Researcher
+May 2011 - August 2011 (4 months)
+New York, New York
+Wrote a web-crawler in Python to research the effect of the New York Times
+pay-wall on Twitter traffic. Utilized PHP and mySQL to analyze the data.
+LG Chem Power, Inc.
+Summer Intern in Advanced Development Group
+June 2010 - August 2010 (3 months)
+Troy, MI
+Researched how to optimize the performance of certain machinery critical to
+production processes.
+Maya Consulting, Marketing, and Advertising
+Member of Consulting Team
+January 2009 - May 2009 (5 months)
+New Haven, CT
+Was a member of a consulting team in this student-run group at Yale
+University. Participated in projects involving the Yale Marketing as well as an
+off-campus start-up.
+Oakland University
+Research Assistant in Physics Department
+August 2005 - August 2006 (1 year 1 month)
+Rochester Hills, MI
+Researched the use of magneto-electrical composites in linear position
+sensors as well as the effect of temperature on these sensors.
+Education
+Yale University
+Bachelor of Science, Electrical Engineering & Economics · (2007 - 2012)
+연세대학교 / Yonsei University
+Page 3 of 4
+Intensive Korean Language Program · (2010 - 2010)
+연세대학교 / Yonsei University
+CIEE Seoul: Arts & Sciences Program · (2009 - 2010)
+서강대학교 / Sogang University
+Intensive Korean Language Study · (2009 - 2009)
+International Academy
+I.B. Diploma, High School Diploma · (2003 - 2007)
+Page 4 of 4

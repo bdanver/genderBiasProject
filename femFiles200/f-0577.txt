@@ -1,0 +1,71 @@
+Contact
+www.linkedin.com/in/abby-
+hartog-4ab75295 (LinkedIn)
+Top Skills
+Matlab
+Quartus
+Autodesk Software
+Languages
+German
+Japanese
+Abby Hartog
+Python/Java Software Developer
+Charlotte, North Carolina
+Summary
+I have mostly worked in the QA department helping to write
+automated test scripts in Python but I enjoy all aspects of coding.
+I am especially skilled at debugging code. If something is wrong
+with the output you can count on me to track down the cause. I
+have experience coding in imperative and functional programming
+languages. I learn new tools quickly and excel at teaching others
+to use the ones I already know. I have experience working in an
+Agile environment and I can coordinate with my teammates. I am
+especially good at working to split a large project into modules that
+can be done independently and getting the best people to work on
+them based on their skill set.
+Experience
+Duke Energy Corporation
+CW Professional
+May 2019 - Present (11 months)
+Charlotte, North Carolina Area
+Managed test execution using HP ALM Quality Center.
+Wrote reports on test writing and test execution
+Managed requirements in SAP Solution Manager
+Uploaded test scripts in Quality Center
+Lockheed Martin
+Blue Prism Developer Intern
+June 2018 - August 2018 (3 months)
+Syracuse, New York Area
+Use Blue Prism Software to automate internal processes
+Communicated with other teams to find tasks that Blue Prism could automate
+Helped migrate code between GitHub and BitBucket
+Worked to find solutions that maintained security
+Bose Corporation
+QA Test Automation Engineer Intern
+Page 1 of 2
+January 2018 - June 2018 (6 months)
+Framingham, Massachusetts
+Tested audio decoding software using automated test scripts written in Python
+Worked with the PyTest framework when creating automated test scripts
+Created a client/server architecture to allow interaction with testing equipment
+Designed a RESTful API to make testing equipment platform agnostic
+Manually tested speaker software while automated scripts were being coded
+Unither Pharmaceuticals
+Packaging Specialist
+June 2017 - August 2017 (3 months)
+Rochester, New York Area
+Cleaned tanks and work area in accordance to cGMP guidelines
+Packaged products in the primary packaging area
+Worked in a fast paced environment on a continuously running line.
+The Wendy's Company
+Cashier
+June 2013 - August 2013 (3 months)
+The Wendy's Company
+Cashier
+October 2010 - June 2011 (9 months)
+Education
+Rochester Institute of Technology
+Bachelor of Science (BS), Computer Science · (2012 - 2019)
+Passaic County Technical Institute
+Medical Academy · (2008 - 2012)
+Page 2 of 2

@@ -1,0 +1,98 @@
+Contact
+www.linkedin.com/in/catherine-yeo
+(LinkedIn)
+catherineyeo.tech (Personal)
+Languages
+English (Native or Bilingual)
+Chinese (Native or Bilingual)
+Certifications
+Intro to Data Analysis
+Machine Learning
+Honors-Awards
+CS and Math
+Other Awards
+Publications
+Polynomials That Behave Like The
+Riemann Zeta-Function
+Catherine Yeo
+CS @ Harvard
+San Francisco Bay Area
+Experience
+Harvard University
+Teaching Fellow
+January 2020 - Present (3 months)
+Teaching Fellow for CS 124 (Data Structures and Algorithms).
+MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)
+Undergraduate Research Assistant
+September 2019 - Present (7 months)
+PixelHacks
+Founder, Executive Director
+October 2016 - Present (3 years 6 months)
+- Founded & presided over PixelHacks, the Bay Area's first all-female and
+student-run high school hackathon. Introduced 200+ high school women to
+computer science, technology, and entrepreneurship.
+- Oversaw logistics, managed team, & secured $50K+ of monetary & in-kind
+sponsorships over 2 years.
+- Featured by Teen Vogue, Yahoo News, CS4ALL, and other outlets.
+- Served as a mentor for future PixelHacks programs.
+Apple
+Software Engineering Intern
+May 2019 - August 2019 (4 months)
+Cupertino
+Intern on the Xcode team within the Developer Tools department.
+- Developed automation infrastructure for Xcode’s testing platforms.
+- Designed and implemented pipeline to integrate testing systems with multiple
+backend services and Splunk.
+TechTogether
+Technology Team Chair / Front-End Developer
+April 2018 - March 2019 (1 year)
+Page 1 of 3
+- Worked with a team of 30+ other students to organize TechTogether,
+Boston's largest all-female and femme non-binary hackathon (formerly known
+as SheHacks Boston).
+- Front-end development (HTML, CSS, JavaScript) for the organization/event's
+website.
+Emory University
+Mathematics Research Fellow
+April 2017 - August 2017 (5 months)
+- Conducted research on producing an infinite class of polynomials that
+satisfies the Riemann zeta-function. One paper published (with co-author).
+- Participated in Emory University's REU (Research Experiences for
+Undergraduates). Awarded through & sponsored by the Spirit of Ramanujan
+Global Math Talent Search Fellowship.
+Khan Academy
+2 years 4 months
+Director and Member of Khan Academy's Student Advisory Council
+July 2015 - August 2017 (2 years 2 months)
+- Headed the national council of 40 high school and college students.
+- Designed, advised, and reviewed projects that helped improve Khan
+Academy’s content and strategy (for example, reviewing math and science
+videos/articles and providing feedback on how the articles could be improved
+for students).
+Content Team Intern
+May 2015 - June 2015 (2 months)
+- Evaluated ~2000 videos for the Khan Academy Talent Search video contest.
+- Created math and computer programming exercises and quizzes.
+- Designed illustrations for the website’s interface and math exercises.
+- Tabulated 1500 Excel data responses regarding educational YouTube
+channels.
+- Evaluated all applications for the Student Advisory Council.
+Stanford University
+Stanford Artificial Intelligence Laboratory Outreach Summer Program
+(SAILORS)
+August 2015 - August 2015 (1 month)
+Page 2 of 3
+SAILORS is a two-week program that provides both broad exposure to AI
+topics through faculty lectures and industry field trips, as well as an in-depth
+experience with a research area through hands-on projects.
+- 1 of 24 students selected worldwide, full tuition paid for all participants in
+2015.
+- Built a Python platform that utilized natural-language processing (Bayesian
+models) to aid disaster relief, specifically categorizing tweets from Hurricane
+Sandy into those asking for help and those providing help.
+Education
+Harvard University
+Computer Science and Mathematics · (2018 - 2022)
+Stanford Online High School
+· (2016 - 2018)
+Page 3 of 3

@@ -1,0 +1,180 @@
+Contact
+www.linkedin.com/in/tiffanydenkler
+(LinkedIn)
+Top Skills
+JavaScript
+Java
+Angular
+Languages
+English (Native or Bilingual)
+Honors-Awards
+Honor Graduate Accolade
+Star Performer Team Award
+Outstanding Professionalism Award
+(x2)
+Employee of the Quarter Award
+Special Recognition Award
+Tiffany Sweeney
+Software Developer ‫٭‬ Code Enthusiast ‫٭‬ Technology Addict
+Phoenix, Arizona Area
+Summary
+My early job title of being the resident "family technology doctor"
+led me to become interested in Software Development. Once I
+discovered programming, I couldn't get enough. I started making
+websites for my friends and family, got one of my first jobs at Geek
+Squad --- began coding and the rest is history!
+I am a Performance driven Full Stack Software Developer currently
+focused on Web (Angular/React, Javascript, HTML, CSS) and
+Java /Spring / Groovy. In addition, I have a passion for mobile
+development and dabble in Xamarin Cross Platform. With my
+exemplary communication skills and achievement focused mindset, I
+bring a fresh perspective to the software development environment.
+My detail oriented focus gained from my experience with the United
+States Air Force works hand in hand with my proven problem-solving
+expertise.
+I am always searching for new avenues to cultivate my software
+development skillset. If you are curious about my skillset, please
+read more or contact me.
+---------------------------------------
+Experience and Skills
+o Focus FE: Web Technologies & Languages: Javascript, Angular,
+React, HTML, CSS(LESS & Sass)
+o Focus BE: Java /Spring / Groovy
+o Mobile Development: Xamarin Cross-Platform
+o Understanding of: .Net, ASP.NET, Python, APIs(RESTful), Material
+Design principles
+o Database: SQL, MongoDB, SQL server, Postgres
+o Testing: Unit testing, Automation Testing, Jasmine, Karma
+o Tools: Node, Express.js, Jenkins, Algolia, IIS, Azure, Gulp/
+Webpack, Jinja2, Sanic, Mustache/Handlebars Ng-CLI, rxJS
+o Agile Development Practices - interim Scrum Master
+Page 1 of 5
+o Source Control Software (TFS & Git)
+o Confident, articulate, and professional communication skills.
+o Team dynamics & Self-motivated
+Experience
+Salt River Project
+Programmer / Analyst
+July 2019 - Present (9 months)
+Phoenix, Arizona Area
++ Full stack developer focused on C#/.NET and Angular/Javascript
+applications
+Glynlyon Inc.
+Software Engineer
+December 2017 - July 2019 (1 year 8 months)
+Chandler, Arizona
++ Focused on Angular/Typescript, Javascript, Java, Groovy and Spring
++ Developed shareable modules for use within company such as custom
+audio/video players(Angular/Javascript), search tools for content and
+standards (Angular frontend / Java / Solr), dynamic content viewer, and
+reporting tools
++ Developed micro services for integration with RESTful endpoints such as
+search, assessment, standards, and reporting.
++ Utilizing: VSCode, IntelliJ, Docker, Jenkins, Jira, BitBucket, Postgres, Redis
+Intersys Consulting, Inc.
+Software Developer - Application Services Consultant
+May 2017 - December 2017 (8 months)
+Phoenix, Arizona Area
++ Define, design, develop, test, and deploy applications based on
+requirements gathered from working closely with clients to establish problem
+specifications and needs to form system designs.
++ Continuously learn and apply knowledge in a variety of languages/
+frameworks while quickly spinning up on new tech stacks as necessary to
+meet client’s needs.
++ Easily adapt to existing projects focusing on team-driven best practices and
+code compatibility.
+Page 2 of 5
++ Technology writer on Intersys Blog writing on emerging technologies, best
+practices, and coding concepts.
+--------Projects / Clients--------
++ HomeAway - Developed internal application focused on data organization,
+tracking data objects, tracing downstream/upstream datasets through data
+lineage with React.js. Tools: React, Algolia, Javascript, HTML, Docker,
+Jenkins, CSS, Git, Jira, CI/CD concepts
++ HomeAway - Collaborated with data scientists to refactor and redesign
+internal web application focused on analyzing search data by comparing
+search results on external website utilizing A/B testing. Tools: Python3, Sanic,
+Jinja2 templating, Pandas, Bootstrap
++ Internal Directory Mobile/Web App - Contributed coding to responsive
+mobile-first app built to manage consultancy practice information. Designed
+custom components, services, and enhanced UI elements. Debugged and
+supported. Tools: Angular 4, C# WebAPI, IIS, NPM, Microsoft Graph, AWS,
+BitBucket
+Salt River Project
+Software Development Graduate Intern
+May 2016 - May 2017 (1 year 1 month)
+Tempe, Arizona
+Full Time & Part Time
++ Develops enterprise based applications utilizing .NET technologies for
+internal based clients and stakeholders.
++ Design and development of high-profile & customer facing mobile
+application built with Xamarin (Android & iOS). Involved in all stages from
+design process through App Store deployment and maintenance.
++ Creates and implement unit, automation, and user interface testing for web
+and mobile applications while coordinating with Quality Assurance team to
+meet testing standards.
++ Scrum Master focusing on Agile programming principles. Communicates
+with business analysts and project managers identifying and organizing project
+tasks to ensure team meets deadlines and achieve project milestones.
+United States Air Force
+Page 3 of 5
+Assistant Directorate Operations Superintendent
+April 2012 - April 2016 (4 years 1 month)
+Greater Salt Lake City Area
++ Assisted in managing daily operations and delegating tasks to offices and
+personnel to meet deadlines. Coordinated with nine departments to ensure all
+tasks executed are of best quality.
++ Facilitated troubleshooting internal IT related issues and SharePoint
+Administrator for 349 employees.
+WEAPONS DIRECTOR (Sep 2014 - Apr 2016)
++ Directed the conduct of air operations and systems management with fifteen
+government agencies while employing risk management.
++ Analyzed combat identification, weapons control, surveillance, tactical data
+link management, communications, and computer system management.
+SCHEDULING COORDINATOR (NOV 2012 - MAR 2015)
++ Organized and de-conflicted schedules for over 150 employees as lead
+mission scheduler.
++ Guided and supervised in leader’s absence of five employees while
+proactively mentoring and instructing. Trained over 10 members in 62 different
+processes to maintain program continuity.
++ Restructured scheduling Quality Control processes as Project Lead; created
+10 effective processes.
+SURVEILLANCE TECHNICIAN (Apr 2012 - Aug 2014)
++ Managed and operated Command and Control Battle Management Systems
+by coordinating radar control and monitoring of aircraft and air weapons in over
+75 offensive and defensive operations.
+Geek Squad
+Database Administrator
+June 2009 - March 2012 (2 years 10 months)
+Elizabethtown / Louisville KY
++ Developed and maintained various databases with the implementation of
+Visual Basic/SQL and Access.
++ Designed databases that tracked & updated training needs for over 800
+employees; Project Lead.
++ Created various reports (charts, statistics, processes) using Excel and
+Access while analyzing data for trends and areas of improvement; increasing
+production by 25%.
+Page 4 of 5
+TEAM ASSISTANT (Oct 2009 - Dec 2010)
++ Created and maintained seven reports on team progress while assisting
+supervisor with team, delivering parts, and contacting customers for
+estimates.
++ Researched over 90 units on line daily to support turn time and team
+management while identifying and solving unit and part issues.
+COUNTER INTELLIGENCE AGENT (June 2009 - October 2009)
++ Diagnosed, repaired, and advised clients on computer issues while
+educating and engaging them on computer components, software, and
+specifications.
++ Facilitated company sales, productivity, and improving client relations with
+company.
+Education
+Ira A. Fulton Schools of Engineering at Arizona State University
+Master of Science (M.S.), Information Technology, Focus - Security & Software
+Engineering · (2016 - 2018)
+Western Kentucky University
+Bachelors of Science (B.S), Computer Information Technology, Focus -
+Computer Programming · (2013 - 2016)
+Elizabethtown Community and Technical College
+Associate of Applied Science, Computer Information Technology
+(Programming) · (2008 - 2011)
+Page 5 of 5

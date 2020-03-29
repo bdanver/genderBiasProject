@@ -1,0 +1,151 @@
+Contact
+www.linkedin.com/in/rensq
+(LinkedIn)
+Top Skills
+JavaScript
+MongoDB
+Node.js
+Languages
+English (Native or Bilingual)
+Chinese (Native or Bilingual)
+Certifications
+Learn UI Design
+Learning .NET Programming
+Learning Python and Django
+JavaScript: Test-Driven
+Development (ES6)
+Siqi Ren
+Software Developer at United Solutions, LLC
+Washington D.C. Metro Area
+Summary
+Full-Stack Developer | Experience with Data Scientists on Machine
+Learning/Deep Learning
+Skills: JavaScript, TypeScript, Java, C#, SQL, NoSQL, R, Python,
+Django, HTML 5, CSS, LESS, Angular 7+, Node.js, Express.js,
+MongoDB (MEAN), NgRx, jQuery, D3.js, Highcharts, Firebase,
+React, Git, SVN, npm, Bootstrap, Angular Material, Clarity.Design,
+TDD, Unit Test (JEST, Mocha, Chai), Integration Test (Supertest),
+Agile
+Tools: AWS (EC2, S3 Bucket), Postman, My SQL Server, SQL
+Developer (Oracle), Robo 3T, NoSQL Booster, WinSCP, PuTTY,
+Gitlab, Github, TortoiseSVN
+Experience
+United Solutions, LLC
+2 years 2 months
+Lead Software Developer
+September 2018 - Present (1 year 6 months)
+Rockville, Maryland
+- Lead, design, and develop individual applications include Value Optimization
+(Asset / Acquisition Management), Contract Review (EULA), Risk
+Management (Grants), and Skin Cancer AI.
+- Lead the development of Angular 7 web applications and make sure the UI/
+UX is consistent across different apps and components.
+- Collaborate with data scientists, discuss best practices for processing/saving/
+modifying data, and help them test APIs (built with flask).
+- Collaborate with UI/UX designers, also work with business analysts for use
+cases from business perspectives and make improvements.
+- Build backend server and RESTful APIs in Node.js that enable client-side
+to communicate with Python and MongoDB, including user authentication/
+management, file upload, JSON/formdata posting/fetching, and DB querying.
+Page 1 of 4
+- Visualize data in a variety of charts including bar/column/stacked chart (in
+3D), histogram, line/spline/area chart, pie/donut chart, gauge/solid gauge
+chart, polar/radar chart, map, time series, bubble chart, scatter plot, box plot,
+bell curve, etc.
+- Create and manage config files to adapt to different deployment environment
+settings.
+- Construct NoSQL/MongoDB queries based on business requirements, feed
+the data to Python server and frontend.
+- Build a data conversion app for pulling data from Oracle DB and SQL Server
+into a specific data service.
+- Deploy tested code on a regular basis on AWS, backup code & database
+collections.
+Software Developer
+January 2018 - September 2018 (9 months)
+Rockville, Maryland
+· Collaborated with Product Management teams to define, design and
+implement new releases as well as maintain existing releases.
+· Communicated with the user experience team to ensure quality client impact
+· Work in Agile and attending all the ceremonies and providing inputs
+· Estimated level of effort to develop code to meet acceptance criteria and
+manage task assignments.
+· Participated in software estimation, planning, and risk identification process
+· Led and maintained the development of application on time for accelerating
+Health and Human Services' acquisition process, and enhanced the
+communication between government users and vendors.
+· Build RESTful APIs in Node.js and Express for communications between the
+application's server-side and client-side, created and maintained more than 45
+routes.
+· Constructed NoSQL/MongoDB queries to improve data writing/fetching/
+processing efficiency and reduce the burden of client-side.
+· Integrated the routes to the database on Blockchain (DLT) with server-side,
+and test the routes using Postman (HTTP requests).
+· Developed application's front end using Angular framework with TypeScript,
+HTML, jQuery, and Less, created and maintained 10 modules and more than
+50 components including market research, price analysis, vendor profile/
+catalogs, and other modules.
+· Worked with the data scientists and database administrators to help them
+understand the application functions and data structures, to better integrate the
+Page 2 of 4
+application with real data. Adjusted algorithms in the application to adapt data
+structure changes.
+· Lead team of 4 full-stack developers, estimate user story points for each
+Sprint with BA and UI/UX designers, allocated user stories to each developer,
+managed Kanban board, and reported status to Product Manager on a regular
+basis.
+· Performed bi-weekly application deployment and database update/backup.
+Paradyme Management Inc.
+Corporate Technical Intern - Web Development
+September 2017 - December 2017 (4 months)
+Greenbelt, MD
+· Develop a database application using Django (Python) that contains 8 data
+models, advanced search and filter functions.
+· Improve data input productivity by providing auto-fill and CRUD functionalities
+over the file system.
+· Design a Customer Relationship Management (CRM) system that keeps
+track of user’s meeting activity.
+· Enhance information processing by providing a summarized/personalized
+view of information, and filter functionalities.
+· Gather user requirements and document user stories for user’s approval,
+evaluate project scope and develop project plan.
+· Develop CRM using Django (Python), including build data models, create
+forms and views, and provide filter functions.
+Leibei Educational Consulting Ltd
+Consultant
+May 2016 - April 2017 (1 year)
+Nanjing, Jiangsu, China
+· Managed five-person team to perform eight-month services per customer on
+U.S. mater degree application; conducted 30 hours professional consulting on
+personal background digging and application guidance.
+· Analyzed suitable schools and programs based on previous years’ data;
+proposed targeting schools tailored to customer, narrowed down application
+range and increased success rate by 40%.
+· Organized application materials to fulfill admission’s requirements; formulated
+application stage plan, reducing application duration by one week.
+Compass Group USA
+Student Worker
+January 2015 - May 2015 (5 months)
+Page 3 of 4
+Springfield, MO
+· Performed regular inspections of work areas and food deliveries; sorted and
+arranged beverage and snack items on a regular basis. Cleaned tables floors
+and other parts of dining area.
+· Answered staff and student inquiries promptly and courteously; provided
+assistance to dining center and other school staff as needed.
+Anhui Huirui Certified Public Accountants
+Audit Intern
+May 2014 - July 2014 (3 months)
+Wuhu, Anhui, China
+· Undertook quick ratio and current ratio to analyze customers’ abilities to
+repay short-term debt; prepared reports and worksheets for manager’s
+overview.
+· Analyzed over two months’ journal entries; prepared income statements and
+balance sheet for five tax bureau agencies’ review and approval.
+Education
+University of Maryland College Park
+Master’s Degree, Information Systems · (2016 - 2017)
+Missouri State University
+Bachelor’s Degree, Accounting, Computer Information System · (2014 - 2016)
+Liaoning Normal University
+Bachelor’s Degree, International Business · (2012 - 2016)
+Page 4 of 4

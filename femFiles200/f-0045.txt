@@ -1,0 +1,125 @@
+Contact
+www.linkedin.com/in/stacy-
+gallagher-a2555359 (LinkedIn)
+Top Skills
+ASP.NET MVC
+C#
+Microsoft SQL Server
+Stacy Gallagher
+Senior Software Developer at Applied Information Sciences
+Washington, District Of Columbia
+Experience
+Applied Information Sciences
+Senior Software Developer
+September 2014 - Present (5 years 6 months)
+Senior software consultant working on customer-facing enterprise project
+for a large insurance company. My responsibilities include developing front-
+end functionality utilizing Knockout viewmodels, components, extensions,
+and templates. Additionally, I write CSS to accommodate responsive design
+and to improve user experience. I also act as a front-end mentor to fellow
+developers and participate in code reviews to ensure consistency and quality.
+I have also participated in the development of a greenfield project consuming
+the capabilities of a custom IBM Watson implementation. My responsibilities
+included documenting server topology, creating RAML files, mocking backend
+services, and developing APIs for enterprise big data project.
+Click Here
+Senior Software Developer
+August 2011 - August 2014 (3 years 1 month)
+Click Here is the digital arm of the largest independently owned advertising
+agency in the country. Click Here is responsible for producing cutting edge
+web experiences for some of the agency’s biggest clients.
+• Utilize and customize AngularJS components of Umbraco CMS to create
+customer facing website for regional Texas bank.
+• Develop custom user controls and database structures to implement a
+complicated creative design in a Kentico 6 CMS for the new Central Market
+website.
+• Redesign and develop SQL data structures for existing recipe database.
+Write scripts to import, clean, and redistribute data elements to new
+normalized data structures. Develop a web service using RESTful asp.net Web
+API to return recipe data via JSON to iPhone app.
+• Develop MVC 3 application for GoRVing coalition lead generation and
+reporting system utilizing Entity Framework 4 with POCO classes, custom
+repositories and mappers, a custom security module, and views using the
+Razor view engine.
+Page 1 of 4
+• Develop RESTful API to allow public facing lead generation forms to interact
+with database and manage subscription details in ExactTarget.
+• Utilize and manage various agile methodology concepts to organize multiple
+projects with many groups involved to deliver applications on short timelines.
+• Participate in senior developer leadership and mentoring group responsible
+for establishing best practices and developing tutorials for technical and non-
+technical agency members.
+• Continue to study and learn new trends in technology and determine best
+practices for agency Microsoft projects. Currently learning F# and NoSQL.
+Texas Education Agency
+6 years 3 months
+Team Lead, Developer/Analyst - ISAM-Enhanced Project
+June 2008 - May 2011 (3 years)
+The ISAM-Enhanced application allows public school districts and campuses
+to interact with the Division of Program Monitoring and Interventions regarding
+intervention-related activities due to certain performance concerns and/or data
+anomalies. Districts may download and upload interactive PDF templates to
+assist in focused data analysis and to report findings and corrective action
+plans, post questions to internal agency reviewers, and view information
+regarding the status of the intervention review process.
+• Lead extensive requirements gathering sessions with division subject matter
+experts.
+• Allocate project resources and establish timelines; lead informal Agile
+development lifecycles to maximize resources and deliver functionality on time.
+• Participated in complex database design based on standards and
+normalization principles.
+• Lead efforts to establish best practices for first MVC project at the agency.
+• Developed IOC container infrastructure using StructureMap.
+• Lead development of reusable business components using C# generics,
+design patterns and design principles.
+• Implemented two-way data binding against business objects using
+NHibernate, MVC custom model binding, and custom mapper classes.
+• Develop JQuery-driven lookup tools, upload functionality, and interactive
+datagrids within MVC framework.
+• Implement attribute-driven object validation using Castle Validator
+Component.
+• Incorporate Test-Driven Design (TDD) when possible using NUnit, Rhino
+Mocks.
+Page 2 of 4
+• Run security app scans using Vericode and remediate security vulnerabilities.
+Lead Developer/Analyst - ISAM Project
+September 2006 - June 2008 (1 year 10 months)
+ISAM was a secure, external website that allowed public school districts
+to view intervention staging information that was managed in a separate
+web application. Additionally, the application allowed districts to upload
+intervention-related documents to an agency network server.
+• Designed and developed 3-tier object-oriented ASP.NET application involving
+C# business and data components, server controls, user controls, and
+ADO.NET to access data residing in SQL Server 2005 database.
+• Promoted reusability by creating a page base class, site-wide user controls,
+and a flexible data access component.
+• Created triggers, views, and stored procedures.
+• Developed and consumed XML web service to retrieve data from disparate
+data sources.
+• Participated in the development of an XML validation engine used to validate
+user input.
+• Designed and implemented custom event handlers and delegates.
+• Coordinated multiple software development life cycles from requirements
+analysis to roll-out, implementation, and production support.
+Lead Developer/Analyst - pmiTracker Project
+March 2005 - February 2007 (2 years)
+pmiTracker was an internal web application that managed district staging
+information and review outcomes. The application allowed internal agency
+reviewers to enter and track special education and other federal program
+noncompliance and update review status information.
+• Gathered business requirements, performed analysis, and interacted with
+management and users.
+• Developed database design based on agency standards and normalization
+principles.
+• Designed system architecture and generated design documentation.
+• Designed and developed custom control library.
+• Created triggers, views, and stored procedures.
+• Generated template letters using WordML, XML schemas, and XPath.
+• Wrote test cases and coordinated multiple user testing cycles.
+Page 3 of 4
+Education
+The University of Texas at Austin
+Bachelor's degree, English Language and Literature, General · (1992 - 1996)
+University of Texas
+Bachelor of Arts (BA)
+Page 4 of 4

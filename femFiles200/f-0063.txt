@@ -1,0 +1,75 @@
+Contact
+www.linkedin.com/in/janejiwonlee
+(LinkedIn)
+Top Skills
+C++
+HTML
+Adobe Photoshop
+Jane Lee
+Software Engineering Intern at Microsoft
+Los Angeles, California
+Experience
+Microsoft
+Software Engineering Intern
+September 2019 - Present (7 months)
+Bellevue, Washington
+Maps & Geospatial team
+Amazon
+Software Development Engineer Intern
+June 2019 - September 2019 (4 months)
+Greater Seattle Area
+• Designed and developed an iOS application (Swift) which provides a
+customized test drive experience provided entirely through the mobile app.
+Application allows for users to control vehicles with a keyless approach
+through the app’s buttons, and integrates with Alexa to respond to inquires
+speciﬁc to test drive vehicle being driven.
+• Implemented keyless hardware control of vehicles using asynchronous
+networking calls to hardware installed in vehicle, providing functionality for user
+to ﬁnd, lock, and unlock vehicle through the app.
+• Built timers counting down until the time of the begin and end of the
+scheduled test drive, restricting vehicle control to allocated time frame and
+visually informing users of such time restraint.
+• Provided redirection of users to Amazon product page respective to vehicles
+driven, where customers could leave a review or be provided a dealership to
+purchase vehicle.
+Viasat Inc.
+Software Engineering Intern
+June 2018 - September 2018 (4 months)
+Greater San Diego Area
+• Developed an internal web application using the MEAN stack (MongoDB,
+Express, AngularJS, Node.js) which allows business analysts to more
+conveniently record and review project plans in a standardized format utilizing
+SurveyJS.
+Page 1 of 2
+• Built email sharing functionality to allow users to invite others to access plans
+with an individualized auto-generated link which takes into account permission
+levels respective to each user, thus ensuring security of sensitive data.
+• Refactored existing code to allow for ease in implementation for future
+features, considering dependency between answers and alteration of survey
+template.
+• Product resulted in a conservative return on investment of being $150,000
+per year.
+Intel Corporation
+Software Engineering Intern
+June 2017 - September 2017 (4 months)
+Greater San Diego Area
+• Developed an Android program for assisted home devices, designing a
+uniquely optimized algorithm to manipulate audio projection relative to user
+position by incorporating facial detection through computer vision to detect
+user proximity.
+• Constructed state machine design to allow for ease in not only the audio
+handoff process and functionality between multiple devices, resulting in
+simpler debugging and program architecture as well.
+• Implemented audio synchronization within devices through both NTP time
+and server-client communication through an access point/WiFi, providing
+multiple options of synchronization in anticipation of various network
+availabilities.
+• Created the algorithm for distance dependent audio output by ascertaining
+key visual features, using data gathered to determine the rate of volume
+change to provide an optimal listening experience.
+• Maximized application performance in regard to runtime and memory with
+statistics gathered from Traceview and execution logs.
+Education
+University of California, Los Angeles
+Bachelor of Science - BS, Computer Science · (2015 - 2020)
+Page 2 of 2

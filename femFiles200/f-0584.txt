@@ -1,0 +1,122 @@
+Contact
+www.linkedin.com/in/brianna-
+ondris-802754108 (LinkedIn)
+Top Skills
+Organizational Leadership
+C#
+Java
+Languages
+English (Native or Bilingual)
+Certifications
+Baccalaureate Certificate da Vinci
+Center - Department of Venture
+Creation
+IT.1.1x: Introduction to Java
+Programming
+Brianna Ondris
+Software Developer, Human Centered Designer, Media Artist
+Vienna, Virginia
+Summary
+My passion is to develop interactive technologies, from UI to
+backend logic, guided by a human centered design to create the
+most proficient and usable technologies.
+The diverse amount of experience I’ve gained in professional
+environments and research funded projects has given me the ability
+to know a large variety of skills. These range from developing web
+API's in C#, querying data from a SQL database, programming
+within a .net core MVC frontend using Angular, building Unity
+applications with VR and AR additions, hands on user testing,
+functionality and API performance testing, communicating and
+reporting testing results to teams and management, and designing
+wireframes and updating both UI and UX.
+Experience
+VoicingHan
+Unity Developer and UX Designer
+June 2018 - Present (1 year 10 months)
+Richmond, Virginia Area
+Works within Unity to develop and expand interactivity and the user experience
+through the Unity tools and C# scripts. Researches with different technologies
+and systems, such as the HoloLens, Microsoft Kinect, Oculus Rift and more,
+to develop the best user experience that Voicing Elder is thriving to serve.
+Utilized Unity(C#), Perception Neuron PRO System, and integrated AI Cortana
+for language recognition for application functionality.
+Virginia Commonwealth University
+5 months
+Technology and Research Assistant
+August 2019 - December 2019 (5 months)
+Richmond, Virginia Area
+Page 1 of 4
+Created lesson plans for an interdisciplinary, undergraduate course focused on
+Unity3D which supported the collaboration between Art and Computer Science
+majors.
+Led medium-sized classroom lectures that focused on UX for VR and AR
+technologies and visual design elements for 3D and 2D game stylization.
+Expanded curriculum that educated on Maya, Oculus Rift, ARKit,
+ARCore, Meta Headset, Microsoft Kinect and Google’s Firebase.
+Communicated one-on-one and in groups to provide collaborative feedback to
+students to provide technical and presentational support
+Videographer
+August 2019 - November 2019 (4 months)
+Richmond, Virginia Area
+Videographer for VCU Dance, recorded live performances.
+Markel
+Full-Stack Developer Consultant
+October 2018 - May 2019 (8 months)
+Richmond, Virginia Area
+Contracted through Experis, I worked to develop API specifications for the
+Markel Development Portal with multiple teams. I ensured traffic flow and API
+testing with Apigee, Swaggerhub, Postman, and within the Development Portal
+as well contributed to the user experience and solution based-design of the
+Developer Portal and the consumption of the API's.
+Think of Us
+2 years 6 months
+Full Stack Developer
+January 2017 - October 2018 (1 year 10 months)
+Richmond, Virginia Area
+Full Stack Developer who has development within asp.net Core MVC front end
+using angular v6 backed by asp.net core webap. I have a key development
+role in writing C# API calls to query data from SQL database, debugged and
+tested API calls functionality, and refactored code as needed for Think of Us
+web application
+Web Developer Intern
+May 2016 - December 2016 (8 months)
+Richmond, Virginia Area
+I'm a Full Stack Developer who works the front end and server side on
+developing the Think of Us Platform
+Page 2 of 4
+Voicing Elder
+Media Manager and Videographer
+February 2016 - June 2018 (2 years 5 months)
+Richmond, Virginia Area
+Expanding Voicing Elder program and functionality via Unity with C# scripts
+Videographer and Editor documenter for grant funding and project study
+Manager of Vimeo page
+1708 Gallery
+Summer Intern
+May 2016 - September 2016 (5 months)
+Video and Photography documentation of the 5x5 summer exhibitions at 1708.
+Maintained gallery space and managed front desk, as well as organized and
+categorized art works and proposal submissions.
+Domino's
+Cashier
+May 2015 - September 2015 (5 months)
+Mountain Creek Resort
+Cashier
+June 2014 - August 2014 (3 months)
+Crystal Springs Resort
+Child Care and Art Activity Coordinator
+June 2010 - August 2014 (4 years 3 months)
+Vernon NJ
+Worked in nursery with children of the ages from under one year to toddlers.
+Also worked with children from the ages of 5 to 12. Created a variety of art
+activities and programs
+Mountain Creek Resort
+Ski Instructor
+November 2010 - April 2011 (6 months)
+Education
+Virginia Commonwealth University
+Bachelor's fine arts, Kinetic Imaging · (2013 - 2017)
+Page 3 of 4
+Sussex County Technical School
+High School, Commercial and Advertising Art · (2009 - 2013)
+Page 4 of 4

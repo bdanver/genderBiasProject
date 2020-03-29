@@ -1,0 +1,76 @@
+Contact
+www.linkedin.com/in/isabellindmae
+(LinkedIn)
+IsabelLindmae.com (Personal)
+github.com/Lindmae/ (Personal)
+Top Skills
+C
+C++
+Java
+Languages
+English (Native or Bilingual)
+Estonian (Native or Bilingual)
+French (Limited Working)
+Honors-Awards
+Phi Theta Kappa
+AP Scholar with Honor Award
+Dean's List
+Publications
+MC1: A Bespoke Analysis Tool for
+Spatio-temporal Park Traffic Data
+Isabel Lindmae
+Front End Developer at Cooler Screens Inc.
+Chicago, Illinois
+Summary
+Front End Developer at Cooler Screens Inc. with a passion for UX.
+Well versed in JavaScript, React library, and Python.
+Experience
+Cooler Screens Inc.
+Front End Developer
+June 2019 - Present (9 months)
+Chicago, Illinois
+Implement new designs for our cooler screens, web apps for retailers, and
+tools for internal use. Utilize JavaScript, React library, Jest, and Enzyme,
+for testing and developing code. Work closely with design team to prototype
+future concepts. Developed sales tags for new retailers. Automated ad
+banner placement logic for screens and created css-driven shadows on
+products, reducing manual workload for design team. Increased sales by 3%
+by developing new scaling logic for products on screens. Optimized animations
+within the merchandising app, reducing CPU workload by 90% and allowing for
+more content on the screens.
+Cisco
+Software Engineer
+July 2018 - June 2019 (1 year)
+San Jose
+Worked on a bookmark management application developed with Python,
+Flask, MongoDB, and Javascript. Formally designed and implemented a new
+hybrid agile UX process for team. As a solo side project, developed a React
+front-end application for a storage performance analytics dashboard. Currently
+developing a react front-end application for an internal micro service.
+University of Illinois at Chicago
+1 year 10 months
+Undergraduate Teaching Assistant
+August 2017 - May 2018 (10 months)
+Greater Chicago Area
+Page 1 of 2
+Undergraduate TA for Software Design course and Intro to Programming.
+Assisted students with semester long projects, both with planning and coding
+(Java and Python). Aided teacher with grading and creating assignments.
+Undergraduate Research Assistant
+May 2017 - December 2017 (8 months)
+Greater Chicago Area
+Created interactive visualizations with D3 and Javascript. Worked in a team
+of undergraduates to create context-aware tools for visual analysis. Deployed
+data-driven web applications.
+Undergraduate Computer Science Tutor
+August 2016 - May 2017 (10 months)
+Greater Chicago Area
+Assist students with all level computer science courses. Provide aid with
+labs, projects, and general homework questions. Maintain knowledge of
+programming languages and previous semesters material for all classes.
+Education
+University of Illinois at Chicago
+Bachelor’s Degree, Computer Science · (2015 - 2018)
+Harper College
+General Studies · (2013 - 2015)
+Page 2 of 2

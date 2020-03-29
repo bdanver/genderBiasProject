@@ -1,0 +1,164 @@
+Contact
+www.linkedin.com/in/jennylian
+(LinkedIn)
+Top Skills
+Java
+C++
+C
+Languages
+French (Beginner)
+Honors-Awards
+LinuxCon Diversity Scholarship
+NSERC IUSRA
+DockerCon Diversity Scholarship
+UBC President's Entrance
+Scholarship
+RIM Philanthropy Award
+Jenny Lian
+Software Developer at Microsoft
+Seattle, Washington
+Summary
+I want to get to know you. Throughout my life, I have always been
+passionate in meeting people and working with others. Working in a
+team is very exciting - I love the diversity and fresh new ideas that I
+am exposed to.
+I am aspiring to be a great software developer. I have worked as a
+software developer intern throughout my university degree. During
+this time, I have worked on amazing front-end web application
+technologies with Visier, React SPA with Arista, scalable backend
+and full stack applications with AWS, and low-level Linux drivers for
+Ericsson’s Smart Services Router. Outside of my work, I am also
+very active in the local hacking community. You can often find me
+attending local hackathons, making software to help an idea come to
+life.
+I've also studied Economics student at UBC, where I developed
+the skills to analyze problems critically, solve complex mathematic
+equations and modeling economic theories with statistics. These
+skills helped me land an internship with BlackBerry at a product
+management role, and introduced me to a lot of exciting concepts in
+the mobile/telecom industry.
+My colleagues and classmates know me as a personable leader
+and a diligent team member. I am responsible and always there
+for my team. In a leadership role, I like to listen to everyone’s input
+and understand the objective and business problem deeply. I can
+delegate tasks according to my team member’s strength and areas
+of interest to complete a project at a high standard. As a team
+member, I am collaborative and often like to share my opinion with
+team members. I often put in extra time and effort to meet deadlines
+and help out as much as I can.
+Page 1 of 5
+I am currently looking to add more connections to my LinkedIn
+network. If you want to get to know me as well, please send me a
+LinkedIn request.
+Experience
+Microsoft
+Software Developer
+April 2019 - Present (11 months)
+Redmond, WA, United States
+Amazon Web Services (AWS)
+Software Development Engineer
+May 2017 - November 2019 (2 years 7 months)
+Greater Seattle Area
+Amazon Web Services (AWS) is a subsidiary of Amazon.com that provides
+on-demand cloud computing platforms to individuals, companies and
+governments, on a paid subscription basis. The technology allows subscribers
+to have at their disposal a full-fledged virtual cluster of computers, available
+all the time, through the Internet. AWS's version of virtual computers have
+most of the attributes of a real computer including hardware (CPU(s) & GPU(s)
+for processing, local/RAM memory, hard-disk/SSD storage); a choice of
+operating systems; networking; and pre-loaded application software such
+as web servers, databases, CRM, etc. Each AWS system also virtualizes its
+console I/O (keyboard, display, and mouse), allowing AWS subscribers to
+connect to their AWS system using a modern browser. The browser acts as
+a window into the virtual computer, letting subscribers log-in, configure and
+use their virtual systems just as they would a real physical computer. They can
+choose to deploy their AWS systems to provide internet-based services for
+their own and their customers' benefit.
+The University of British Columbia
+Teaching Assistant
+September 2013 - May 2017 (3 years 9 months)
+Computer Science
+CPSC 213 - Introduction to Computer Systems
+CPSC 101 - Connecting with Computer Science
+Page 2 of 5
+Teamwork: created course content, course e-learning tools by implementing a
+Just-in-Time Teaching (JiTT) methodology with a team of 8 instructors
+Taught lab material on a weekly basis; help students to master important
+computing concepts and knowledge regarding data structures
+Streamlined assignment evaluation process, created new user interface and
+improved transparency of grading procedures
+Arista Networks
+Web Developer Intern
+September 2016 - December 2016 (4 months)
+- Developing and documenting features for single-page web applications using
+React, Redux, D3, ES6/Babel, LESS, Webpack
+- Contributing to the success of software development by introducing support
+features in the areas of code coverage, source map management and
+debugging, auto-generating CSS prefixes etc.
+Amazon Web Services
+Software Engineering Intern
+May 2016 - August 2016 (4 months)
+Greater Seattle Area
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides
+resizable compute capacity in the cloud. It is designed to make web-scale
+cloud computing easier for developers.
+Amazon EC2’s simple web service interface allows you to obtain and configure
+capacity with minimal friction. It provides you with complete control of your
+computing resources and lets you run on Amazon’s proven computing
+environment. Amazon EC2 reduces the time required to obtain and boot new
+server instances to minutes, allowing you to quickly scale capacity, both up
+and down, as your computing requirements change. Amazon EC2 changes
+the economics of computing by allowing you to pay only for capacity that
+you actually use. Amazon EC2 provides developers the tools to build failure
+resilient applications and isolate themselves from common failure scenarios.
+Ericsson
+Software Developer Co-op
+January 2015 - August 2015 (8 months)
+Burnaby
+Page 3 of 5
+• NSERC IUSRA award recipient: Safeguarding FPGA Images and In-System
+Non-Volatile Memory Module Firmware Upgrades on Line Interface Cards
+• Using Git, gmake and other GNU tools to build OS images for Smart Service
+Routers to meet customer’s technical specifications regarding system security
+• Maintained software compatibilities with new firmware and hardware
+upgrades by modifying FPGA’s and manifest files in various Linux OS images
+• Developed Tinder-like social media application for Ericsson mentor matching
+process as a part of Ericsson's internal 24 hour hackathon
+• Program Manager for Ericsson Internship Project - Brand Awareness
+Campus Branding App, recognized and awarded by Ericsson senior
+executives amongst more than 300 interns
+UBC Sauder School of Business
+Program/Project Assistant
+2012 - 2013 (1 year)
+University of British Columbia
+- Ensured high standard of customer service by being the first line of contact,
+representing our organization to clients, Master of Management candidates
+and industry partners
+- Exhibited resilience and determination by taking on additional difficult and
+complex responsibilities
+- Collaborated in a professional manner with external stakeholders from
+Information Technology and Marketing to manage the COE’s online presence
+- Demonstrated outstanding management and communication skills through
+areas of event organization, vising off-site clients for business deliverables
+BlackBerry
+Handheld Management and Tracking Associate
+2011 - 2012 (1 year)
+Ottawa, Canada Area
+- Achieved HMT pre-production device deployments deliverables in a timely
+manner by using different functions of SAP Enterprise Resource Planning to
+support internal teams
+- Demonstrated good customer service and problem solving skills by analyzing
+ambiguous situations and using various software tools to troubleshoot
+technical difficulties
+- Oversaw product management of BlackBerry handheld assets, segmenting
+consumer markets based on demographics and product functionality
+Page 4 of 5
+- Able to multi-task and prioritize task efficiently to meet end users’
+expectations by completing multiple shipments, product deployments, software
+customization to meet carrier deadlines
+Education
+The University of British Columbia
+Bachelor's Degree, Economics
+The University of British Columbia
+Bachelor’s Degree, Computer Science
+Page 5 of 5

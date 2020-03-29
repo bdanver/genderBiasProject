@@ -1,0 +1,125 @@
+Contact
+www.linkedin.com/in/leeacker
+(LinkedIn)
+Top Skills
+Website Development
+Web Development
+InDesign
+Lee Acker
+Software Developer at EMS Software
+Greater Denver Area
+Summary
+Among other things, I love adventures, exploring, problem solving,
+learning new things, helping people, and exercising my expansive
+imagination.
+Currently focusing on adding to the breadth of my programming/
+problem-solving knowledge and enjoying life in the beautiful state of
+Colorado.
+Technical Skills:
+Languages and Technologies: JavaScript, CSS, HTML
+Tools and Applications: jQuery, NodeJS, MongoDB, Express,
+Mongoose, Jade, Handlebars, UnderscoreJS, MeteorJS, Twitter
+Bootstrap, Adobe Creative Suite (Photoshop, Illustrator, InDesign),
+Git, NativeScript, ReactJs, React Native
+acker.lee4@gmail.com
+m: 843.364.7230
+Experience
+EMS Software
+Software Developer
+April 2018 - Present (2 years)
+Centennial, CO
+Charter Communications
+Application Developer (Consultant)
+January 2018 - March 2018 (3 months)
+Denver, Colorado
+Page 1 of 4
+EMS Software
+Front End Developer
+August 2015 - December 2017 (2 years 5 months)
+Centennial, CO
+Part of the team that created the first mobile applications for the company
+(NativeScript and React Native)
+Part of (and eventual team lead of) a small team that built a Kiosk application
+in React utilizing Typescript and Leaflet
+Other technologies and tools:
+Webpack, Xcode, Google Developer console, Apple Developer Tools, jfrog,
+GitLab, Fastlane, Visual Studio, Yarn
+Gingr, LLC
+UI Developer
+May 2015 - August 2015 (4 months)
+Boulder, CO
+At Gingr I worked on the Front End of the company's web-based doggy day
+care/boarding kennel software using React.js
+While there, I rewrote the dashboard of the application (originally written in
+vanilla javascript with a little help from jQuery) and implemented a drag and
+drop calendar, amongst other small projects.
+Gloo
+Front-End Developer
+December 2014 - July 2015 (8 months)
+Boulder, CO
+While at Gloo, I worked on small client based front end projects in JavaScript.
+I also was given the task of figuring out how to automate the transfer of
+hundreds of client PDFs into readable data for the company's software. This I
+accomplished using a combination of node.js and file systems interaction via
+the command line.
+RefactorU
+Full Stack JavaScript Web Developer Apprentice
+September 2014 - November 2014 (3 months)
+Boulder, CO
+- Front End: HTML / CSS, Bootstrap, JavaScript, jQuery & Underscore.js
+- Back End: MongoDB, Node.js, JSON, Jasmine & Jade
+- Code: Git & Grunt
+Page 2 of 4
+- Skills: Command Line, Semantic Markup, Developer Tools, Responsive
+Web Design, Ajax, Build Systems, Functional Programming, Object-Oriented
+Programming, Debugging Skills, Pair Programming, Test-Driven Development,
+Unit Testing & Design Patterns
+Classic Graphics
+3 years 4 months
+Project Manager (Mailing)
+December 2013 - August 2014 (9 months)
+I managed single and ongoing mailing projects, from evaluation and planning
+through implementation. In this role I also acted as a liaison between sales
+teams or clients and our mailing production staff, variable data prep, and data
+processing teams.
+I also performed any responsibilities having to do with all ongoing projects,
+including reporting and inventory tracking.
+Client Services Coordinator
+May 2011 - December 2013 (2 years 8 months)
+I came on board at Classic to work as a liaison between clients and production
+staff, ensuring that all quality and time standards were met and exceeded
+based on client requests and expectations. I soon after took on several other
+responsibilities, independent of my CSR duties, in order to maximize efficiency
+and workflow for the two sales teams that I supported. In addition to managing
+print projects, I also completed prepress work in order to meet tight turn times
+of a Fortune 500 client, planned and managed mailing jobs, and coordinated
+projects involving kitting and distribution.
+My unique hybrid position eventually led to the advent of more and more
+mailing project management responsibilities from sales teams outside of
+my own, and soon after led to my full-time position as a Mailing Specialist in
+Classic's mailing department.
+TD's of Clemson
+Server/Bartender
+May 2010 - November 2010 (7 months)
+Arbordale Publishing
+Art Director
+January 2009 - May 2009 (5 months)
+Mount Pleasant, SC
+- Designed page layouts and covers for Fall 2009 book collection
+Page 3 of 4
+- Created advertisements and marketing collateral
+- Created forms and simple web applications for company website
+Arbordale Publishing
+Graphic Designer Internship
+May 2008 - August 2008 (4 months)
+Mount Pleasant, SC
+- Designed page layouts for fall book collection
+- Created advertisements
+- Assisted in design of book covers
+- Provided troubleshooting for eBooks
+Education
+RefactorU - Boulder
+Full Stack Development · (2014 - 2014)
+Clemson University
+BS, Graphic Communications · (2006 - 2010)
+Page 4 of 4

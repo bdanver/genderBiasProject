@@ -1,0 +1,187 @@
+Contact
+www.linkedin.com/in/leahdickstein
+(LinkedIn)
+Top Skills
+Ember.js
+Python
+Git
+Languages
+French (Limited Working)
+Chinese (Native or Bilingual)
+Honors-Awards
+Leadership Scholarship
+Center for Science of Information
+Scholar
+Semiconductor Research
+Corporation Scholar
+Leah Dickstein
+Software Engineer at Facebook
+Fremont, California
+Summary
+I'm currently a fourth-year student at UC Berkeley studying Electrical
+Engineering and Computer Science. I currently do research with
+Professor Alex Bayen, 4th year PhD student Cathy Wu and a group
+of other talented individuals in deep reinforcement learning for traffic
+control policies. Next semester I will be TA-ing for CS170 Algorithms.
+I previously did research with Professor Sahai and Dr. Gireeja
+Ranade in Control Theory; my project focuses on the tradeoff
+between Delay and Control/System instability. My research is
+funded by both SRC and NSF CSoI. I then worked on the effects
+of delay and finite blocklength error-correcting codes in a wireless
+communication protocol designed for control systems. We published
+to Allerton Conference on Control, Communication and Computing.
+In my spare time, I enjoy running (5-10 miles), indoor/outdoor rock
+climbing, knitting, exploring new restaurants, and reading fantasy/sci-
+fi/classics. I also like GoT and WestWorld.
+Experience
+Facebook
+Software Engineer
+July 2017 - Present (2 years 8 months)
+Menlo Park
+I worked for 1 year on Facebook App Monetization Ranking (ML for Ads). I
+now work on AI Infra, building a platform to launch ML workflows in a scalable
+and usable way.
+Research in Reinforcement Learning
+Researcher
+October 2016 - May 2017 (8 months)
+UC Berkeley
+I am involved with a project under Professor Alex Bayen, 4th year PhD student
+Cathy Wu, 2 other PhD students and 2 other undergraduates. I am focusing
+Page 1 of 6
+on applying deep reinforcement learning policies to a mixed autonomy traffic
+problem for reducing energy consumption on highways. In short, a central
+controller will give controls/actions to a set of self-driving cars, which will
+hopefully guide traffic composed of human-operated cars.
+Keywords: intelligent transportation systems, reinforcement learning, deep
+learning, control
+UC Berkeley
+2 years 5 months
+Research in Information/Control Theory and Communication Protocols
+June 2014 - October 2016 (2 years 5 months)
+I do research with Professor Sahai, Dr. Gireeja Ranade and PhD student
+Vasuki Swamy in Information Theory, Control Theory, and Communications.
+I presented my work at SRC TECHCON 2015, at which the top 10% of
+undergrads funded by SRC were selected to present. My work was also
+published at Allerton Conference for Communication, Control and Computing
+2016.
+L. Dickstein, V. Swamy, G. Ranade and A. Sahai “Finite Blocklength Coding
+for Low Latency High Reliability Wireless Communication” Allerton (2016)
+Applications include environment awareness and navigation in self driving
+cars, smart thermostats (Google Nest), and control in robotics.
+Communication channels are embedded in all technologies, and delay is
+present in all real-world channels. In control systems, the plant is growing
+increasingly unstable as time passes. The plant needs regular feedback from
+the controller in a short timeframe, and delay will increase the instability of
+the system. In contrast, delay means we are sending more bits across a
+channel before doing anything, which leads to higher precision in the message
+and higher reliability of decoding success. In this case, delay increases the
+stability of the system. Furthermore, the message encoding rate determines
+the message’s precision and reliability. I am exploring the relationship between
+delay and system stability through various control and encoding strategies.
+Keywords: Kalman Filter, Channel Coding/Theory, Linear estimation with
+multiplicative noise, Finite blocklength regime, Error correcting codes
+EE16A TA
+Page 2 of 6
+August 2015 - May 2016 (10 months)
+Course Staff of EE16A, Designing Information Devices and Systems I,
+a course of 450~750 students on linear algebra, circuits, and wireless
+communications / signal processing.
+I was the head TA of Content, meaning I was responsible for all homeworks
+and discussion worksheets released to the course. I worked directly with the
+professors and a team of Content TAs to generate 14 weeks of homework/
+discussion problems+solutions and ensure they meshed with lecture and were
+accessible to students.
+I also taught a discussion section 2 hours a week of about 40~60 students. I
+have held office hours, graded, and more.
+This is the first time the course is being run, so there is a lot of work to be done
+and it is very exciting!
+http://inst.eecs.berkeley.edu/~ee16a/sp16/
+I was previously a grader/course staff for CS70, Discrete Mathematics and
+Probability.
+Addepar
+Full Stack Software Engineering Intern
+May 2016 - August 2016 (4 months)
+Mountain View, CA
+Addepar is a financial software startup that helps investment firms analyze and
+report on their client's portfolios.
+I have a 12 week internship on the Files and Reporting team creating a 'Report
+Generation Center' that will speed up the reporting workflow, allow clients to
+download previously generated PDFs anytime, and significantly decrease the
+number of report generation server failures.
+My 13th week will be on rotation on the Portfolio Analysis team.
+Frontend framework: Ember.js
+Backend: Java
+Database: MySQL
+Los Alamos National Laboratory
+Page 3 of 6
+Research in Robotics and HCI
+June 2015 - August 2015 (3 months)
+Los Alamos, New Mexico
+Participating in the Los Alamos Dynamics Summer School, my research
+project is "Extending Human Proprioception to Cyberphysical Systems." A
+team of two undergrads, two LANL mentors and I developed a new interface
+for robotic control and a 3D simulation to test it.
+We developed a vibro-haptic sleeve consisting of 4 pairs of cell phone
+vibrators, which would vibrate as a linear function of the orientation of a robotic
+arm. I personally created a 3D simulation of a robotic arm using ROS, Gazebo
+and Pygame/Python to serve as the testbed for the sleeve. We tested the
+sleeve+simulation on human subjects to see whether the interface produced
+smoother and more efficient teleoperated robotic control. We hoped the
+sleeve would exploit a psychological phenomenon relating to sensation in the
+forearm, and our initial sleeve demonstrated that precision of vibration location
+and frequency is crucial for improving teleoperated control via proprioception.
+K. Keller, E. Robinson, L. Dickstein, H. Hahn, A. Cattaneo, and D. Mascarenas
+“Extending human proprioception to cyber-physical systems” Proc. SPIE
+9803, Sensors and Smart Structures Technologies for Civil, Mechanical, and
+Aerospace Systems 2016, 980304 (April 20, 2016); doi:10.1117/12.2219534
+Knitting 101 DeCal
+Founder and Facilitator
+January 2014 - May 2015 (1 year 5 months)
+UC Berkeley
+I founded and ran (with three other facilitators) the Knitting 101 DeCal. This is
+a 40-60 person class worth 1 unit of pass/no pass credit with both beginner
+and advanced sections in knitting techniques. We also teach knitting culture/
+history.
+For the first half of the class, yarn and needles are provided by a sponsor. For
+the second half, students purchase a skein of yarn and make their own scarf
+as their final project. The class covers knitting, purling, increases/decreases,
+color changes, double knitting, cabling, knitting in the round, and more.
+Find more information here: http://www.decal.org/courses/3216
+Hackers@Berkeley
+Page 4 of 6
+Officer
+October 2013 - May 2015 (1 year 8 months)
+Hackers@Berkeley is the largest Computer Science club on campus. We host
+workshops, hackathons, founder talks, and all kinds of other fun events for
+building the hacker community!
+For my last semester I led Operations committee, which is in charge of all
+large-scale events like hackathons, Founder talks, Lightning talks, recruiting
+events, etc.
+Find more about us here: http://hackersatberkeley.com/ or our Facebook page.
+University of North Texas
+Bioinformatics/Plant Molecular Biology Internship
+July 2012 - August 2012 (2 months)
+Denton, Texas
+This internship was my first experience with research, the summer after my
+junior year of high school.
+Extracted RNA from over 60 plants
+Fixed tissues and dyeing for GUS activity
+Cloned a gene:
+Extract RNA → Synthesize cDNA → Purify → PCR amplification → Extract gene
+via restriction enzyme → Add poly-A tails + Ligation into vector → bacterial
+transformation → grown on plates → colony PCR → grown in liquid media →
+plasmid extraction
+Worked with Phylip, MrBayes, MEGA v4, etc. (Phylogeny analysis programs)
+Used nearest-neighbor joining, maximum parsimony, maximum likelihood
+and Bayesian methods to create phylogenetic tree of several hundred genes
+related to NIP/LATD (a legume nodulation gene)
+Experience with PCR machine, Nanodrop, Gel Electrophoresis, Spectrometer,
+Centrifuge, Column Chromatography
+Education
+University of California, Berkeley
+Bachelor of Science (BS), Electrical Engineering and Computer
+Science · (2013 - 2017)
+Mission San Jose High School
+Page 5 of 6
+· (2009 - 2013)
+Page 6 of 6

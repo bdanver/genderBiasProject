@@ -1,0 +1,55 @@
+Contact
+www.linkedin.com/in/emma-
+hyde-043077b3 (LinkedIn)
+Top Skills
+Java
+Ruby
+Software Development
+Languages
+English
+Emma Hyde
+Computer Science B.S., Software Engineer II
+West Newton, Massachusetts
+Summary
+Backend- or full-stack-inclined Software Engineer with 3+ years
+experience in Web Development. Advanced knowledge in Java
+(Spring, SpringBoot) and Ruby (Rails). Familiarity with a host of
+various Javascript frameworks (Backbone, Marionette, React, Vue).
+Strong engineering professional with a Bachelor of Science (B.S.)
+focused in Computer Science. Interested in solving or optimizing any
+problem with intelligent, efficient code.
+Note: I am uninterested in front-end only positions. Thank you!
+Experience
+Constant Contact
+3 years 10 months
+Software Engineer II
+February 2019 - Present (1 year 2 months)
+♦ Services, APIs: Enthusiastic about creating & designing new endpoints,
+functionalities, and features at data/service-layer. Knowledgeable about
+performance optimizations and common pitfalls. Breadth of knowledge in
+strengths & weaknesses of various languages.
+♦ Data Migration: Responsible for designing & developing a migration service,
+an account mapping service, and a reverse proxy that work together to move
+account data from on-prem servers to AWS Cloud. Collaborate with Cloud
+team and DBAs to leverage EC2, DynamoDB, S3, CloudFormation, Aurora,
+Lambdas,
+♦ Production & Build Issues: Frequent support & on-call work. Use SQL,
+Splunk, CloudWatch, SSH & CLI tools to isolate, test, and resolve production
+and build issues. Experience communicating with customer service
+representatives to bring fixes to customers. Perform deployments using
+Jenkins, GitHub tooling, AWS and CLI, rolling back when necessary.
+♦ Leadership: Mentor developers, both senior and junior, in team practices
+and codebases. Provide guidance to peers through pairing and walkthroughs,
+remote and in-office. Ensure cross- and inter-team communication and
+Page 1 of 2
+organize meetings & wikis. Participated in a rotational program through Core
+Business Systems, Security, & CI/CD.
+♦ Static Applications: Comfortable working in static applications using MVC-
+structured Javascript, as well as a variety of Javascript frameworks.
+Software Engineer
+June 2016 - February 2019 (2 years 9 months)
+Greater Boston Area
+Education
+University of Massachusetts Amherst
+Bachelor of Science (B.S.), Computer Science · (2012 - 2016)
+Page 2 of 2

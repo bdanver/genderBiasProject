@@ -1,0 +1,195 @@
+Contact
+www.linkedin.com/in/k80-oshea
+(LinkedIn)
+Top Skills
+French
+Python
+Java
+Languages
+English (Native or Bilingual)
+French (Full Professional)
+Certifications
+Data Engineering, Big Data,
+and Machine Learning on GCP
+Specialization
+Leveraging Unstructured Data with
+Cloud Dataproc on Google Cloud
+Platform
+Professional Data Engineer
+Building Resilient Streaming
+Systems on Google Cloud Platform
+Serverless Data Analysis with
+Google BigQuery and Cloud
+Dataflow
+Katie O'Shea
+Software Developer at Dark Wolf Solutions
+Arlington, Virginia
+Summary
+Web and software developer with experience planning, developing,
+and implementing full stack projects. Background in managing
+teams in client-side operations for over five years in industries and
+roles ranging between management, customer service and travel,
+and technology. Participates in teaching and mentoring coding to
+women considering careers in technology. Experienced in working
+in bilingual environments promoting international education and
+maintaining client-side translations.
+SKILLS & CERTIFICATIONS
+• Vue, Angular 4+, React, JavaScript, Node.js, Express, TypeScript
+• HTML, CSS, Ajax, jQuery, Bootstrap, Vuetify, Material Design
+• Python 2 & 3, Flask, Django, Jupyter Notebooks
+• Java 8, JSTL, JSPs, JVM, Tomcat & Apache, Maven, Spring Boot
+• MongoDB, PostGreSQL, MySQL, SQLite
+• D3, Plotly, Chart.js
+• APIs, SOAPs, AWS, EC2, S3, AWS Diode, GovCloud, Pivotal,
+GitHub, GitLab, BitBucket, Jira, Confluence, Jenkins, Docker,
+Deployment, Postman, RESTful Routing, Modularization, NoSQL
+Database Design, Nginx, Green Unicorn, Pip, NPM, MobaXterm,
+SQL Alchemy, Virtual Environments, Linux, CentOS, Pentu, Agile
+Development, Scrum project management, OOP, ORM, ERD
+Diagrams, MTV and MVC Frameworks
+• Machine Learning, Artificial Intelligence, Natural Language
+Processing, Deep NLP, RNNs, Word2Vec – AWS ML tools,
+GoogleCloud, TensorFlow, Pandas, Numpy, Scikit-Learn, Keras,
+TensorForce
+• Languages – French (fluent), Japanese (beginner)
+• Certifications – Lean Six Sigma Yellow Belt (April ‘15), Teaching
+English as a Foreign Language (TEFL) (December ‘16)
+Experience
+Page 1 of 5
+Dark Wolf Solutions
+1 year 8 months
+Software Developer - Senior Associate
+January 2020 - Present (2 months)
+Software Developer - Associate
+July 2018 - December 2019 (1 year 6 months)
+• Develop web applications using multiple types of back and front-end
+frameworks, including Django, Flask, Java, Node.js, Angular, and Vue.js
+• Deploy projects to Pivotal Cloud Foundry and Amazon Web Services using
+Jenkins and GitLab CI/CD pipelines
+• Contribute to existing open source frameworks using pull requests and Git
+version control for in-house projects
+• Manage agile sprint workloads within a team and contribute to stand ups and
+sprint reviews
+Freelance Web Development
+4 months
+JavaScript Developer: E-Commerce Shopping Application
+April 2018 - May 2018 (2 months)
+Washington D.C. Metro Area
+• Developed an e-commerce application utilizing Angular for client-side
+operations to render regular and nested components through a router outlet for
+dynamic updates with IO data transference and event emitting. Improved UX/
+UI through use of Bootstrap toolkit.
+• Utilized Node.js and Express for server-side functions including full CRUD,
+bcrypt passwords, user authentication, and other validations. Created a
+MongoDB back-end by employing Mongoose models with users and products
+in an embedded Schema association.
+• Applied administrator levels to login/registration to determine user’s
+functionality as an administrator or regular shopper. Application displays user’s
+cart of chosen items, decrements inventory quantity upon purchase, and saves
+purchase history. Deployed and administered application on AWS Ubuntu
+server.
+Python Developer: Translation Database Application
+February 2018 - March 2018 (2 months)
+Washington D.C. Metro Area
+• Developed a Django application following the MTV/MVC design pattern
+to display text strings in multiple languages based on a user’s selection.
+Page 2 of 5
+Leveraged pip for package installations and customized application
+definitions, middleware connections, and database engine based on system
+requirements.
+• Successfully implemented front-end and back-end validations, including
+bcrypt, regexes and salts, for full CRUD on models to allow robust login and
+registrations with a super admin and administrative roles. Included user
+functionalities based on persistent sessions with back-end calls to a SQLite
+database.
+• Utilized VirtualEnv to create isolated Python environments for version control.
+Added functionality to give administrators control over automatic or incorrect
+client-side translations by providing correctly translated content to the users
+from a database. Deployed and administered application on AWS Ubuntu
+server.
+Campus France
+Admissions Officer – Application Review / Assistante de gestion – suivi
+de dossiers
+October 2017 - January 2018 (4 months)
+Washington D.C. Metro Area
+• Updated and finalized a knowledge repository through validations based
+on a web-based translation framework. Participated in weekly stand-ups to
+determine team effectiveness and efficiency in meeting goals and executed
+against a modified plan of action and milestones.
+• Responsible for pre-consular application review of American students
+pursuing their studies in France within various types of university exchange
+programs.
+---
+• Prise en charge et suivi de dossier des étudiants américains désireux de
+poursuivre des études en France dans le cadre d’échanges entre universités
+• Traitement des dossiers des étudiants américains (ou résidant permanent
+aux USA) : conseils et accompagnement des étudiants, entretiens
+téléphoniques, mails, accueils physiques des étudiants relevant du consulat de
+Washington
+• Suivi de ces dossiers sur le logiciel Etudes en France
+• Archivage des dossiers, gestion administrative générale
+Mathnasium - The Math Learning Center
+Learning Center Instructor
+September 2016 - December 2016 (4 months)
+Colorado Springs, Colorado Area
+Page 3 of 5
+• Tutored 15-20 students from through advanced levels of theoretical
+mathematics which included Advanced Calculus, Trigonometry, Algebra,
+and Geometry. Utilized existing platform material to tailor presentations and
+curriculum material for participants.
+• Reviewed and corrected assignments on a weekly basis and determined
+strengths, weaknesses, and improvement opportunities for all participants.
+Freelance Data Solutions
+Database Engineer
+June 2016 - December 2016 (7 months)
+Colorado Springs, Colorado Area
+• Improved upon a legacy auction-based system by creating and designing
+a relational database to better fit the needs of the client. Responsible for
+planning, creating, testing, and deploying a RDBMS with a streamlined user
+interface for dimensional analysis.
+• Performed migrations of PIV related data and meta-data into testing and
+production. Oversaw data validation and cleansing efforts for increased
+reliability. Generated tracking reports and other related metrics for over 500+
+users.
+Hertz
+1 year 7 months
+Location Manager II
+May 2015 - April 2016 (1 year)
+Sky Harbor Airport, Phoenix, Arizona
+• Owned implementation for local testing of web-based, daily cash
+flow prototype system by running daily reports, testing use cases,
+training managers and employees on implementing new processes,
+and communicating status and improvement opportunities with remote
+development team and project manager.
+• Managed location’s full team of 50-120 employees and 6 managers in
+Customer Service and Sales in 4 departments. Ownership over multiple
+KPI and Lighthouse metrics across departments, created action registers
+when any KPIs dropped below 0.8 and followed through on delegation and
+implementation to return score to optimal levels.
+• Accountable for success of rental operation of 3,500-8,000 cars, scheduled
+employee shifts, interacted with 6,000 – 23,000 customers weekly, prepared
+for audits, set and achieved goals in sales and customer satisfaction, and
+supervised revenue management by creating monthly goals and contests for
+individual salespersons and teams.
+Page 4 of 5
+Location Manager
+October 2014 - May 2015 (8 months)
+Sky Harbor Airport, Phoenix, Arizona
+• Conducted an in-depth analysis of the Net Promoter Score return-on-
+investment for a specific on-location service which received Six Sigma
+Yellow Belt Certification after presenting to senior management and was later
+implemented nationally for profit.
+• Managed teams of 5-60 employees in union and non-union environments
+included interviewing, training, setting expectations, follow-up, accountability,
+and corrective action.
+Education
+Arizona State University
+BA, French · (2010 - 2014)
+Coding Dojo
+Python, Java, MEAN Full Stacks · (2018 - 2018)
+American University
+French Translation · (2017 - 2017)
+Université Paris-Sorbonne
+Advanced Level Diploma, Cours de Civilisation Française de la Sorbonne,
+Diplôme Niveau Avancé B2 · (2013 - 2013)
+Page 5 of 5

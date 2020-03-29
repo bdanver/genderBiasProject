@@ -1,0 +1,105 @@
+Contact
+www.linkedin.com/in/shaygist
+(LinkedIn)
+Top Skills
+Visual C#
+ESRI
+ArcGIS
+Certifications
+Swift Level 1 (Swift syntax 5.0)
+Professional Scrum Master I (PSM I)
+Shay Gist
+Senior Principal Software Engineer at Northrop Grumman
+Washington D.C. Metro Area
+Summary
+Lead developer on a GIS team with professional experience in an
+Agile environment. Highlighted software languages and tools:
+Languages: Visual C#, Java, C/C++, Perl, Python, SQL, XML,
+HTML, Matlab, VHDL, YAML
+Tools: ESRI ArcGIS, .Net Framework, MS Visual Studio, Team
+Foundation Server (TFS), JIRA, BitBucket, Bamboo, Eclipse, Git,
+REST API, Apache Maven, Yum, Vi, Secure Shell (SSH), BMC
+Remedy ARS, Oracle, SQL Server, PVCS, Wireshark, HP Quick
+Test Pro (QTP), iThink, Minitab, DOORS, CORE, Linux, Ansible
+Experience
+Northrop Grumman
+8 years 5 months
+Software Engineer
+October 2011 - Present (8 years 5 months)
+McLean, VA
+•Lead developer on geographical (GEO) team
+•Act as SCRUM Master for development team, every three iterations
+•Participate and support all phases of the software development life cycle
+(SDLC), including requirements analysis,
+design, documentation, debugging, coding, peer reviews, testing, integration,
+and validation
+•Communicate regularly with project managers, fellow team members, and
+customers as needed about the details of
+the proposed designs and progress the work
+Page 1 of 4
+•Programming in an agile environment using TFS for version control and task
+management and tracking
+•Responsible for estimating effort based on requirements and adhering to
+estimates and timelines
+•Develop solutions and enhancements for custom mapping, geocoding, and
+routing software
+•Modify and enhance Perl scripts to efficiently pre-process GEO data
+•Develop and enhance Python scripts using ESRI geoprocessing tools to
+generate tables in Oracle and SQL Server databases
+•Integrate ESRI ArcGIS tools and functionality into the mapping, geocoding,
+and routing software
+•Oracle/SQL programming of the mapping and geocoding data
+•Provide guidance and training to new team members on all custom GEO
+software
+•Provide front-line support leveraging the Emergency Call System (ECS)
+service desk’s ticketing, telephone, and email communications
+•Identify, categorize, perform initial triage, routing, and resolve incidents and
+requests using Remedy system
+•Automate regression testing of the CAD product using QTP
+•Use Wireshark to monitor and/track network issues.
+Awards:
+•Northrop Grumman Performance Recognition Program Award (2014 & 2015)
+–Rewards exceptional performance that exemplifies commitment to customers,
+quality, and integrity.
+–Recognition of commitment to excellence and significant contributions to
+Northop Grumman’s success.
+Page 2 of 4
+•Northrop Grumman Timely Award (2012)
+–Rewards significant and extraordinary individual accomplishments on a timely
+basis.
+Software Engineer
+November 2018 - April 2019 (6 months)
+Canberra, Australia
+•Developer on cyber security project
+•Modify existing and create new ansible plays to facilitate the deployment and
+configuration of applications on the
+appropriate servers
+•Create jinja templates to be used in ansible plays to reduce repetition
+•Create and configure build and deployment plans for applications through
+Bamboo
+•Implement maven plugins in applications to package and install associated
+artifacts
+•Implement signing of application artifacts with GPG keys during build the
+process
+•Modify and enhance existing Java applications to meet project requirements
+NASA - National Aeronautics and Space Administration
+Researcher
+June 2009 - August 2009 (3 months)
+Wallops Island, VA
+•Research, design, construct, and test magnetorquer rods to control the
+attitude of the cubesat in three axes (x,y,z)
+•Design schematics for and build the H-bridge chip and circuit board to direct
+the current in the rods
+•Program the PIC microcontroller to interface with the H-bridge control circuit
+•Design and build a test cage to reduce the air current when testing the rods
+Page 3 of 4
+Education
+The George Washington University - School of Engineering &
+Applied Science
+Engineer's degree, Engineering Management · (2014 - 2017)
+The George Washington University - School of Engineering &
+Applied Science
+Master of Science (MS), Systems Engineering · (2012 - 2014)
+Clemson University
+Bachelor of Science, Computer Engineering · (2007 - 2011)
+Page 4 of 4

@@ -1,0 +1,81 @@
+Contact
+www.linkedin.com/in/hannah-bier-
+b03b5b24 (LinkedIn)
+Top Skills
+Agile Methodologies
+C#
+Python
+Hannah Bier
+Software Developer in Test at Tracelink
+Greater Boston Area
+Summary
+Experienced in programming and debugging: Java, C#, Python, C,
+Lisp, Breve, Matlab, Mathematica, HTML, OpenGL, POV-Ray, and
+Assembly Language.
+Specialties: Automated Testing, Object Oriented Programming,
+Java, C#, Python, Matlab. Experienced in multithreaded
+performance testing, regression testing, computer vision, and
+bioinformatics.
+Experience
+TraceLink
+Software Developer In Test
+February 2017 - Present (3 years 2 months)
+North Reading, MA
+HealthcareSource
+2 years 10 months
+Software Engineer
+March 2016 - February 2017 (1 year)
+Greater Boston Area
+Performed a dual role of developing features and leading the QA process for a
+small Kanban team working on the Position Manager applicant management
+software.
+Built REST API endpoints in C# using ASP.NET MVC
+Worked with data management in SQL and Couchbase
+Used Nancy dependency injection framework
+Implemented UI components using JavaScript React
+Designed and built a unit test framework using Moq dependency mocking
+Quality Assurance Engineer
+May 2014 - February 2016 (1 year 10 months)
+Greater Boston Area
+Page 1 of 3
+Served as the primary QA engineer on an Agile Scrum team. Performed
+manual and automated tests for the Position Manager applicant management
+software.
+Refined the existing QA process to improve efficiency while maintaining focus
+on quality
+Organized the workload for myself and an offshore QA resource
+Trained new hires across teams on test automation best practices
+Helped design and build a new test automation platform using the Microsoft
+Test framework with Telerik's ArtOfTest plugin
+Built an automated test generator using Yeoman
+Fidelity National Information Services (formerly Memento)
+Quality Assurance Engineer
+August 2011 - April 2014 (2 years 9 months)
+Developed and maintained automated tests for the back end infrastructure of
+bank fraud detection software. Participated in an Agile software development
+team and delivered prototype code to product owners over multiple iteration
+cycles.
+Took the lead role in setting up a virtual machine configuration to run the
+regression tests every night
+Performed root cause analysis on automated test failures
+Used technologies including .NET, Visual Studio, Team Foundation Server and
+SQL Server
+Memento
+Software Developer Consultant
+May 2011 - August 2011 (4 months)
+Develop regression tests for the orchestration server using C#. Participate in
+Agile development platform team and QA team.
+Memento
+Software Developement Intern
+June 2010 - August 2010 (3 months)
+I designed a multithreaded C# program to assess the performance of
+Memento's prototype Check Fraud program. Participated in an Agile software
+development team and delivered prototype code to product owners over
+multiple iteration cycles.
+Education
+Page 2 of 3
+Dartmouth College
+Computer Science · (2009 - 2011)
+Smith College
+BA , Computer Science (High Honors), Mathematics · (2005 - 2009)
+Page 3 of 3

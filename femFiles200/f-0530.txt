@@ -1,0 +1,68 @@
+Contact
+www.linkedin.com/in/
+emmabernicerivera (LinkedIn)
+emmabr.github.io (Personal)
+Top Skills
+C++
+HTML
+Python
+Languages
+English (Native or Bilingual)
+Honors-Awards
+Deans Academic Distinction Award
+Los Renombrados Finalist
+Presidents Honor Award
+Emma Rivera
+Former Software Engineer Intern at Facebook | Honors Student |
+Computer Science
+Arcadia, California
+Summary
+Currently attaining my bachelors in Computer Science. Hoping to
+attain my masters as well the following year. Actively looking for
+either full time or internship positions in software development.
+Experience
+Bolar, LLC
+Android Developer
+October 2019 - Present (6 months)
+Riverside
+Facebook
+Software Engineer Intern
+June 2019 - September 2019 (4 months)
+Menlo Park, California
+Built a core UI component in Native Android using databinding which will be
+used in next-gen Messenger, Lightspeed. Created unit tests and a screenshot
+test for my component. Collaborated with engineers, designers, and managers
+across teams, independently, to flesh out component.
+SmartBot360
+Web Developer
+October 2018 - June 2019 (9 months)
+Riverside, CA
+Implemented stylistic changes to allow users to customize the appearance of
+the SmartBot360 Web-bot. Added an emoji picker to the web-bot using react
+components.
+Integrated video chat to the web-bot using Agora.io.
+Facebook
+Facebook University Software Engineering Intern
+June 2018 - August 2018 (3 months)
+Seattle, Washington
+Page 1 of 2
+Developed an Android Application in four weeks on a team of three people.
+Our app, ScheduleMe, is a scheduling app that helps busy individuals find
+times to meet with family, friends, and coworkers. We used firebase database
+and Google Calendar's API.
+Added functionality for users to query other users, create groups, add others
+to groups, create polls in messaging, update their username and profile image
+in a settings activity, and login and register using firebase authentication.
+Created a splash screen and worked on the apps UI/UX so users could have
+a more positive experience using our app and so it would be more visually
+appealing.
+Organized daily stand-ups for our team every morning so we would know what
+everyone was working on, answer any questions, and find out what our tasks
+were for the day. In the end we presented our app to over 200 other students
+and several full-time software engineers.
+Education
+University of California, Riverside
+Bachelor of Science - BS, Computer Science · (2016 - 2020)
+San Gabriel High School
+· (2012 - 2016)
+Page 2 of 2

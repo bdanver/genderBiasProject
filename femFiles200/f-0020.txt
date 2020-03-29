@@ -1,0 +1,109 @@
+Contact
+www.linkedin.com/in/
+courtneyjingersoll (LinkedIn)
+courtneyjingersoll.com/ (Personal)
+Top Skills
+Cache Object Script
+Visual Basic
+XML
+Courtney J Ingersoll
+Software Engineer
+Chicago, Illinois
+Summary
+Enthusiastic, poly-skilled, goal-driven Software Engineer with a
+passion for quality and intuitive design. Independent self-starter and
+avid learner, known for adapting to team needs and consistently
+delivering on commitments.
+Personal website - https://courtneyjingersoll.com/
+Experience
+Epic
+Software Developer
+July 2014 - April 2019 (4 years 10 months)
+Verona, Wi
+Software developer with the oncology team for the healthcare software
+company, Epic.
+- Lead developer in reoccurring chemotherapy treatment tools and day-of
+chemotherapy administration.
+- Specialized in areas of critical patient safety, including automatically
+calculated chemotherapy dosing with regards to changes in patient height,
+weight, lab results, and sexual orientation or gender identity, as well as oral
+chemotherapy enhancements
+- Regularly a lead developer for patient safety escalation fixes with critical
+timelines.
+- Lead developer for multi-line sigs enhancement project and SOGI updates to
+AUC dosing
+- Lead developer for integration with Research and Billing, and third-party
+Pathways support
+- Lead developer for ongoing cancer staging updates to support AJCC
+8th edition guidelines, and internationalization with Finland and Denmark
+customers
+- Lead coordinator for developer immersion trips and go-live support
+assignments
+- Lead coordinator for reoccurring development progress and education
+meetings
+Page 1 of 3
+- Lead developer liaison for User Experience and Accessibility for development
+projects
+- Primary mentor for new team hires
+University of Nebraska-Lincoln
+4 years 10 months
+Student Researcher
+November 2013 - May 2014 (7 months)
+Student researcher within the NIMBUS lab of the UNL Schorr Center with
+Dr. Sebastian Elbaum. Worked with team to develop quad-copter capable of
+following a person without use of a camera utilizing ROS and Python.
+Student
+August 2009 - May 2014 (4 years 10 months)
+Double major Computer Engineering and Electrical Engineering.
+HONORS & AWARDS
+Outstanding Undergraduate Senior CE Award (2013 - 2014)
+University of Nebraska – Lincoln Honors Convocation Certificate of Superior
+Scholarship (2014)
+University of Nebraska – Lincoln Honors Convocation Certificate of High
+Scholarship (2010 - 2013)
+Dean’s List (Fall 2009 - Spring 2014)
+University of Nebraska – Lincoln Regents Scholarship
+Garmin Electrical and Computer Engineering Scholarship
+Nebraska Society of Professional Engineers Southeast Chapter Scholarship
+Member of National Engineering Honors Society Tau Beta Pi (TBP)
+Member of Nebraska Society of Professional Engineers (NSPE) Student
+Chapter
+Member of the Association for Computing Machinery (ACM)
+Member of the Society of Women Engineers (SWE)
+Member of the Institute of Electrical and Electronics Engineers (IEEE)
+Mentor for the GEM outreach program
+LANGUAGES COVERED IN COURSES
+C, C++, Java, Python, ROS, Javascript, UNIX, HTML, CSS, XML, PHP,
+MySQL, Pearl, Bourne-shell, Bash-shell, C-shell, AWK, MIPS, BASIC
+Student Assistant
+August 2012 - December 2013 (1 year 5 months)
+Computer Science and Engineering Department
+Page 2 of 3
+Student assistant to Dr. Carrick Detweiler for CSCE 236: Embedded Systems
+course. Lead in-class lab, prepared lab equipment including soldering
+sensors, tutored and assisted students during held office hours, and graded
+labs and homework assignments.
+Student Staff
+November 2009 - March 2010 (5 months)
+CSMCE Department
+Office assistant for the Center for Science, Mathematics, and Computer
+Education (CSMCE).
+Garmin International
+Software Engineer Intern
+May 2013 - August 2013 (4 months)
+Connected Services Department
+- Worked with Java, Bash-shell
+- Updated older protocol functions to Google Protocol Buffers
+Garmin International
+Software Engineer Intern
+May 2012 - August 2012 (4 months)
+Automotive OEM Department
+- Worked with C, C++, Java, and XML
+- Developed an automatic logging system and external application for log
+management
+Education
+University of Nebraska-Lincoln
+Bachelor's degrees, Computer Engineering · (2009 - 2014)
+University of Nebraska-Lincoln
+Bachelor's degree, Electrical Engineering · (2009 - 2014)
+Page 3 of 3

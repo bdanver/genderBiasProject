@@ -1,0 +1,121 @@
+Contact
+www.linkedin.com/in/charlotte-raty
+(LinkedIn)
+Top Skills
+Python
+C++
+OCaml
+Charlotte Raty
+Software and Web Development | Data Management | Improving
+Scalability | Enabling Business Growth
+Philadelphia, Pennsylvania
+Summary
+Technology powers so much of what businesses do today, but it’s
+easy for inefficient legacy code and processes to get overlooked,
+and updating them may not seem like a priority. But in order to
+maintain growth in the long run, businesses need to keep up with
+changing technology and make sure their code, processes, and
+practices aren’t falling behind.
+At Archetype, we streamline our partners’ operations to be more
+agile and flexible for a changing world. We refine and focus existing
+solutions and develop new innovations for our partners’ software
+and business operations so that they can focus on growth with
+technology that’s ready to grow with them.
+With my experience as a software development analyst, I’m able
+to understand our partners’ specific needs and business logic
+requirements to design effective software to meet these needs. I
+work on full-stack software solutions and constantly learn about
+emerging technologies to incorporate into projects.
+Want to know more about how Archetype develops innovative,
+streamlined software solutions? Interested in joining our team
+in either a development or non-development role? Send me a
+message!
+Experience
+Archetype Solutions Group
+Analyst, Software Development Focus
+August 2018 - Present (1 year 7 months)
+Philadelphia, PA
+Archetype Solutions Group empowers growth in companies through innovation
+and builds strong ventures using best-in-class resourcing. We do this through
+our 2-prong model: consulting and venture. Our consulting team enables
+Page 1 of 4
+achievement of growth goals in mid-market companies by infusing innovation
+into their infrastructures. Our venture arm funds opportunities we uncover
+during consulting arrangements.
+The responsibilities of a software development analyst at Archetype include:
+• Developing web applications, querying and managing databases, and
+creating data visualizations using business intelligence software for partners'
+technology tools
+• Analyzing insurance claims, health data, and health risk assessment data to
+identify trends and notable information
+• Assisting with business operations including writing case studies, auditing
+client website functionality, and participating in consulting prospecting
+meetings
+• Conducting research on companies in order to evaluate their potential for
+consulting partnerships
+• Standardizing and streamlining partners' operations processes to improve
+scalability
+Swarthmore College
+2 years 4 months
+Logic Teaching Assistant, Grader, and Tutor
+September 2016 - December 2017 (1 year 4 months)
+Greater Philadelphia Area
+• Work with another Teaching Assistant to conduct weekly walk-in clinics to
+help Logic students with homework and class material
+• Grade homework and exams efficiently and fairly, and provide useful,
+constructive feedback to students
+• Individually assist students struggling with coursework as a tutor by
+thoroughly understanding and being able to explain course material in a variety
+of ways
+Computer Science Teaching Assistant
+September 2015 - May 2017 (1 year 9 months)
+Greater Philadelphia Area
+• Assisted students in learning programming skills and understanding critical
+concepts in Intro to Computer Science (Fall 2015 – Fall 2016) and Intro to
+Computer Systems (Spring 2017)
+Page 2 of 4
+• Conducted weekly walk-in clinics to mentor students, helped with challenging
+programming assignments, answered questions, and organized reviews for
+quizzes
+• Participated in regular trainings with professors and the Academic Support
+Coordinator
+Undergraduate Research Assistant in Computer Science
+June 2016 - August 2016 (3 months)
+Greater Philadelphia Area
+• Assisted Professor Zachary Palmer with research on a demand-driven
+program analysis using pushdown systems in the summer of 2016. Continued
+research in the Spring 2017 semester.
+• Helped develop a demand-specific language for pushdown system
+specification using metaprogramming with OCaml PPX extensions
+• Worked directly with the OCaml AST and the compiler source code to
+produce an A-Translator and a Continuation Transform function for OCaml
+• Incorporated the Continuation Transform into a larger metaprogramming tool
+for producing a pushdown system from user-provided input
+Indiana University Bloomington
+Undergraduate Research Assistant in Mathematics
+June 2017 - July 2017 (2 months)
+Bloomington, Indiana Area
+• Selected from a pool of 150 undergraduate students to be one of 8
+participants in Indiana University Bloomington’s Mathematics REU, assisting
+Professor Larry Moss with research in natural logic
+• Collaborated with Professor Moss to synthesize and expand upon previous
+work in order to develop rules of inference for a more expressive natural logic
+• Used a trial-and-error process to fine-tune this system of rules and develop a
+rigorous proof of soundness and completeness of the logic
+• Drafted a paper formalizing these results, and presented my work at a
+statewide conference for REU participants at Purdue University at the end of
+the program
+Bazaarvoice
+Software Engineering Intern
+January 2016 - January 2016 (1 month)
+Austin, Texas Area
+• Shadowed a Swarthmore alum at a software company in a week-long
+externship program
+Page 3 of 4
+• Completed requested user interface changes to one of the company’s
+software products, and presented these changes to other winter interns as well
+as members of the project’s team
+Education
+Swarthmore College
+Bachelor's degree, Mathematics and Computer Science · (2014 - 2018)
+Page 4 of 4

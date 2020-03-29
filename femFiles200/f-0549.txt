@@ -1,0 +1,150 @@
+Contact
+www.linkedin.com/in/omreaney
+(LinkedIn)
+Top Skills
+Software Engineering
+Théâtre
+Enseignement des mathématiques
+Languages
+Espagnol (Limited Working)
+Japonais (Elementary)
+Français (Native or Bilingual)
+Certifications
+Functional Programming Principles
+in Scala
+Honors-Awards
+Premier prix local du hackathon
+Space Apps Challenge par la NASA
+Prix spécial du Jury pour la nouvelle
+"Juste un sourire"
+Olivia May Reaney
+Computer science engineer currently retraining
+Rueil-Malmaison, Île-de-France, France
+Summary
+Quand j'étais enfant, je voulais comprendre le monde entier. Et
+je savais que le moyen d'y parvenir était de lire, donc j'ai réussi à
+apprendre à lire, seule, à 4 ans. Certains parents pensaient que ma
+mère m'y avait forcé mais ce n'était pas le cas. Ça démontre bien à
+quel point je peux être curieuse et déterminée.
+J'ai toujours été une laissée-pour-compte. A l'école, je voulais si
+désespérément m'intégrer que je laissais les autres me maltraiter.
+Mais quand certains élèves ont écrit des insultes à la craie sur
+les casiers à l'encontre d'un garçon de ma classe (qui était en
+général méchant avec moi), j'ai tout nettoyé durant ma pause
+déjeuner. Parce que je ne veux pas que les gens soient méchants et
+blessants. J'étais étrange, mais j'ai fait ce que je pensais être juste.
+Une fois, nous avions un exercice à faire à la maison, j'ai suivi la
+méthode donnée par la professeure. Je suis parvenue à un résultat
+totalement différent de celui des autres. Je ne sais pas comment
+ils avaient fait, ou si quelqu'un avait fait une faute à l'origine et que
+les autres avaient seulement copié, mais ils étaient persuadés
+que j'étais celle qui avait tort car ils avaient tous le même résultat,
+différent du mien. J'ai vérifié de nouveau avec la méthode, retrouvé
+le même résultat, et j'ai campé sur ma position. Il s'est avéré que
+j'étais la seule à avoir eu juste car j'avais suivi les instructions. Ça
+démontre bien la précision et la minutie dont je peux faire preuve.
+Voici quelques exemples de qui je suis et même si j'ai grandi, j'utilise
+ces mêmes qualités tous les jours, quels que soient les travaux que
+j'ai à effectuer. Je suis passionnée et je désire utiliser la technologie
+pour créer des produits permettant un meilleur accès au monde pour
+tous. Je peux paraître utopiste, mais lorsque j'ai décidé de travailler
+pour une raison qui me tient à cœur, je m'y dévoue corps et âme.
+Experience
+Page 1 of 4
+ALTEN
+Consultant en informatique
+February 2018 - April 2019 (1 year 3 months)
+IDEMIA
+Ingénieur informatique
+April 2018 - February 2019 (11 months)
+Région de Paris, France
+- Développement de logiciels et interfaces web gérant la personnalisation et le
+cycle de vie de documents d'identification.
+- Intégration et validation fonctionnelle des différents modules
+XXII
+Ingénieur informatique en recherche et développement
+August 2016 - October 2017 (1 year 3 months)
+Suresnes
+- Conception, développement et documentation de la librairie QuartzVR
+- Conception et développement d'une application de formation aux discours
+argumentaires en réalité virtuelle
+- Etat de l'art sur la reconnaissance faciale
+- Etude de marché des librairies et logiciels existants
+- Développement de briques logicielles de vision par ordinateur
+- Conception d'algorithmes de traitement des signaux électriques captés via
+EEG (relaxation, concentration)
+- Interventions ponctuelles sur divers projets pour résoudre des problèmes
+complexes
+Brand & Consumer TECHNOLOGIES
+Ingénieur en conception, recherche et développement (C++)
+October 2015 - April 2016 (7 months)
+Issy-les-Moulineaux
+- Etude des besoins spécifiques du service Production et des contraintes de
+traitement de données (RNVP, déduplication, ...)
+- Etude des outils existants (code source, tests qualité) pour évaluer l'actualité
+de ces outils
+- Développement et documentation de nouveaux outils en C++
+Ministère chargé de l'Éducation nationale
+1 year
+Professeur de mathématiques contractuel
+Page 2 of 4
+January 2015 - August 2015 (8 months)
+Collège Jean Rostand, Milly-la-Forêt (91)
+- Ecriture de cours suivant le programme officiel
+- Création d'exercices personnalisés - invasion zombie pour les puissances,
+résolution de crime pour de la géométrie, exposés sous formes de poster et
+oral sur des scientifiques (cahier des charges à l'appui), etc.
+- Remettre en lien l'apprentissage au sens large en contexte
+- Suivi des élèves
+Assistante d'éducation (AED)
+September 2014 - December 2014 (4 months)
+Collège Paul Eluard, Sainte-Geneviève-des-Bois (91)
+- Encadrement des élèves, hors internat
+- Aide aux devoirs
+CEA - Commissariat à l'énergie atomique et aux énergies
+alternatives
+Ingénieur de recherche informatique
+February 2014 - July 2014 (6 months)
+Palaiseau (91)
+- Etat de l'art sur l'autisme, l'apprentissage, la pédagogie, les gestes
+- Conception de l'architecture d'une application d'apprentissage des gestes
+conventionnels pour des enfants autistes
+- Définition des technologies et méthodes à utiliser
+- Développement d'une brique logicielle de vision par ordinateur pour
+reconnaître les mouvements de tête et les gestes et postures des mains
+DeltaCAD
+Ingénieur en développement informatique
+September 2012 - February 2013 (6 months)
+Compiègne (60)
+- Maintenance et ajout de fonctionnalités du logiciel de CAO GPure
+- Développement de l'interface d'une application de simulation métier avec
+optimisation de l'affichage 3D (OpenGL)
+2 minutes
+Ingénieur en développement logiciel
+March 2011 - June 2011 (4 months)
+Paris, XIe arrondissement
+Stage de fin de DUT initialement prévu pour des étudiants en formation
+d'ingénieur.
+Page 3 of 4
+- Etude des besoins métiers des graphistes
+- Développement d'un logiciel d'indexation et de recherche de produits
+audiovisuels (projet inter-universitaire et inter-entreprises HD3D²)
+- Participation à l'écriture d'un article scientifique quant aux choix effectués
+pour l'interface
+- Réalisation d'un jeu en réalité augmentée à l'aide de Flash et ActionScript 3
+pour M6
+- Tests méthodiques de jeux développés en interne pour les éditions Nathan
+avec remontée des bugs rencontrés (contexte de déclenchement, description,
+proposition de solution)
+Education
+Institut des métiers du doublage et l'audiovisuel - IMDA
+Techniques de la voix-off et du doublage · (2020 - 2020)
+Université de Technologie de Compiègne
+Diplôme d'ingénieur, Ingénierie informatique · (2011 - 2014)
+IUT Paris Descartes
+DUT, Informatique · (2009 - 2011)
+Université de Poitiers
+Licence, Arts du spectacle · (2007 - 2009)
+Lycée Cordouan
+Baccalauréat, S SVT · (2004 - 2007)
+Page 4 of 4

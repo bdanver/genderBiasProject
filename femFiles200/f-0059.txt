@@ -1,0 +1,132 @@
+Contact
+www.linkedin.com/in/monicawei8
+(LinkedIn)
+Top Skills
+Java
+React.js
+C#
+Languages
+Chinese
+French
+English
+Honors-Awards
+Academic Merit Scholarship
+Best use of the Yelp API Award
+Microsoft Scholarship Award
+Google Grace Hopper Travel Grant
+Microsoft Scholarship Award
+Monica Wei
+Software Engineer 2 at Microsoft
+Seattle, Washington
+Summary
+I am currently a Software Engineer 2 at Microsoft on the OneDrive
+& SharePoint Collaboration Team. While at Microsoft, I've worked
+on developing key sharing features and modern UI for customers.
+I graduated in May 2017 from Virginia Tech with a Bachelor's of
+Science (in Honors) of Computer Science, with a minor in Industrial
+Design. I have a passion for solving challenging problems and
+improving user experience!
+Experience
+Microsoft
+Software Engineer 2
+August 2017 - Present (2 years 7 months)
+Redmond, Washington
+OneDrive and SharePoint Collaboration Team
+- Utilized React, Javascript, and C# to develop several key sharing and
+collaboration features across OneDrive for Business and SharePoint.
+- Developed the modern Manage Access panel to allow users to manage all
+permissions on their individual files/folders. Worked closely with Design and
+PM to create a new user experience that allows customers to remove sharing
+links, change permissions, expiration dates, passwords, and remove or add
+people to the item.
+- Developed the UI for the Site Sharing Reports feature, which allows
+SharePoint admins to generate reports of all the sharing that occurred on their
+sites. This was a key customer ask at Ignite 2019
+- Worked to help maintain a high standard for accessibility on the Sharing
+Dialog and Manage Access, across several different platforms and apps.
+- Utilized C# and Javascript to develop a key feature for Shell, to block sharing
+to users on their OneDrive. Worked successfully with the SharePoint Auth
+team to deliver both parts of the feature to Shell's requirements.
+- Mentored our team’s Explore Interns every summer, providing help and
+guidance on their projects and career.
+Page 1 of 4
+Virginia Polytechnic Institute and State University
+10 months
+Undergraduate Teaching Assistant
+January 2017 - May 2017 (5 months)
+As a UTA for CS 3114, Data Structures and Algorithms. I held regular office
+hours every week to help students with their projects and homework using
+Java. Some of the projects include a file parser, binary search tree, hash table,
+graph algorithm, and a Geographic Information System (GIS).
+Undergraduate Researcher Assistant in Human Computer Interaction
+August 2016 - December 2016 (5 months)
+Blacksburg, VA
+Multi-User Display Interfaces
+- Working on data interaction with the Microsoft Perceptive Pixel
+- Investigating how to create useful interactive multi-touch displays that can
+analyze the data on a second monitor.
+- Utilizing C# with the Universal Windows Platform to parse csv files and
+display the data on interactive cards.
+Microsoft
+Software Engineering Intern
+May 2016 - August 2016 (4 months)
+Redmond, Washington
+OneDrive/Sharepoint eXperiences and Platform Team
+- Worked on creating a user interface that allows administrators on SharePoint
+Online to view all anonymous sharing links that have been created on their
+site.
+- Utilized C# to retrieve detailed information about all sharing links created
+(such as their expiration dates, creators, types, relative paths).
+- Utilized ASP.NET to create paging for more sharing links, and to display the
+links' information in a user-friendly way.
+Microsoft
+Explorer Intern
+May 2015 - August 2015 (4 months)
+Redmond, WA
+Office Engineering
+- Created more efficient and concise failure investigation tool, with the primary
+feature of finding duplicate bugs.
+Page 2 of 4
+- Utilized Javascript, JQuery, and HTML to create webpage displaying key
+information about failures (Scenario, Bucket, Bug, Logs) (SDE Phase)
+- Applied SQL and C# to create a WebService that aided in searching for
+related failures by their message. (SDE Phase)
+- Actively met with customers to gain feedback on their failure investigation
+process, and how we could make that more efficient for them. (PM Phase)
+Virginia Tech
+Undergraduate Researcher for LibFx
+January 2015 - May 2015 (5 months)
+Blacksburg, VA
+On this research project, I worked with Python libraries, Javscript, and JQuery
+to help create various displays for Virginia Tech's University Library research
+data.
+Modea
+Digital Content Developer
+September 2014 - December 2014 (4 months)
+Blacksburg, VA
+As a Digital Developer for Modea, I regularly utilized XML code, Photoshop,
+and various mobile platforms to create digital solutions for clients such
+as Verizon Wireless. My main task was to help construct emulators and
+simulators for new mobile phones, in an effort to improve user experience and
+accessibility.
+Axone SA
+Software Development Intern
+July 2014 - September 2014 (3 months)
+As an intern in Geneva, Switzerland, I helped this IT Company improve upon
+the user interface of the "Lexical Research Tool" for the city of Paris, using
+PHP and SQL. This tool was being produced to help the Paris government
+manage potential domain names and search for valuable domains to control.
+I also largely used HTML and CSS to design an entire new user interface and
+website that non-programmers can use to navigate through large amounts of
+data. With SQL, I created different search options, word clouds, and numerous
+data displays for expansion of this tool.
+Education
+Virginia Polytechnic Institute and State University
+Page 3 of 4
+Bachelor’s Degree, Computer Science, Minor in Industrial
+Design · (2013 - 2017)
+The University of Edinburgh
+Bachelor of Science (BS), Informatics · (2015 - 2016)
+Briar Woods High School
+Advanced Studies Diploma · (2011 - 2013)
+Page 4 of 4

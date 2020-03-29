@@ -1,0 +1,89 @@
+Contact
+www.linkedin.com/in/abby-
+benedict-a1393580 (LinkedIn)
+Top Skills
+C#
+Java
+WPF Development
+Abby Benedict
+Software Engineer at Wolverine Trading
+Chicago, Illinois
+Experience
+Wolverine Trading
+Software Engineer
+February 2017 - Present (3 years 2 months)
+Greater Chicago Area
+Software developer on the Risk Application Development team working on
+internal trading applications as well as internal development and release tools
+primarily using C#, WPF, and SQL. I work through the entire development
+cycle including gathering requirements, designing, developing, testing, and
+supporting.
+Additional responsibilities include assisting with recruiting by reviewing
+resumes, participating in technical interviews, recruiting at college career
+fairs, and creating and maintaining an interview scheduling application using
+python/django. I am also part of the Women of Wolverine Social group which
+includes monthly book clubs, attending Grace Hopper Women in technology
+conference, and discussing ways to improve our diversity initiatives
+Wolverine Trading
+Software Developer Intern
+June 2016 - August 2016 (3 months)
+I worked on the Risk Application Development team as a software developer
+writing internal applications primarily in C# and WPF. I wrote an application to
+help manage risk that replaced over 50 python scripts and improved ease of
+configuration as well as accuracy and speed.
+The Ohio State University
+Grader for Foundations 1 Class
+January 2016 - May 2016 (5 months)
+Columbus, Ohio, United States
+Graded for Foundations 1 class which focuses on graphs, trees, algorithms,
+and asymptotic analysis
+Responsibilities included grading homework and projects, assisting students
+with labs, and holding office hours to help students with difficulties while
+completing software projects, and holding review sessions as prep for exams.
+Page 1 of 3
+Battelle
+Cyber Co-op
+August 2015 - December 2015 (5 months)
+Columbus, Ohio Area
+Worked on an internal automated testing system to allow developers to quickly
+set up complex tests and generate reports of the results to show clients
+progress on projects. This system leveraged VMWare technologies to be able
+to run tests on multiple configurations at one time, ASP.NET to provide an
+interface for users to set up tests and view results, and powershell to interact
+with the VMs and run the tests.
+Wolverine Trading
+Software Developer Intern
+June 2015 - August 2015 (3 months)
+Greater Chicago Area
+I worked on the Risk Application Development team as a software developer
+writing internal applications primarily in C# and WPF. I worked with a trader
+to implement their research as a C# application to automate changing our
+pricing parameters throughout the trading day based on market conditions. I
+also redesigned the trading hours database schema and develop a C#/WPF
+application to be able to view and edit products' trading hours and holidays.
+JPMorgan Chase
+Application Developer Intern, Corporate Technology and Risk
+June 2014 - May 2015 (1 year)
+Columbus, Ohio
+Create reporting tools used by managers to better understand their work
+allocation and project progress.
+The Ohio State University
+Grader for Software I
+January 2014 - May 2014 (5 months)
+Grade students' homeworks and projects, assist students during lab sections,
+and hold office hours to help students with difficulties for Ohio State's software
+sequence that utilizes Java to teach the fundamentals of software engineering.
+Kuttler Machine
+Administrative Assistant
+May 2013 - August 2013 (4 months)
+Minerva, OH
+Page 2 of 3
+Assisted in the implementation of a new time and attendance system and an
+inventory and
+maintenance system as well as other administrative tasks.
+Education
+The Ohio State University
+Bachelor of Science (BS), Computer Science and Engineering · (2012 - 2016)
+Canton Central Catholic High School
+· (2008 - 2012)
+Page 3 of 3

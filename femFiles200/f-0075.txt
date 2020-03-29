@@ -1,0 +1,51 @@
+Contact
+www.linkedin.com/in/sarah-
+barili-2253aa39 (LinkedIn)
+Top Skills
+Python
+React.js
+ASP.NET Core
+Sarah Barili
+Software Developer at American Airlines
+Phoenix, Arizona
+Experience
+American Airlines
+1 year 9 months
+Software Developer
+July 2019 - Present (9 months)
+Phoenix, Arizona Area
+Developed new services and gateways in a microservices architecture, using
+RESTful API practices, ASP.NET Core (2.2 & 3.0)
+Automating various processes and building deployment pipelines in Azure
+Devops
+Implemented service mesh technologies in a distributed server environment
+using Consul, Traefik and various internally developed tools
+Associate Software Developer
+July 2018 - July 2019 (1 year 1 month)
+Phoenix, Arizona Area
+Designing and developing a C# .NET desktop application
+Provided system maintenance and support procedures for database tables
+and stored procedures, and other internal tools
+OTTO Health
+QA Analyst
+October 2017 - May 2018 (8 months)
+, COBoulder
+Worked under senior engineers to develop, debug, and optimize OTTO’s
+ReactJs web application
+Wrote and executed test cases, developed a complete regression suite
+Acted as liaison between development team and business partners to ensure
+product quality and usefulness to patients and doctors
+Department of Commerce
+Computer Scientist (Trainee)
+June 2017 - January 2018 (8 months)
+Boulder
+Building a scientific computing application in python for data analysis
+Page 1 of 2
+Writing code for management and transformation of large datasets
+Development of functionality for interactive graphing, analysis, and data
+organization
+Designing/ developing a graphical user interface
+Education
+University of Colorado Boulder
+Bachelor of Arts - BA, Computer Science · (2015 - 2018)
+Page 2 of 2

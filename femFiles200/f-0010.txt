@@ -1,0 +1,108 @@
+Contact
+www.linkedin.com/in/zeigenvector
+(LinkedIn)
+jenna.is (Personal)
+www.github.com/jennazee
+(Portfolio)
+Top Skills
+JavaScript
+Python
+Matlab
+Languages
+JavaScript (Professional Working)
+Python (Professional Working)
+Java (Limited Working)
+Publications
+On How Your Brain is Conspiring
+Against You Making Good Software
+The Linguistic Relativity of
+Programming Languages
+On How Your Brain is Conspiring
+Against You Making Good Software
+Server Farm to Table (or, how the
+Internet Works)
+What if you brain were ~*literally*~
+JavaScript
+Jenna Zeigen
+Senior Software Engineer at Slack
+Brooklyn, New York
+Summary
+Previously, I managed a team of engineers at DigitalOcean. Building
+out and improving an engineering team, as well as helping people be
+happy and productive, fires me up.
+I also love the JavaScript community. I organize BrooklynJS,
+a popular meetup in NYC, and EmpireJS, a yearly JavaScript
+conference in NYC. I also enjoy speaking at conferences.
+Experience
+Slack
+Senior Software Engineer
+January 2018 - Present (2 years 2 months)
+Greater New York City Area
+Frontend for Search and Discovery. Working on the quickswitcher and other
+autocompletes.
+DigitalOcean
+2 years 10 months
+Engineering Manager
+August 2015 - November 2017 (2 years 4 months)
+Greater New York City Area
+- Growing and building a team of frontend infrastructure engineers
+- Identifying, prioritizing, and planning work for the team for the short- and
+medium-term
+- Ensuring my team members are growing, happy, healthy, and productive
+Frontend Engineer
+February 2015 - August 2015 (7 months)
+Bitly
+Software Engineer
+September 2013 - January 2015 (1 year 5 months)
+- Contributed to the redesign and unification of Bitly's products
+Page 1 of 3
+- Spearheaded project to start using Browserify to leverage npm's dependency
+management system
+- Introduced front-end performance monitoring and worked to optimize the
+application based on the collected data
+#waywire
+Software Engineer
+February 2013 - August 2013 (7 months)
+• Writing JavaScript and CoffeeScript to drive the interactivity and functionality
+of the site
+• Redesigned the system for finding and wiring videos from sites with
+embedded content
+• Enhanced controllers and views within our Ruby on Rails application
+Recurse Center
+Participant
+October 2012 - December 2012 (3 months)
+Brooklyn
+Informal learning environment in which we teach ourselves what we want to
+learn about programming by engaging in it and working with others.
+Worked on projects using mostly Python and Javascript, such as a Javascript
+profiler and a creative computing project.
+Brown University
+1 year 3 months
+Research Assistant
+June 2011 - August 2012 (1 year 3 months)
+Providence, Rhode Island Area
+• Worked with Professor Laura Kertz in the Sentence & Discourse Processing
+Lab.
+• Performed independent human subjects research towards an honors thesis
+on lexical access and lexical ambiguity
+• Conceptualized, designed and executed novel experiments about
+simultaneous activation of homograph meanings
+• Collaborated with Professor Kertz in developing experiments investigating
+language processing
+• Analyzed and formatted large data sets using MATLAB and Python scripts
+MATLAB Teaching Assistant
+June 2011 - May 2012 (1 year)
+Page 2 of 3
+Providence, Rhode Island Area
+• Designed a curriculum of tutorials to teach programming skills in MATLAB
+• Served as TA for Professor Thomas Serre’s Computational Vision (Fall)
+and Computational Cognitive Science (Spring) courses in the Department of
+Cognitive, Linguistic, and Psychological Sciences
+• Wrote and conducted lectures and labs and developed demos, sample code,
+and documentation
+• Conducted bi-weekly office hours to guide students individually through code
+implementation and program design
+Education
+Brown University
+Sc.B, Cognitive Science · (2008 - 2012)
+Page 3 of 3

@@ -1,0 +1,102 @@
+Contact
+www.linkedin.com/in/kaitlin-
+brockway-9420105b (LinkedIn)
+Top Skills
+Research
+Microsoft Office
+Teaching
+Kaitlin Brockway
+Software Developer at SAP Hybris
+Broomfield, Colorado
+Experience
+SAP Hybris
+Software Developer
+October 2017 - Present (2 years 6 months)
+Fort Collins, Colorado Area
+Assist in the development of Hybris SAP's commerce solutions.
+Collaborate regularly with local and remote team members.
+Member of a self-empowered Scrum team, producing software using Agile
+principles and engineering-driven decisions.
+Write clean, tested efficient code & regularly perform and participate in peer
+code reviews.
+Tools: Jira, Hipchat, BlueJeans, IntelliJ, Java, MySQL, Hibernate, Spring,
+Maven
+Denver Tent Rentals
+Software Engineer Intern
+August 2017 - January 2018 (6 months)
+Denver, CO
+• Updated and enhanced the quality of Denver Tent Rentals business website.
+• Implemented and configured hosting for additional business website for the
+new Sarasota Tent Rentals business.
+• Use of marketing analytics to enable ongoing evaluation and measurement of
+marketing success.
+• Assisted in converted an existing internal business application to Ruby on
+Rails.
+• Assisted in translating and implementing additional requirements into the
+business application’s current design.
+Tools: WordPress, Ruby on Rails, Rspec, MySQL, Git, GitHub, Bash, Unix,
+HTML, CSS, Bootstrap, JavaScript, JQuery
+Dawnbreaker, Inc.
+Contractor
+May 2016 - July 2017 (1 year 3 months)
+3161 Union Street N. Chili, NY 14514
+Page 1 of 3
+o Implemented system improvements, updates, tests (unit, integration and
+system), bug fixes and improvements to a previously inefficient scheduling
+application that was causing a loss in productivity for contractors and
+employees
+o Configured and Implemented system support for real-time application
+updates with Rails ActionCable WebSockets
+o Designed and built database components and performed migration
+maintenance to support new features and system enhancements
+o Improved system security by providing system authorization using
+the ‘access_policy’ gem and authentication using the ‘devise’ and
+‘devise_invitable’ gems. Defined 3 user roles, each with their own unique
+authorization rights
+Tools: Ruby, Rails 4/5, I18n/Internationalization, YAML, MySQL,
+MySQLWorkbench, MySQL server, HTML5, CSS, Sass 3, JQuery, JavaScript,
+AJAX, XML, ActionCable/WebSockets, GitLab, Git, JIRA, JSON, RSpec,
+Minitest, FactoryGirl, Selenium, PhantomJS, Poltergeist, Capybara, Slack,
+Bash, Unix, Rspec, Minitest, Coffee Script, Delayed Job
+Boulder Tent Rentals
+Software Developer Intern
+December 2014 - August 2015 (9 months)
+• Designed, Implemented and enhanced the quality of Boulder and Denver
+Tent Rentals business websites
+• Use of marketing analytics to enable ongoing evaluation and measurement of
+marketing success
+• Designed and Implemented an event scheduling application primarily used
+for inventory and event management operations
+Tools: WordPress, Django Python Framework, Bash, Unix, HTML, CSS,
+Bootstrap, JavaScript, git, SQLite
+Adirondack Medical Center
+Certified Nursing Assistant
+June 2012 - June 2013 (1 year 1 month)
+Uihlein; Adirondack Medical Center: Lake Placid, NY
+Daily responsibilities consisting of: Assisting residents with daily living skills
+such as, hygiene and dietary needs. Working hands on to help and encourage
+residents to increase and improve their mobility. Provide emotional support.
+Cleaning, organizing and restocking supplies.
+Page 2 of 3
+North Country Community College
+Life Guard
+May 2012 - May 2013 (1 year 1 month)
+North Country Community College: Saranac Lake, NY
+Daily Responsibilities: Ensure safety and well-being of all patrons.
+Proper supervision. Consistent enforcement of rules and regulations in a
+professional manner. Respond quickly to emergencies in and out of the water,
+administering First Aid as needed. Report unsafe conditions to the Athletics
+Supervisor.
+North Country Community College
+Math Tutor
+October 2011 - December 2011 (3 months)
+Saranac Lake, NY
+Daily Responsibilities: Assisting students in understanding concepts of
+MAT108/Technical Mathematics and MAT129/Intermediate Algebra. Working a
+variety of methods to help students better understand the course material.
+Education
+Rochester Institute of Technology
+Bachelor’s Degree, Software Engineering · (2014 - 2018)
+North Country Community College
+Associate's degree, Liberal Arts and Sciences/Liberal Studies · (2011 - 2013)
+Page 3 of 3

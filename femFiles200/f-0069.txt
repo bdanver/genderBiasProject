@@ -1,0 +1,116 @@
+Contact
+www.linkedin.com/in/maggie-driver
+(LinkedIn)
+Top Skills
+Software Development
+Informatica
+SQL
+Honors-Awards
+Sapphire Bravo Award
+Gold Bravo Award
+Platinum Bravo Award
+Gold Bravo Award
+Spotlight Award
+Maggie Driver
+Product Owner/Senior Data Engineer
+Greater Boston Area
+Summary
+Value-driven Data Engineer/Product Owner with a proven ability
+to quickly learn both business and technical applications. Passion
+for driving products and ideas from inception through to release
+into the market. 6+ years of experience in the data and analytics
+space successfully driving technical roadmaps and development
+by combining technical depth with business, analytical, and project
+management skills. Passion for data and analytics. Experienced in
+analyzing and manipulating data to drive growth for an insurance
+company. Highly motivated, self-learner eager to embrace new
+challenges in the growing field of data analytics.
+Experience
+Liberty Mutual Insurance
+6 years 7 months
+Product Owner & Senior Data Engineer
+January 2019 - Present (1 year 3 months)
+-Prioritize team backlog to reflect stakeholder’s product vision while ensuring
+data architecture best
+practices are followed as data is sent to the GRS Data Lake and downstream
+analytic environments.
+-Work directly with business stakeholders to capture and analyze challenges to
+their workflow.
+-Facilitate PI planning and sprint planning, as well as own creation of tasks and
+stories in JIRA.
+-Lead data analysis, data modeling, and data profiling on several database
+platforms and source systems.
+-Drive day-to-day development while focusing on the product vision, strategic
+objectives, and priorities.
+-Lead design and development efforts for multiple complex and high priority
+applications
+-Develop Java scripts for ETL and web services using tools such as Intellij,
+Spring, Maven, RabbitMQ, and Flyway.
+Page 1 of 3
+-Develop and execute intricate queries on Oracle, MySQL, and DB2 databases
+using SQL
+-Perform data analysis and data profiling to solve data issues from sources
+Software Developer
+November 2015 - January 2019 (3 years 3 months)
+-Develop Java scripts for ETL and web services using tools such as Intellij,
+Spring, Maven, RabbitMQ, and Flyway.
+-Build Amazon RDS MySQL databases and correlating web services which
+take the data in both Oracle and MySQL databases and publish messages out
+to AWS S3.
+-Work with business to design and build data mappings based on business
+needs
+-Develop and execute intricate queries on Teradata, Oracle and DB2
+databases using SQL
+-Perform data analysis and data profiling
+-Create sFTP processes as well as update existing sFTP processes to meet
+new security standards
+-Lead design and development efforts for multiple complex and high priority
+applications
+Associate Software Developer
+June 2014 - November 2015 (1 year 6 months)
+Dover, New Hampshire
+-Developed and implemented software solutions
+-Lead Teradata Migration of data centers for fifteen separate applications
+-Built data models using Erwin data modeling tool
+-Used Informatica PowerCenter to develop data mappings
+-Completed unit testing on database-driven applications
+-Created production support documents and knowledge transfers
+-Executed data profiling through DataFlux and Informatica IDQ
+-Managed and updated batch job scheduling and workload automation
+IT Analyst
+September 2013 - June 2014 (10 months)
+Dover, New Hampshire
+- Worked as an IT Analyst in the Commercial Insurance IT Database
+Management System group
+-Assisted in the development and enhancement of software
+-Built and modified databases using SQL
+-Performed analysis and testing on multiple applications
+Page 2 of 3
+-Supported the development of production support documents
+Applied Research Lab at The Pennsylvania State University
+Undergraduate Researcher
+June 2013 - August 2013 (3 months)
+-Helped coworkers with comprehensive research projects
+-Received training in advanced research methods
+-Worked with Python
+Sno Haus
+Sales Associate
+January 2009 - December 2012 (4 years)
+-Sales position with a major Long Island ski and apparel shop
+-Assist customers while assuring all necessary tasks are completed
+Smithtown Parks Dept
+Lead Attendant
+May 2008 - August 2012 (4 years 4 months)
+-Scheduled staff
+-Trained new employees
+-Provided performance feedback.
+-Assured organization of the entire park
+-Maintained a safe, clean park according to town regulations
+-Handled resident inquiries
+Education
+Penn State University
+Bachelor of Science, Mathematics, Systems Analysis; Minor: Informational
+Sciences and Technology · (2011 - 2013)
+Saint Joseph's College
+Mathematics and Computer Science · (2009 - 2011)
+Page 3 of 3

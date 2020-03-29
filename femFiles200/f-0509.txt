@@ -1,0 +1,99 @@
+Contact
+www.linkedin.com/in/catherin9
+(LinkedIn)
+Top Skills
+C
+Java
+Chinese
+Languages
+Chinese
+French
+Certifications
+UX: Interaction Design Course
+Patents
+Display screen with animated
+graphical user interface
+Catherine Wu
+Product Manager at Google
+New York, New York
+Summary
+Product manager excited to enable meaningful real life interactions
+through technology.
+Experience
+Google
+Product Manager
+July 2015 - Present (4 years 9 months)
+PM on Local Discovery
+• Launched hashtags on Android Maps
+• Launched assistive chips under search bar on Maps
+• Launched ML-based ranking algorithm to improve events photo quality
+• Own Explore tab on Maps
+APM on Local Search focusing on User Generated Content
+• 10x-ed volume of machine learning platform that uses user answers to build
+an accurate, real time model of the world at scale
+• Answers power features like Maps' real time busyness tracker, parking
+availability and Local Search recommendations
+Associate Product Manager (APM) on Google Docs Offline
+• Provide offline Google Docs functionality to users anytime, anywhere (Google
+Docs works offline on Chrome - go try it!)
+• Defined Google wide offline UX and framework
+Pinterest
+Software Engineer Intern
+June 2014 - September 2014 (4 months)
+San Francisco Bay Area
+• Full stack developer on the Growth (Reactivation & Retention) team
+• Designed and launched two email campaigns that provided weekly
+inspiration to international and new users and improved international in both
+respective groups
+Page 1 of 3
+• Improved the mobile web UX to increase new user signups during the Growth
+team's hack week
+Princeton University
+Laboratory Teaching Assistant
+September 2013 - February 2014 (6 months)
+• Clarified concepts and helped debug assignments for COS318 (Operating
+Systems)
+Microsoft
+Software Development Engineer Intern
+May 2013 - September 2013 (5 months)
+Bellevue, WA
+• Analyzed the Bing FPAs' (First Party Applications) backend performance
+using C#, SCOPE, MapReduce and unsupervised machine learning
+• Learned data analysis and big data management techniques
+• Princeton University Student Ambassador
+Intel Corporation
+Software Engineer Intern
+May 2012 - September 2012 (5 months)
+Santa Clara, CA
+• Created an automated test system with five slave machines for the Unified
+Shader Compiler team using Jenkins-CI and designed workflows that
+decreased test time from 4 to 1.5 hours
+Gap Inc.
+Sales Associate
+October 2011 - February 2012 (5 months)
+Stanford Shopping Center, Stanford, CA
+Survived working Black Friday as a seasonal retail associate and gained
+invaluable customer experience.
+CK-12 Foundation
+Intern and Content Developer
+June 2011 - August 2011 (3 months)
+• Developed and created online Chemistry, Physics, and Calculus study guides
+for CK-12's free online textbook library
+• Recommended marketing strategies that targeted middle school and high
+school students
+Page 2 of 3
+Metropolitan Transportation Commission
+Engineering Intern
+June 2010 - August 2010 (3 months)
+Los Altos
+• Created a master plan of roadway stripes and delineations with AutoCAD to
+be used for all future estimations
+• Drew up a bid and budget proposal for new stripe repainting project
+Education
+Princeton University
+Bachelor of Science (B.S.), Computer Science · (2011 - 2015)
+Ecole Centrale Paris
+Study Abroad, Computer Science · (2014 - 2014)
+Henry M. Gunn High School
+· (2007 - 2011)
+Page 3 of 3

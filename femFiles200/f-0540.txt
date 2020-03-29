@@ -1,0 +1,81 @@
+Contact
+www.linkedin.com/in/ecvick
+(LinkedIn)
+Top Skills
+Python
+Java
+Scheme
+Honors-Awards
+Deloitte StartUp UC Berkeley - 3rd
+Place
+Athlete of the Year
+Rohrabaugh Scholar
+American Legion Scholar
+Illinois State Scholar
+Emma Vickery
+Electrical Engineering and Computer Science Student at UC
+Berkeley
+Greater Chicago Area
+Summary
+I am currently an undergraduate student at UC Berkeley studying
+Electrical Engineering & Computer Science and Industrial
+Engineering & Operations Research. My passions for travel,
+technology, and entrepreneurship have followed me from the windy
+city of Chicago to the sunny Bay Area!
+Experience
+Carta
+Incoming Software Engineer
+January 2020 - Present (3 months)
+San Francisco Bay Area
+CMG Strategy Consulting
+1 year 8 months
+Senior Advisor | Stadium Goods
+January 2020 - Present (3 months)
+Project Manager | Lyft
+May 2019 - January 2020 (9 months)
+Consulting Analyst | Ripple & HP
+August 2018 - May 2019 (10 months)
+Amazon
+Software Development Engineer Intern
+May 2019 - August 2019 (4 months)
+Greater Seattle Area
+• Worked under the Commerce Platform on AWS to create an automated
+solution to a previously manual workflow regarding the creation of product
+lines, used for revenue mapping purposes, regarding numerous AWS services
+• Reduced time for creation of product lines from 2 months to 2 days through
+the new automation, cutting down teams involved by half
+Page 1 of 2
+• Wrote backend primarily in Java, adding APIs to existing code packages and
+creating new proxies to communicate with other team’s packages;
+developed frontend by use of AngularJS, HTML and CSS, with countless user
+feedback meetings to produce the best UI for my customer
+• Communicated closely and often with multiple finance teams regarding use
+cases for creating and updating product lines to services
+Berkeley RISE Lab
+Undergraduate Research Assistant
+February 2018 - July 2019 (1 year 6 months)
+• Built upon the e-mission application (named greentrip) by accessing
+individual’s travel patterns, finding the start and end of their trip, and using
+Yelp’s API to recommend a more carbon efficient route to a closer location that
+falls in the same Yelp defined category as the end of their trip
+• Collaborated with a team to divide and conquer both the backend, applying
+a closest distance algorithm given the starting point and closer locations of the
+same end point category (Python), and frontend, designing push notifications
+(JavaScript), of our modified application
+• Constructed and deployed our own GitHub repository onto an AWS server by
+developing skills in Ubuntu and Linux commands
+Mary Ha Dds
+Dental Sterilization Technician
+May 2017 - August 2017 (4 months)
+Northbrook, IL
+Northbrook Park District
+Girls Golf Instructor
+May 2015 - August 2016 (1 year 4 months)
+Northbrook, IL
+Education
+UC Berkeley College of Engineering
+Bachelor of Science - BS, Electrical Engineering and Computer Science
+(EECS) · (2017 - 2020)
+Glenbrook North High School
+· (2013 - 2017)
+Page 2 of 2

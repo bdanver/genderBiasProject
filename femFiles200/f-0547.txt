@@ -1,0 +1,143 @@
+Contact
+www.linkedin.com/in/olivia-
+choudhury-0b207395 (LinkedIn)
+researcher.watson.ibm.com/
+researcher/view.php (Personal)
+Top Skills
+Distributed Computing
+Parallel Computing
+High Performance Computing
+Languages
+English (Full Professional)
+Hindi (Native or Bilingual)
+Bengali (Native or Bilingual)
+Certifications
+Patent File
+Honors-Awards
+Best Paper Award Nomination
+NSF Award
+EIGH PhD Fellowship
+Faculty Choice Award - Annual
+Research Symposium
+Grace Hopper Scholarship
+Publications
+A Blockchain Framework for
+Ensuring Data Quality in Multi-
+Organizational Clinical Trials
+Auto-translation of Regulatory
+Documents into Smart Contracts
+Expanding Tasks of Logical
+Workflows Into Independent
+Workflows for Improved Scalability
+Federated Learning for Predicting
+Clinical Events with Distributed
+Patient Dataset
+An integrated pathway system
+modeling of Saccharomyces
+cerevisiae HOG pathway: a Petri net
+based approach
+Olivia Choudhury
+Federated Learning, Cloud Computing, Healthcare, Genomics,
+Blockchain, Data Privacy
+Cambridge, Massachusetts
+Experience
+IBM T. J. Watson Research Center
+Researcher
+July 2017 - Present (2 years 9 months)
+Yorktown Heights
+1. Developing privacy-preserving federated machine learning models,
+compliant with HIPAA and GDPR, for analyzing distributed and sensitive health
+data
+2. Designing secure and robust blockchain-based platforms for managing and
+sharing sensitive data
+3. Deploying cloud-based frameworks and microservices, using Kubernetes
+and Kubeflow, for portable, scalable, and modular data analysis applications
+4. Building a framework to manage Service-Level Agreement (SLA), detect
+violation of QoS, and perform root cause analysis in composite cloud platforms
+Broad Institute of MIT and Harvard
+Visiting Scientist
+June 2019 - Present (10 months)
+1. Developing algorithms to improve the predictive power of polygenic
+risk scores that can help clinicians identify patients at serious risk for
+cardiovascular disease
+2. Building multivariate models on time series health data for predictive
+analysis
+3. Collaborating with physicians at Massachusetts General Hospital to improve
+the clinical impact of the work
+IEEE Blockchain
+Vice-Chair of Worldwide Committee and Managing Editor
+December 2018 - Present (1 year 4 months)
+Ph. D Fellowship
+EIGH Fellow
+August 2015 - June 2017 (1 year 11 months)
+Page 1 of 3
+Patents
+Intercepting Inadvertent
+Conversational Disclosure of
+Personal Information
+A system and method to visualize
+and evaluate privacy policy
+compliance from a network of
+websites
+System and Method for Hierarchical
+Aggregation of Local Models in
+Federated Learning
+System and Method for Anonymizing
+Relational Data and Textual Data
+System and Method for Anonymizing
+Healthcare Networks using Network-
+based Attributes and Entity-based
+Access Rights
+University of Notre Dame
+Ph.D.
+August 2012 - June 2017 (4 years 11 months)
+1. Developed iterative machine learning algorithms to improve quality of
+genomic data
+2. Designed a fast, memory-efficient, and accurate algorithm to impute missing
+data
+3. Devised cloud-based infrastructure to expedite analysis of large-scale
+genomic workflows
+4. Built predictive models to optimize resource utilization of cloud platforms,
+including Amazon Web Services, Google Cloud Platform, and Microsoft Azure
+Broad Institute
+Research Intern
+May 2016 - August 2016 (4 months)
+Cambridge, MA
+1. Developed predictive models to control malaria and Zika outbreak
+2. Analyzed mosquito genome to determine their impact on disease
+transmission and methods of disease control
+IBM Watson
+Watson Tools and Automation Specialist
+June 2015 - August 2015 (3 months)
+1. Designed and deployed automated infrastructures for Watson applications
+(Watson oncology) on the cloud
+2. Created automated monitors to authenticate and authorize activities for
+Infrastructure-as-a-Service (IaaS)
+3. Reduced overall runtime of operation from 490 hours/week to 2 hours/week
+Tata Consultancy Services
+Assistant Systems Engineer
+January 2012 - April 2012 (4 months)
+India
+1. Developed a mobile carrier service supporting customer, tariff, and bill
+management using C++, HTML, JScript, and Postgres
+2. Extended the service to scale up across thousands of customers and
+support millions of data transactions
+Indian Statistical Institute, Kolkata
+Undergraduate Research Intern
+Page 2 of 3
+August 2010 - September 2011 (1 year 2 months)
+Kolkata Area, India
+1. Developed statistical models to design the interplay between integrated
+networks
+2. Discovered association of attributes in biological network with disease
+transmission
+Institute of Electronics and Telecommunications Engineering (IETE)
+Undergraduate Intern
+June 2010 - August 2010 (3 months)
+Education
+University of Notre Dame
+Doctor of Philosophy (Ph.D.), Computer Science and
+Engineering · (2012 - 2017)
+University of Notre Dame
+Master of Science (M.S.), Computer Science and Engineering · (2016)
+Page 3 of 3

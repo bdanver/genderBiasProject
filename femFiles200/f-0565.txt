@@ -1,0 +1,93 @@
+Contact
+www.linkedin.com/in/jaclyncoleman
+(LinkedIn)
+Top Skills
+C
+JavaScript
+HTML 5
+Jaclyn Coleman
+Senior Software Engineer at Google
+New York, New York
+Summary
+I am a software engineer working on Education features within
+Google Search.
+Previously, I worked on the Civic Engagement team making voter
+information and election results available on Google for international
+elections.
+Experience
+Google
+5 years 7 months
+Senior Software Engineer
+November 2017 - Present (2 years 4 months)
+Greater New York City Area
+Software Engineer
+August 2014 - October 2017 (3 years 3 months)
+Greater New York City Area
+Tech Lead for US Voter Assistant Search features
+- Led a team of 4 frontend engineers to develop a suite of features that would
+help users register to vote, become educated on the voting process, and
+ultimately vote
+- Launched Register to Vote Search page features before the national
+convetions: https://googleblog.blogspot.com/2016/07/a-voice-for-everyone-
+in-2016.html
+- Supported Register to Vote and How to Vote Search page features in
+Spanish to facilitate registration and voting to more Americans than soley
+English-speaking: https://googleblog.blogspot.com/2016/09/iregistered-to-vote-
+have-you.html
+- Launched Ballot and Polling Place Search page features in English and
+Spanish 4 weeks before the US general election
+https://blog.google/products/search/get-polling-place-and-ballot-information-
+quickly-and-easily/
+Page 1 of 3
+Previous contributions to the Civics Engagement team
+- Key contributor to the US Primaries national results
+- Frontend engineer for the US State view for US primaries results and
+designed how it would be incorporated into the larger experience
+- Embedded Google Trends data into candidate Knowledge Panels
+- Frontend engineer for a Canada Voter Assistant onebox for the 2015 election
+that facilitated voting and registration
+- Contributed to frontend engineering to Ballot & Results oneboxen for 2015
+elections: UK, Mexico, Canada
+- Currently implementing designs in Java, JsLayout, and JavaScript.
+Kappa Kappa Gamma
+President
+January 2013 - December 2013 (1 year)
+Austin, TX
+Google
+Software Engineering Intern
+May 2013 - July 2013 (3 months)
+New York, New York
+-Designed and implemented a searchbox for wallet.google.com for users to
+search through transactions
+-Developed using GWT, Java, JavaScript
+Google
+Engineering Practicum Intern
+May 2012 - August 2012 (4 months)
+Mountain View, California
+-Designed and implemented a JavaScript engine to read predetermined time
+offsets between multiple videos and synchronize playback, pausing, seeking,
+and view switching
+-Designed and implemented an HTML5 multi-video viewer that interfaced
+with the JavaScript engine to allow a user to watch and switch between video
+streams
+-Developed MATLAB video quality prototypes to determine a measure of
+shakiness and color consistency across multiple videos
+-Developed and applied C++ prototype to determine measure of shakiness
+between video frames that would determine best video to be played across the
+synchronized video streams
+Page 2 of 3
+Qualcomm Innovation Center Inc
+QCT Engineering Intern
+June 2011 - August 2011 (3 months)
+-Applied test automation software to test auto-focus algorithms on Android
+camera lenses and sensors
+-Analyzed data and communicated consistencies and criteria of necessary
+improvement to the external lens vendors
+-Organized Qualcomm Women in Science and Engineering event for the intern
+mentorship program.
+Education
+The University of Texas at Austin
+BS, Electrical/Computer Engineering · (2010 - 2014)
+Ursuline Academy
+· (2006 - 2010)
+Page 3 of 3

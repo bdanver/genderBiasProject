@@ -1,0 +1,103 @@
+Contact
+www.linkedin.com/in/amber-gooch
+(LinkedIn)
+github.com/ambergooch (Other)
+Top Skills
+Critical Thinking
+Problem Solving
+Creativity
+Amber Gooch
+Junior Software Developer at CareBridge Health
+Greater Nashville Area, TN
+Summary
+My first foray into coding began at the age of 13. I spent hours upon
+hours clumsily picking through code attempting to interpret the lines
+and lines of abstruse text. The ability to create with this strange
+new language fascinated me. Years later, during my freshman
+year of college, I enrolled in my first computer science course.
+While this course served as my first official introduction to the true
+magic of coding, my path ultimately led me elsewhere. However, I
+eventually found my way back to computer programming. Everyday,
+I rediscover how challenging, yet fun, writing code can be.
+One of the most enthralling aspects of software development is
+that it sits at the intersection of the creative and the analytical.
+Oftentimes, I have been surprised to find unexpected connections
+between the two. There is an immensely satisfying and fulfilling
+reward to finding the solution to a problem that first seemed
+unsolvable. Through my journey, I have learned to think both
+creatively and analytically. Amid the challenging, and often
+frustrating, aspects of coding is the prospect of honing my natural
+talent to take a logical, analytical approach to problem-solving while
+incorporating creativity. As I grow as a developer, I strive to learn
+how to better problem-solve and ask the right questions.
+Experience
+CareBridge Health
+Junior Software Developer
+November 2019 - Present (5 months)
+Greater Nashville Area, TN
+Nashville Software School
+Full-Stack Software Developer
+May 2019 - November 2019 (7 months)
+Greater Nashville Area, TN
+Page 1 of 3
+Intensive full-time, six-month web development bootcamp that focuses on the
+skills and technologies required to become a full-stack software developer.
+• Source code version control with Git/GitHub and project managing/tracking
+with Github Projects
+• JavaScript fundamentals using DRY, modular, readable code and reusable
+components
+• Experience using Bootstrap, Semantic UI, and CSS to style web applications
+• Experience building single page applications with React.js
+• Hands on application of Object Oriented Programming fundamentals
+• Leveraged Django to create server-side Python web applications
+• Experience utilizing raw SQL queries to interact with the database
+• Comfortable with group and individual projects reflecting real-world team
+dynamics and problem solving
+American Red Cross
+Manufacturing Laboratory Technician II
+August 2015 - May 2019 (3 years 10 months)
+• Manufactured, stored, and distributed blood products/samples according to
+applicable FDA, AABB, CLIA, NRC and Red Cross policies and procedures.
+• Performed and interpreted various testing procedures on blood products for
+patients use at area hospitals
+• Performed data entry and operated the computer programs associated with
+component production, labeling, storage, and shipping.
+• Maintained accurate and complete department records. Performed review of
+manufacturing records.
+• Ensured products/samples are suitable for release for distribution and are
+managed appropriately. Identified and quarantined products/samples that don’t
+meet quality requirements. Performed disposition of unacceptable products/
+samples.
+• Analyzed and made decisions based on visual inspection and information
+provided from other departments to meet time requirements and quality
+standards.
+True Care Physicians Clinic
+Administrative Assistant
+May 2012 - August 2013 (1 year 4 months)
+• Managed all front office functions including patient relations, check-in/check-
+out, scheduling, insurance verification, and answering phones.
+• Managed filing and retrieving medical records and patient information.
+Page 2 of 3
+• Assisted with collecting and recording co-pays (cash and/or charge)
+including balancing the day in the computer.
+Jackson OB/GYN Associates, P.C.
+Medical Records Specialist
+May 2008 - August 2011 (3 years 4 months)
+• Ensured patient health information documents are scanned correctly, filed
+appropriately, and batches are closed out properly into the electronic health
+record
+• Responded to medical record requests from external agencies
+• Ensured medical record requests are properly logged and invoiced to
+appropriate agencies
+• Performed a variety of administrative duties including but not limited to:
+answering phones; faxing and filing of confidential documents; and basic
+Internet and email utilization.
+Education
+Nashville Software School
+Full-Stack Software Development Bootcamp · (2019 - 2019)
+University of Tennessee, Knoxville
+Post-Baccalaureate Studies in Biochemistry and Cellular and Molecular
+Biology · (2014 - 2015)
+Emory University
+Bachelor's degree, Anthropology · (2009 - 2013)
+Page 3 of 3

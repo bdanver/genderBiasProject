@@ -1,0 +1,148 @@
+Contact
+www.linkedin.com/in/adesormeaux
+(LinkedIn)
+desormeaux.weebly.com
+(Personal)
+Top Skills
+Data Analysis
+Machine Learning
+Python
+Certifications
+Business Foundations
+Honors-Awards
+Calvin A. VanderWerf Teaching
+Award
+Geography Senior of the Year
+Doctoral Fellowship
+Sharon Fitz-Coy Memorial Award
+Michael T. Morrow Environmental
+Award
+Amanda Desormeaux
+Data Scientist at SparkBeyond
+Greater New York City Area
+Summary
+Experienced client-facing Data Scientist with a demonstrated history
+of working directly with business partners and data science teams to
+develop technical solutions and drive business impact. Collaborative
+problem-solver, engaging story-teller, and lover of all things data.
+Experience
+SparkBeyond
+Data Scientist
+March 2019 - Present (1 year 1 month)
+New York, New York
+I leverage SparkBeyond's AI-powered problem-solving engine to drive social
+and business impact throughout the Americas.
+Some of my responsibilities include:
+• Working directly with business partners and data science teams to develop
+technical solutions and drive business impact
+• Translating business challenges and complex data into data pipelines &
+model frameworks to solve problems and deliver insights across various
+domains and industries (e.g., Finance, Health, eCommerce, Marketing,
+Insurance, CPG)
+• Collaborating with multi-disciplinary internal teams to evaluate new product
+capabilities, develop and maintain reusable internal assets, and support client
+relationships
+Insight Data Science
+Data Science Fellow
+January 2019 - March 2019 (3 months)
+Greater New York City Area
+• Created a web application to improve the NYC rental search experience
+• Used Python to clean 311 complaint data (pandas), merge with neighborhood
+and building characteristics (entity resolution in pandas, stored in PostgreSQL
+database), and engineer features (pandas) that were used to train a random
+Page 1 of 4
+forest (sklearn) to predict the presence of pest, noise, heat, and water
+complaints for an address (code available at https://git.io/fh5g9)
+• Built Flask application to deliver model results and hosted app on Amazon
+Web Services
+University of Florida
+6 years 5 months
+Graduate Fellow
+August 2014 - December 2018 (4 years 5 months)
+Environmental Land Use Lab/Landscape Hydrology Lab
+• Collected, cleaned, and merged water quality data, fertilizer sales records,
+and Census data in R to engineer features and build predictive landscape-
+scale water quality models
+• Partnered with government agencies and academic teams on a $3 million
+grant funded multidisciplinary project and worked directly with landowners to
+perform field experiments on-site
+• Used time-series methods to predict water quality trajectories and forecast
+fertilizer sales, performed lab and field experiments for model fitting and
+parameterization, reduced the dimensionality of water quality data using
+principal component analysis, and performed feature selection using L1
+regularization
+• Synthesized and presented results, interpretation of analyses, and political
+implications of results to technical and non-technical stakeholders at local,
+state, and international meetings and published results in peer-reviewed
+journals
+• Awarded Wetland Biogeochemistry Fellowship for research quality
+Instructor of Record
+August 2016 - May 2017 (10 months)
+Gainesville, Florida
+• Awarded Calvin A. Vanderwerf Award (2017), the most prestigious
+graduate teaching award given to the top two graduate instructors across
+all departments, and the Jack L. Fry Award (2018), given to the top CALS
+graduate instructor each year
+Lab Manager
+August 2014 - July 2015 (1 year)
+Gainesville, Florida Area
+• Managed lab administrative duties and lab operations. Maintained well-
+kept research lab and equipment. Coordinated multiple projects, supported
+research logistics, and planned and facilitated lab meetings. Provided training
+Page 2 of 4
+and safety orientations for lab members that met OSHA, EPA and company
+compliance requirements. Responsible for training material development and
+completion tracking.
+Graduate Assistant
+August 2012 - August 2014 (2 years 1 month)
+Research Assistant at the University of Florida Plant Fertility Lab:
+• Researched the environmental impact of farming practices relevant to local
+agricultural production systems to develop and update best management
+practices.
+• Collected, prepared, and analyzed water, plant, and soil samples using
+appropriate protocols and evaluated, documented, and managed data.
+Operated and maintained vehicles, sampling equipment, and lab equipment.
+Statistically analyzed data using Excel and JMP, generated reports, and gave
+technical presentations on findings.
+• Secured over $5,000 in corporate donations for research project at a public
+university, fostering public-private partnerships to advance the sustainability of
+water use.
+Teaching Assistant for Critical Thinking in Environmental Science, Sustainable
+Agriculture/Urban Land Management, and Agriculture and Environmental
+Quality:
+• Lectured undergraduate and graduate course sections for three separate
+courses, explained challenging environmental and biological concepts, led
+weekly review sessions, and created and evaluated assignments for up to 70
+students.
+Volusia Soil and Water Conservation Service
+Supervisor/Intern
+August 2009 - May 2013 (3 years 10 months)
+Deland, FL
+• Developed and implemented sustainable agriculture, soil conservation, and
+water conservation policies in Volusia County, Florida
+• Coordinated public forums and facilitated stakeholder participation, organized
+and executed an annual fundraising event, promoted projects to the public
+during outreach events, and briefed board members on project updates
+• Developed and proposed targeted sustainability initiatives, including the
+successful partnership with external government officials to construct and
+maintain a community garden
+Page 3 of 4
+USDA-NRCS
+Intern
+August 2009 - December 2009 (5 months)
+• Worked directly with growers to implement practices complying with national
+sustainable policies
+• Assisted with conservation planning, consultations, agricultural best
+management practice, GIS mapping using ArcGIS, analysis, data
+management, monitoring and mitigation plan development
+• Compiled educational materials for local schools and organizations
+Education
+University of Florida
+Doctor of Philosophy (Ph.D.), Interdisciplinary ecology with a concentration in
+soil and water science · (2014 - 2018)
+University of Florida
+Master's Degree, Interdisciplinary ecology with a concentration in soil and
+water science · (2012 - 2014)
+Stetson University
+Bachelor's, B.A. in environmental science, B.S. in geography · (2006 - 2010)
+Page 4 of 4

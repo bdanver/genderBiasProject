@@ -1,0 +1,86 @@
+Contact
+www.linkedin.com/in/elizabeth-
+uselton-17a3994a (LinkedIn)
+Top Skills
+Python
+Ruby on Rails
+Ruby
+Elizabeth Uselton
+Software Engineer at Rover.com
+Greater Seattle Area
+Summary
+A lot: Python, Django.
+Some: Ruby, Rails, Javascript.
+A little: React, Erlang, Golang, Elasticsearch.
+Experience
+Rover.com
+Software Engineer
+January 2018 - Present (2 years 2 months)
+Greater Seattle Area
+I pet cute animals and program Python.
+- As subject matter expert on Pay-ins, Payouts, and Financial Subledger areas
+of the code base, I guide designs, review implementation plans, and do code
+reviews for engineers working in payments and finance space.
+- Designed and headed implementation for payout system expansion for new
+payment processor and the ability to process payments in European markets.
+Project was delivered on time to a tight deadline and with zero rollbacks.
+- Implemented reworking of credit card processor integration for PCI
+compliance.
+- Designed and built software determining the company’s tax liability.
+- Built extensions to our in house financial subledger allowing us to accurately
+record European revenue and liabilities.
+- Implemented integration with Stripe, refactored integration with Braintree and
+Paypal.
+- First six months on the Growth team, doing 3rd party referral integrations and
+A/B testing to increase user conversion rate.
+Chef Software
+Software Engineer
+January 2017 - December 2017 (1 year)
+Greater Seattle Area
+Page 1 of 3
+I worked on a rewrite of Chef’s Automate software, a dashboard displaying
+information on node health. Learned Golang and Erlang for an API which
+communicates to the Angular front end or any external clients using a RESTful
+API, then uses gRPC to route messages between a number of services
+before saving them in elasticsearch. My biggest contributions have been to
+the gateway service’s RESTful endpoints, the ingestion and data retrieval
+services’ gRPC endpoints, and elasticsearch searches, index creation, and
+data insertion.
+EnergySavvy
+Software Engineer
+October 2014 - January 2017 (2 years 4 months)
+Greater Seattle Area
+I worked on EnergySavvy's client engineering team, building large scale
+Django web applications and custom features for individual clients.
+In this role I launched a successful major implementation of our workflow
+management software which required extensive custom business logic
+work to meet the client's unusual needs. Serving as the technical lead for
+this project, I took end to end responsibility for this project from design to
+launch, coordinating multiple other developers' contributions to the project and
+mentoring junior developers. Pioneering our team's now common practice of
+using React for better UI in a major custom feature, I unlocked high customer
+satisfaction on the feature. I programmed ambitious features making this
+product our most flexible, data driven workflow program to date.
+Dell EMC
+Software Developer Intern
+May 2014 - October 2014 (6 months)
+Greater Seattle Area
+I worked on the post release engineering team, using Python and a variety of
+science libraries for to identify heuristics about our product through machine
+learning. I also refactored our Python parsers bringing them up to 100% test
+coverage, reducing complexity, and getting 10/10 Pylint scores.
+Ada Developers Academy
+Student
+October 2013 - October 2014 (1 year 1 month)
+Seattle, WA
+Page 2 of 3
+50-60 hours a week of work learning full stack web development, including
+Ruby, Rails, HTML, CSS, Sinatra, Javascript. I worked on small teams to
+create an ecommerce site, a feed aggregator, a calendar scheduling app,
+SaaS projects, RESTful APIs, data scrapers, bots, among other things.
+Education
+University of California, Santa Cruz
+Bachelor of Arts (B.A.), Theater Arts - Production Management, Playwriting
+Seattle Central Community College
+Math and Computer Science
+Page 3 of 3

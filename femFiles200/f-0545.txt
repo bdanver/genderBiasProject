@@ -1,0 +1,82 @@
+Contact
+www.linkedin.com/in/olivia-
+simpson-29a08450 (LinkedIn)
+oliviamsimpson.com (Personal)
+Top Skills
+Algorithms
+Computer Science
+LaTeX
+Publications
+Solving Local Linear Systems with
+Boundary Conditions Using Heat
+Kernel Pagerank
+Border Correlations of Partial Words
+Computing Heat Kernel Pagerank
+and a Local Clustering Algorithm
+Predicting risky behavior in social
+communities
+Catching the head, tail, and
+everything in between: a streaming
+algorithm for the degree distribution
+Olivia Simpson
+Data Scientist
+San Francisco Bay Area
+Summary
+Currently a data scientist at Adobe, working on designing, building,
+and maintaining models. I received my PhD in Computer Science at
+UCSD. My dissertation research was in applying graph algorithms
+with strong theoretical foundations to problems for large-scale
+networks that occur in real world applications.
+Experience
+Adobe
+3 years 3 months
+Senior Data Scientist
+February 2019 - Present (1 year 2 months)
+San Jose, CA
+Data Scientist
+January 2017 - Present (3 years 3 months)
+San Jose, CA
+- Build, tune, and maintain ML models for customer management
+- Deliver visualizations and summaries with actionable conclusions
+University of California, San Diego
+5 years 4 months
+Graduate Teaching Assistant
+September 2012 - December 2016 (4 years 4 months)
+Teaching assistant for the following courses:
+CSE 21 Mathematics for Algorithms and Systems Analysis (undergraduate)
+Fall 2016
+CSE 105 Theory of Computation (undergraduate) Spring 2016, Spring 2013,
+Fall 2012
+CSE 150 Artificial Intelligance (undergraduate) Winter 2016
+CSE 101 Algorithms (undergraduate) Fall 2015, Winter 2015, Fall 2014, Fall
+2013
+Page 1 of 2
+CSE 202 Algorithms (graduate) Spring 2015, Spring 2014
+Graduate Researcher
+September 2011 - December 2016 (5 years 4 months)
+Graduate researcher in network algorithms and analysis. Research interests
+and topics include spectral graph theory, probabilistic algorithms, network
+clustering, data science and machine learning especially as they pertain to
+large networks.
+Lawrence Livermore National Laboratory
+Data Science Summer Technical Intern
+June 2016 - September 2016 (4 months)
+Sandia National Laboratories
+Technical Intern
+June 2014 - September 2014 (4 months)
+Livermore, CA
+Developed and analyzed a small-space graph streaming algorithm. Results
+were presented at ICDM.
+AppNeta
+Software Development Intern
+June 2013 - September 2013 (4 months)
+Designed a graph processor for application performance tracing, enhanced the
+functionality and performance of web application tracing with graph algorithms.
+Education
+University of California, San Diego
+Doctor of Philosophy (PhD), Computer Science · (2011 - 2016)
+University of California, San Diego
+Master's Degree, Computer Science · (2011 - 2014)
+University of Massachusetts, Amherst
+Bachelor of Science (BS), Mathematics · (2005 - 2009)
+Page 2 of 2

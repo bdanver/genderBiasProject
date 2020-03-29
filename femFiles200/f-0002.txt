@@ -1,0 +1,84 @@
+Contact
+www.linkedin.com/in/anabealo
+(LinkedIn)
+Languages
+Spanish (Elementary)
+Honors-Awards
+Dean's List
+Anastasia Bealo
+Software Engineer at Cimpress
+Waltham, Massachusetts
+Experience
+Cimpress
+Lead Software Engineer and Team Lead
+April 2017 - Present (2 years 11 months)
+Waltham MA
+* Led two teams creating brand new products in both a tech manager role and
+product manager role
+* Leading team of 3 engineers in Waltham
+* Previously lead a team of 4 engineers in Mumbai
+* Currently using C#, React, and AWS, micro-services
+Factset
+Software Engineer
+July 2015 - April 2017 (1 year 10 months)
+Worked as an engineer on a risk management team. Team focused on
+creating software to help predict risk of long term bonds by leveraging monte
+carlo simulations
+University of Rochester
+4 years 8 months
+Computer Science Teaching Assistant
+August 2013 - April 2017 (3 years 9 months)
+Rochester, New York
+Work with a small group of students in a workshop-style environment, clarify
+complex ideas learned in lecture, give added assistance outside of class if
+students require more help
+Mathematics Teaching Assistant
+September 2012 - May 2014 (1 year 9 months)
+University of Rochester
+Create lesson plans, teach undergraduate mathematics students on a weekly
+basis, simplify complex topics, give added assistance outside of class when
+students require help
+Charles River Analytics
+Page 1 of 3
+Software Engineering Intern
+May 2014 - September 2014 (5 months)
+Cambridge, MA
+-- Worked on two java systems; one to track geosynchronous satellites and
+one to classify oceanic objects (specifically aimed at torpedoes). Performed as
+part of two government defense contracts.
+-- Implemented algorithms to mathematically deduce how to identify satellites
+based on keplerian orbital mechanics
+-- Designed the base architecture and mySQL database for the satellite
+project: pulled data from a satellite tracking API and created a probabalistic
+java/scala association engine
+-- Re-factored code for torpedo identification software to help submarine
+captains better classify oceanic objects
+ANADIGICS
+Software Engineering Intern
+May 2013 - August 2013 (4 months)
+Tyngsoboro, MA
+Visual basic, organizing old code to run more efficiently, documenting old code
+for future users
+Anadigics
+Test Engineering Intern
+May 2012 - August 2012 (4 months)
+Tyngsboro MA
+RF product testing, product assembly, data analysis using JMP, Excel and
+Data Desk, rewired lab test stations, built universal cables, SMD board
+soldering
+Anadigics
+Product Engineering Intern
+June 2011 - August 2011 (3 months)
+Tyngsboro
+Participated in RF product testing, assisted with product assembly, salvaged,
+recycled and filed information on existing parts, and tracked offshore product
+assembly.
+Education
+University of Rochester
+Page 2 of 3
+Bachelor of Science, Computer Science · (2011 - 2015)
+University of Rochester
+Bachelor of Arts (B.A.), Mathematics · (2011 - 2015)
+Timberlane Regional High School
+· (2008 - 2011)
+Page 3 of 3

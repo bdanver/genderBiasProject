@@ -1,0 +1,92 @@
+Contact
+www.linkedin.com/in/rachel-
+white-03b54b121 (LinkedIn)
+Top Skills
+Java
+Python
+C#
+Rachel White
+Software Developer at Center for Coastal and Ocean Mapping /
+NOAA-UNH Joint Hydrographic Center
+Durham, New Hampshire
+Summary
+Programming Skills:
+• Strongest languages: Java and Python
+• Application development experience with VisualBasic.Net, Visual
+C#, Python, and Java
+• Web development experience using Drupal with the LAMP stack as
+well as Django
+• Knowledge of the relational database model and experience using
+SQL
+• Comfortable in a Unix environment
+• Proficient at Git
+Other Knowledge:
+• Data structures/algorithms
+• Machine learning techniques
+• Natural language processing
+• Computer vision
+Professional Skills:
+• 2 years of experience working in an agile environment
+• 2 years of research experience
+• Experience leading team of junior developers
+• Have helped plan sprints and create issues through JIRA
+• Experience reviewing pull requests
+Experience
+Center for Coastal and Ocean Mapping / NOAA-UNH Joint
+Hydrographic Center
+Software Developer
+January 2020 - Present (3 months)
+• Currently working with Kalman filters to provide robotic boat with collision
+detection and resolution capability.
+Page 1 of 3
+• Wrote simulation in Python to test the project.
+University of New Hampshire, Hubbard Center for Genome Studies
+Research Assistant/Software Developer
+May 2019 - January 2020 (9 months)
+Durham, NH
+• Wrote scripts in Python to exhaustively test and verify results from the
+PALADIN protein aligner.
+• Automated the testing pipeline using Bash and Slurm.
+UNH InterOperability Lab
+Software Developer
+October 2017 - May 2019 (1 year 8 months)
+Durham, New Hampshire
+• Developed websites for clients in PHP and SCSS using Drupal and the
+LAMP configuration resulting in greater ease of use and less time spent by
+users completing and submitting applications.
+• Debugged and added features to automated report generator application
+for client in Visual Studio and C#. Features added included the following
+among others: Added several components to the settings form and created
+a custom settings form object resulting in improved scalability; Added new
+methods which improved the parsing of specific strings from input documents
+and stopped the program from crashing; Added new methods to recognize
+comments in input documents resulting in more accurate report generation.
+• Designed and developed applications in Python to measure latency between
+devices.
+• Helped architect and develop the frontend and backend of an automated
+checklist application for client with the aim to reduce time spent answering
+redundant questions and streamline the application process.
+• Built website using Django and Mezzanine to help client visualize and
+comment on xml schema. Used PostgreSQL as a database and wsgi and
+Apache for deployment. Features of the website include the following: Ability
+to view the whole schema as a tree; Customization of viewable sections of the
+tree; Ability to comment on any given node in the tree.
+• Developed IOL visitor login system in Android Studio with Django backend.
+• Managed team of junior developers with the following responsibilities:
+Partially responsible for issue creation and sprint planning, responsible for
+making sure the client's website had all of our latest changes, responsible for
+delegating work to the junior developers.
+Page 2 of 3
+International Private Banking Systems
+Software Developer, Intern
+May 2017 - July 2017 (3 months)
+• Developed a tax compliance program using VB.Net and T-SQL which
+included the following features: Add members to and remove members from
+the compliance administration table; View rules and permissions of members
+in the table; Save changes to the database; Save changes to a file; Select all;
+Copy; Undo; Redo; Cancel. Release of the application eliminated the need for
+technical support to provide permissions to certain users.
+Education
+University of New Hampshire
+Masters, Computer Science · (2017 - 2020)
+Page 3 of 3

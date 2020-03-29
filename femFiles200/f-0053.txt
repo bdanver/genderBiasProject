@@ -1,0 +1,125 @@
+Contact
+www.linkedin.com/in/mia-pelino
+(LinkedIn)
+Top Skills
+C#
+Java
+AngularJS
+Honors-Awards
+Honor Graduate
+2015 Army National Guard Media
+Contest Winner
+Mia Pelino
+Software Developer at Pillar Technology
+Greater Seattle Area
+Summary
+Software Developer with a highly diverse history of working in the
+military, finance, broadcasting, and medical industries.
+Has experience working with agile teams who practice continuous
+integration, extensive testing, and write clean, reusable code.
+Looking for the right company to stay with long term, one that has a
+clear purpose, provides opportunities for career growth, has honest
+leaders, and a positive, motivated culture.
+Experience
+Pillar Technology
+Software Developer
+March 2019 - Present (1 year)
+Columbus, Ohio Area
+~ Current Project: React Native/C#/Azure Functions/CosmosDB mobile app
+~ Previous Project: Computer Vision and ID verification software for WPF
+touchscreen frontend desktop app with .Net Core backend.
+JPMorgan Chase & Co.
+Java Software Engineer
+January 2018 - March 2019 (1 year 3 months)
+Columbus, Ohio Area
+~ Delivered new features and enhancements for an enterprise-level Java
+Spring application with an Angular front end
+~ Broke down monolithic, legacy projects into containerized microservices
+residing on an internal cloud
+~ Practiced continuous integration with monthly releases
+~ Worked as a developer on a talented, high-energy, agile scrum team
+- Frequently used TDD and pair programming practices
+Tech Elevator
+.NET Development Bootcamp Student
+Page 1 of 4
+August 2017 - December 2017 (5 months)
+Columbus, Ohio Area
+~ Learned how to develop dynamic, web based software systems using .NET
+platform and framework
+~ Built command line interface software and file I/O
+~ Learned database programming using ADO.NET, table design and creation,
+SQL queries and DML, MS SQL, and E/R diagrams.
+~ Focused on Web Application Development using HTML, CSS, JavaScript,
+jQuery, ASP.NET MVC
+~ Utilized agile methodology, TDD, and pair programming practices
+~ Extensively used unit testing (MS Test), git command line, and Visual Studio
+~ Became familiarized with the principles of Object Oriented Programming
+614 Web Solutions
+Freelance Wordpress Website Builder
+January 2017 - December 2017 (1 year)
+Columbus, Ohio A
+~ Provided dynamic Wordpress website building services for businesses and
+personal brands
+~ Worked to improve business' organic placement in search engine results
+~ Developed social media strategies for customers
+~ Kept on top of website updates and maintenance.
+~ Offered basic tutorials for customers interested in self-maintenance
+Army National Guard
+Public Affairs Broadcast Sergeant
+November 2009 - November 2016 (7 years 1 month)
+Rickenbacker
+~ Traveled to Guatemala in 2015 and Peru in 2016 to provide all
+communications efforts in support of Fuerzas Commando, a Special
+Operations sponsored foreign military interaction exercise
+~ Combined creative problem solving with non-linear audio/video technical
+skills
+~ Performed as writer, reporter, editor, videographer, and producer in
+television productions
+~ Maintained assigned tactical and digital equipment, vehicles, weapons and
+computer systems
+Ohio AMVETS
+Digital Communications Manager
+September 2014 - March 2016 (1 year 7 months)
+Page 2 of 4
+Columbus, Ohio
+~ Migrated legacy website to a new CMS
+~ Redesigned the UI
+~ Incorporated new modules and extensions
+~ Managed the website updates, hosting, domain, and email addresses
+~ Developed computer literacy training for the aging members
+~ Managed a basic office computer network for printer/file sharing
+~ Set up new computers and installed required software
+~ Launched five social media accounts, a quarterly newsletter, and a blog,
+establishing a supportive digital community
+~ Headed PR and re-branding campaigns
+~ Created compelling content for the website, newsletters, and social media
+sites
+~ Created and organized file management systems and backups
+~ Tracked metrics for monthly reports
+Most of all, I learned that I feel most satisfied with my work when I've
+effectively solved a problem, created organization, increased efficiency, and
+established systems that improve the lives of customers and stakeholders.
+Through these experiences, I became interested in a career change to the
+technology field.
+ONG Public Affairs Office
+Social Media Marketing Intern
+June 2014 - August 2014 (3 months)
+Beightler Armory, Columbus, Ohio
+I spent the majority of this internship shadowing each position at the Ohio
+Army National Guard Public Affairs office. My objective was to analyze,
+develop, and refine current social media presence, strategies, and campaigns,
+and produce a final report.
+Education
+Tech Elevator
+.NET Web Application Development Bootcamp · (2017 - 2017)
+Defense Information School
+46R Qualification, Broadcast Journalism · (2014 - 2015)
+The Ohio State University
+Page 3 of 4
+Bachelor of Arts (B.A.), New Media and Communication
+Technology · (2013 - 2014)
+Columbus State
+Associate of Arts (A.A.), Arts and Sciences, General Studies · (2009 - 2012)
+Academy of Health Sciences
+68W Qualification, Combat Medic · (2010 - 2010)
+Page 4 of 4

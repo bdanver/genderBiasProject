@@ -1,0 +1,96 @@
+Contact
+www.linkedin.com/in/clairedong
+(LinkedIn)
+clairedong.com (Portfolio)
+Top Skills
+Leadership
+Entrepreneurship
+Public Speaking
+Languages
+English (Native or Bilingual)
+Chinese (Professional Working)
+Honors-Awards
+NCWIT Aspirations in Computing
+Award
+USA Computing Olympiad Gold
+Division
+Department Awards of Honor- AP
+European History, AP Calculus AB
+Department Award of Honor - AP
+English Language
+Department Award of Merit - AP
+Calculus BC
+Claire D.
+Computer Science Student at MIT
+Cambridge, Massachusetts
+Experience
+DocSpera
+Software Engineer Intern
+January 2020 - Present (3 months)
+Sunnyvale, CA
+• Refactored DocSpera’s Android native app from using Apache HttpClient
+library to OkHttp library.
+• Resolved deadlock issues by moving UI code in Async Callback to UI thread.
+Tailored LLC
+Co-Founder, Operations
+June 2018 - Present (1 year 10 months)
+Tailored is an aggregated online shopping platform that utilized machine
+learning to personalize the online shopping process.
+• Gained over 350 signups, 3 partnerships, and a 92% satisfaction rate
+towards suggestion algorithm.
+• Worked on programming the machine learning algorithm, acquiring
+partnerships with clothing lines, conducting beta tests, branding, and pitching
+the idea to investors
+HackMIT
+Logistics
+August 2019 - Present (8 months)
+• Ran MIT’s largest undergraduate hackathon for 1,000 students from around
+the world.
+• Managed relations with local hotels and sponsors, manned help desk during
+hackathon to resolve concerns.
+Self-employed
+Freelance Photographer
+December 2016 - Present (3 years 4 months)
+Photographer for prom, graduation, and parties. Personal projects include
+astrophotography, long exposure city nightlife, and nature scenes.
+Page 1 of 3
+University of Pennsylvania Management and Technology Summer
+Institute
+Student
+July 2018 - July 2018 (1 month)
+• Took college-level business and engineering courses at the University of
+Pennsylvania’s Management and Technology Summer Institute
+• Developed prototype Breeze, an automatic smart window add-on that opens
+and closes based on temperature
+• Worked on hardware and software, created and pitched go-to-market plan.
+Impact LLC
+Co-Founder
+June 2017 - December 2017 (7 months)
+Impact is an online platform for adults to hire local high schoolers for "odd jobs"
+such as babysitting, tutoring, etc.
+• Responsible for market research analysis, outreach, and organizing launch in
+SF Bay Area
+• Gained over 100 users in 3 core geographies
+• Facilitated exchange of $1050 between adults and students through jobs set
+up by Impact
+TutorSync
+Math Tutor
+August 2016 - August 2017 (1 year 1 month)
+San Francisco Bay Area
+• Taught middle and high school level math.
+• Created lesson plans tailored to each student's needs.
+Kidz Love Soccer
+Soccer Coach
+June 2016 - October 2016 (5 months)
+San Francisco Bay Area
+• Coached soccer summer camps for children ranging from ages 4-10
+• Helped players develop the fundamentals skills of soccer while fostering
+players' love for the sport
+• 15 hours/week
+Education
+Page 2 of 3
+Massachusetts Institute of Technology
+Bachelor's degree, Computer Science · (2019 - 2023)
+Adrian C. Wilcox High School
+· (2015 - 2019)
+Page 3 of 3

@@ -1,0 +1,76 @@
+Contact
+www.linkedin.com/in/asia-taylor
+(LinkedIn)
+asialea.me (Personal)
+Top Skills
+Java
+JavaScript
+Python
+Honors-Awards
+Hammond Scholar
+Foote Fellows Honor Program
+Code 2040 Fellow
+Asia Taylor
+Software Engineer
+Greater New York City Area
+Experience
+Twitter
+Software Engineer
+July 2019 - Present (8 months)
+University of Miami
+4 years 7 months
+Student
+August 2015 - Present (4 years 7 months)
+Peer Mentor/ Tutor
+September 2017 - January 2018 (5 months)
+Coral Gables, FL
+Undergraduate Research Assistant
+January 2017 - May 2017 (5 months)
+Coral Gables, FL
+Using the Associative Affinity Factor Analysis framework to distinguish
+real people from bots and detect the stance of tweets relating to the 2016
+presidential election.
+Personal Projects
+7 months
+Guru
+January 2019 - July 2019 (7 months)
+Web application that allow users to find community and connect with mentors
+in tech.
+Technologies utilized : Django, MySQL, ReactJs
+Personal Site
+May 2019 - May 2019 (1 month)
+Personal portfolio site developed using HTML, CSS and Javascript
+Twitter
+Software Engineering Intern
+June 2018 - August 2018 (3 months)
+Page 1 of 2
+San Francisco Bay Area
+Developing a dashboard using Python,Flask and MySQL to allow clients to
+view the health of their databases via a graphical user interface.
+Code2040
+Technology Fellow
+May 2018 - August 2018 (4 months)
+Center for Computational Science
+Data Science Intern
+January 2018 - May 2018 (5 months)
+Coral Gables, FL
+Refining and developing CCS Data Scholars program materials and
+incorporating feedback from pilot phase students. Collaborating on draft and
+publishing an academic journal article on the framework that emerged out of
+the Data Scholars program on teaching data science at the high school level in
+underrepresented communities.
+Virginia Tech
+Undergraduate Research Assistant
+May 2017 - August 2017 (4 months)
+Blacksburg, VA
+Used Python to analyze three influenza surveillance datasets and to visualize
+the spread of the flu across the US. This research was useful for determining
+the allocation of supplies to healthcare facilities during epidemics.
+Education
+University of Miami
+Bachelors of Science, Mathematics and Computer Science · (2015 - 2019)
+University of Miami
+· (2015 - 2019)
+St. Anthonys High School
+· (2011 - 2015)
+Page 2 of 2

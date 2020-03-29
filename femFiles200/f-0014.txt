@@ -1,0 +1,82 @@
+Contact
+www.linkedin.com/in/rachelcheuk
+(LinkedIn)
+www.rachelcheuk.com (Company)
+Top Skills
+JavaScript
+Web Applications
+MySQL
+Languages
+Chinese
+Certifications
+Fundamentals of Design
+Accelerating Through Angular 2
+ES2015: The Shape of JavaScript to
+Come
+Leading without Formal Authority
+Influencing Others
+Honors-Awards
+Team and Performance Award
+Rachel C.
+Innovation through Data Analysis & Data Visualization | Fullstack
+Javascript Dev - Vue.js Development
+Houston, Texas
+Summary
+Rachel works with small businesses and startups to develop custom
+solutions to meet their business needs. She combines her expertise
+in web development, user experience design, marketing, and product
+development to offer customized solutions to help companies identify
+and grow their product's market. She is currently exploring emerging
+technology markets, such as blockchain, AI, and IoT.
+Experience
+Independent Consultant
+Web Development | Web Solutions Consultant
+January 2018 - Present (2 years 2 months)
+Rachel works with small businesses and startups to develop innovative
+new features and products using a variety of old and new technologies. She
+specializes in Javascript development.
+Realinflo
+CTO
+January 2019 - Present (1 year 2 months)
+Advise on product and web development for Realinflo platform. Develop new
+features, fix bugs, improve existing features, and migrate the platform to cloud
+infrastructure. Advise on growth strategies.
+Scattered Horizons Inc.
+Technology Consultant
+October 2016 - June 2018 (1 year 9 months)
+Scattered Horizons provides software development services. Scattered
+Horizons works primarily with early stage and established startups.
+Hanover Research
+Web Developer
+July 2014 - September 2016 (2 years 3 months)
+Page 1 of 2
+Solely managed and maintained cloud-based application built using Java,
+AngularJS, Tomcat, MySQL, and AWS. Developed and tested new features,
+improved user experience, addressed customer concerns and issues.
+Provided technical feasibility on new and upcoming products within the
+firm. Improved internal data storage and retrieval. Designed new Tableau
+dashboard prototypes for proprietary data sets.
+Booz Allen Hamilton
+Senior Consultant (Software Engineer)
+October 2011 - June 2014 (2 years 9 months)
+Developed and tested new features; maintained existing software platforms
+for a number of clients using a variety of technologies, to include Java, Spring,
+ExtGWT, Javascript, AngularJS, Ruby on Rails, Docker, AWS, Bootstrap,
+Sails.JS, Node.js, Mysql, Postgresql, and much more.
+Participated in all stages of the development cycle, from inception to
+deployment.
+ITT Inc.
+Software Engineer
+June 2009 - September 2011 (2 years 4 months)
+Tested and developed new features; maintained old features for a java based
+web application built on J2EE. Developed data visualizations (animated time
+series radar chart, thematic maps) using Google Maps and Adobe Flex.
+Education
+Quantic School of Business and Technology
+Executive MBA · (2019)
+Massachusetts Institute of Technology
+MIT Global Entrepreneurship Bootcamp - Class 5, Australia, Certificate in New
+Ventures Leadership · (2017)
+The George Washington University
+Bachelors
+Page 2 of 2

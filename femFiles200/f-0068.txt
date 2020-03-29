@@ -1,0 +1,65 @@
+Contact
+www.linkedin.com/in/nehaamin
+(LinkedIn)
+Top Skills
+Java
+SQL
+HTML
+Languages
+Hindi (Native or Bilingual)
+Marathi (Full Professional)
+Tulu (Limited Working)
+Neha A.
+Lead Software Developer at Perficient
+Greater Boston Area
+Summary
+Software Engineer with through hands-on experience across various
+technology stacks. Strong engineering professional skilled in J2SE,
+J2EE and various Java frameworks. Supportive and enthusiastic
+team player dedicated to streamlining and efficiently resolving project
+issues. Willing to take ownership of core components.
+Experience
+Perficient Inc.
+Lead Software Developer
+May 2011 - Present (8 years 11 months)
+Passionate and accomplished professional with more than 5 years of
+experience in design, development, and implementation of Supply Chain
+Management. My core expertise are J2SE and JEE application design,
+development and implementation. I am also experienced with AngularJS,
+Maven, REST Web Service and SQL.
+I love working in a collaborative, agile, inter-disciplinary environments that
+stimulate my technical skills.
+Technical Skills:
+• IBM Sterling Order Management
+• Adobe Experience Manager 6.1
+• Object-Oriented Java, J2EE
+• J2EE Technologies: Servlets, MVC, JSP
+• Database: MySQL, Oracle XE
+• SDLC: Scrum, Agile, WaterFall
+• SCM: Git, SVN
+• XML, XSL, WSDL, SOAP, HTML, CSS.
+Experience:
+-Developed clean & scalable code in Java for Data migration, Catalog
+Management, and Inventory management modules.
+-Designed and Developed Promotions using WSDL and JAVA.
+Page 1 of 2
+-Designed and Developed FedEx, Vertex Tax integration in JAVA.
+-Designed order creation APIs using web services.
+-Customized database tables according to requirements using XML scripts for
+Database.
+-Subject Matter Expertise in Distributed Order Management, Catalog
+Management, Inventory Management, Pricing, and Promotions.
+-Worked on UI development using HTML5, JavaScript, JQuery and CSS by
+following the corporate standards.
+-Strong knowledge and experience in using Agile Scrum development
+methodologies to plan, develop and release products and features.
+Penn State University
+IT Support Technician
+March 2010 - May 2011 (1 year 3 months)
+Assisting End-Users with Software related issues. Install and update software
+in labs.
+Ensure that the systems are free from bugs and viruses.
+Education
+Penn State University
+Bachelor's degree, Information Science and Business · (2007 - 2011)
+Page 2 of 2

@@ -1,0 +1,92 @@
+Contact
+www.linkedin.com/in/cassie-wang-
+aa64224b (LinkedIn)
+Top Skills
+React.js
+Java
+C++
+Cassie Wang
+Software Engineer at Palantir Technologies
+San Francisco, California
+Experience
+Palantir Technologies
+3 years 7 months
+Software Engineer
+September 2018 - Present (1 year 6 months)
+Forward Deployed Software Engineer
+August 2016 - August 2018 (2 years 1 month)
+• Iterated with customers and conducted user interviews to formulate technical
+requirements and deadlines, iterate on usability of workflow, and incorporate
+feedback into core product to expand usage over time.
+• Scoped, managed, and developed a full-stack application designed for HR
+management and personnel tracking for abroad employees. Migrated all users
+off of legacy system and quadrupled usage over the course of 3 months. (java,
+react, redux, typescript, sql)
+• Developed a pluginized micro-service that allows for customizable
+Gazetteers and abstraction of geocoding for all in-house applications.
+Experienced a 7x speed up over legacy Gazetteer service. (java, geojson)
+• Scoped, managed, and developed a multi-service solution for Operation
+planning and management. Wrote various feature and architecture white-
+papers for product teams to implement. Translated existing prototype code
+from a front-end DSL and javascript to the more modern react framework.
+• Abstracted customer specific bespoke components into a reusable published
+package for companywide use. (react, less, typescript)
+• Abstracted and published application components in order to move from
+application to library for increased iteration speed and ease of api consumption
+of our largest data-driven map application. (webpack, react, less, typescript)
+Washington University in St. Louis
+Teaching Assistant
+January 2015 - May 2016 (1 year 5 months)
+Teaching Assistant for the following courses:
+• CSE 131: Computer Science I
+• CSE 132: Computer Science II
+• CSE 316: Social Network Analysis
+Page 1 of 3
+• CSE 330: Rapid Prototype Development and Creative Programming
+• CSE 549T: Parallel and Sequential Algorithms
+Palantir Technologies
+Infrastructure Quality Engineer Intern
+June 2015 - August 2015 (3 months)
+• Automated data transfer in a distributed test environment to ensure similar
+ecosystem as deployment. Leveraged Linux, Bash, and rsync to complete
+automation.
+• Managed testing and release of product to customer. Organized and
+transcribed testing story for elements of product to ensure thorough and
+iterative front-end testing. Discussed potential edge cases with the developers.
+• Furthered existing JUnit tests of back-end to match the front-end testing story
+to complete end-to-end testing. Worked with developers to approach a more
+Test-Driven Development approach.
+IBM
+Intern, Software Development for Cloud & Smarter Infrastructure
+July 2013 - August 2014 (1 year 2 months)
+May 2014 - present:
+• Developed universal file format for easy conversion of one file type to
+another. Use of
+Test-Driven Development using a Maven project with GIT repositories and
+JUnit
+testing, with development primarily in Java. Created RESTful Web Service
+using JAX-RS, deployed to Bluemix.
+• Automated Perl scripts to make transferring of data between databases more
+efficient.
+Developed for Cognos to MySQL using Perl, Java, and SQL.
+• Tested remote customer support tool (AOS IBM Endpoint Manager). Used
+HTTP and
+HTTPS ports and protocol, as well as additional ports for port forwarding.
+• Led transcriptions project (audio to text). Responsible for defining tasks and
+organizing assignments and data.
+July 2013 - December 2013:
+• Developed notification tool for product subscriptions using agile development,
+specifically Scrum. Back-end development in Java. Front-end development
+with AJAX
+techniques, using JavaScript, HTML, and CSS. Developed using IBM Rational
+Page 2 of 3
+Development Tool.
+Education
+Washington University in St. Louis
+Bachelor's Degree, Computer Science · (2012 - 2016)
+Free Code Camp
+Full Stack Web Development Certificate, Computer Software
+Engineering · (2015 - 2015)
+Lake Travis High School
+High School · (2009 - 2012)
+Page 3 of 3

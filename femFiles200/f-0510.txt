@@ -1,0 +1,258 @@
+Contact
+www.linkedin.com/in/cmrdavie
+(LinkedIn)
+Top Skills
+Software Development
+Web Development
+Agile Methodologies
+Languages
+English (Native or Bilingual)
+Spanish (Limited Working)
+Catherine Davie
+Senior Software Engineer at WEconnect Health
+Greater Seattle Area
+Summary
+I'm a full stack engineer, passionate about developing software
+that solves real user problems. I validate my assumptions against
+user research, advocate to adapt product plans based on what
+we learn from users, maintain high-quality code, and mentor my
+fellow teammates to do the same. I regularly question processes
+& assumptions (even my own!) to make sure we're adapting as
+necessary to achieve our goals.
+I am a generalist: in the past 3 years, I've worked on React with
+Javascript & Typescript, Angular, Ruby on Rails, C# and ASP.Net
+Core, Java and Spring Boot, iOS with Objective-C, Python, and even
+a little C++ (all TDD'd).
+Solid software engineering principles apply regardless of language or
+framework specifics. I care much more about solving user problems,
+writing long-term maintainable code, and forming a supportive team
+culture than what some specific programming language syntax looks
+like.
+I care enough about users & solving problems that I'm not above
+helping a colleague hack together a useful Excel spreadsheet or a
+bash or PHP script, if that's what solves their problem. A full-blown
+software product isn't always warranted, even if it's fun to build!
+I also care deeply about mentoring & improving my team (including
+our business stakeholders). I have seen how transformative it can be
+for Engineering & Business to collaborate and feel like they are each
+contributing their expertise toward a *shared* goal. I want to help
+foster that collaborative, trusting relationship as much as possible.
+WHAT I'M LOOKING FOR:
+Page 1 of 8
+• city of Seattle — I prefer working face-to-face with my colleagues in
+a shared office, although I do have plenty of experience collaborating
+with remote coworkers too!
+• IC rather than manager role — I want to grow as an individual
+contributor and mentor my teammates, but I am not interested in
+having formal direct reports
+• full-time — I'm not interested in contract or part-time work
+• competitive salary & benefits
+Experience
+WEconnect Health Management
+Senior Software Engineer
+February 2020 - Present (2 months)
+Seattle, WA
+Ciemarr Software
+Independent Software Consultant
+January 2020 - Present (3 months)
+Seattle, WA
+Working on side projects.
+Pivotal Labs
+3 years 9 months
+Staff Software Engineer
+April 2016 - December 2019 (3 years 9 months)
+Seattle, WA
+(KEYWORDS: consulting, mentoring, agile, pair programming, TDD, UCD,
+React, Angular, Typescript, Javascript, Ruby, Rails, iOS, Objective-C, C#,
+ASP.NET, Python, C++)
+SOFTWARE ENGINEERING:
+• Designed, developed, refactored, tested, deployed, maintained, and iterated
+on software
+• Improved code quality, delivery speed & visibility into schedules
+• Set up CI/CD pipelines to automate test suites & deployments
+Page 2 of 8
+• Used a variety of testing strategies — and taught my teams the pros & cons
+of each
+• Held developers to a high standard while still being pragmatic & kind
+PRODUCT:
+• Clarified requirements to confusion & re-work
+• Provided alternative solutions that were simpler, faster, or more maintainable
+than initial ideas
+• Contributed UX ideas to improve usability
+• Created useful software that real users were excited about, by keeping our
+user research at the forefront of everything we built
+• Helped prioritize features to get end user feedback quickly
+COLLABORATION:
+• Encouraged junior developers to grow both their skills & confidence
+• Fostered psychological safety & general team kindness & empathy by
+demonstrating being vulnerable, direct, kind, encouraging & curious — and
+how that can lead to better project outcomes, as well
+• Worked closely with developers, designers, PMs, managers & other
+stakeholders (in a wide variety of roles and levels of the organization) to keep
+expectations aligned and frame our work in terms of a shared goal
+• Helped change stakeholder expectations from fixed time/scope feature lists
+to a more realistic, transparent, dynamic, and collaborative understanding of
+software development
+• Helped Engineering & Business see the value in truly collaborating as
+partners early & often
+• Discussed (and demonstrated!) the benefits of "lowercase a" agile, user-
+centered design, and test-driven development from a pragmatic & flexible
+perspective
+• Advocated for identifying & addressing root causes of problems
+Consulting Projects
+April 2016 - December 2019 (3 years 9 months)
+Greater Seattle Area
+I worked with a number of teams, pairing with client developers to teach agile
+software engineering practices while also writing & testing code to deliver
+products:
+PROJECTS:
+• retail iPhone/iPad universal app; iOS & Objective-C [May–Sep 2016]
+Page 3 of 8
+• financial dashboard; Ruby on Rails [Sep 2016 – Feb 2017]
+• supported important annual sales event for retail app
+• simplified website to apply for loans; ASP.Net [Jul 2017 – Jan 2018]
+• automated setting up tools for new teams; Angular [Jan–May 2018]
+• searchable safety data; React, Python, C++ [May–Oct 2018]
+• inventory management app; React, ASP.Net; remote [Nov–May 2019]
+• Pivotal Tracker billing features; Ruby on Rails; remote [Jun–Sep 2019]
+• improved internal IT team's processes [Sep–Dec 2019]
+Ciemarr Software
+Independent Software Consultant
+January 2016 - March 2016 (3 months)
+Greater Seattle Area
+FLY-LITE: Entirely redesigned old-school, user-built website into a more
+informative and cross-browser product page with improved UX. Taught client
+how to edit source code themselves (HTML5, Sass, jQuery).
+JABBERWOCKY LITERARY AGENCY: Interviewed employees to gather
+requirements. Designed, implemented, tested, and supported a Ruby
+program to automate the tedious, repetitive aspects of preparing an ebook
+for publication, making the process less error-prone & time-consuming for
+publishing agents.
+Traveling in Mexico
+Lived abroad & improved my Spanish like I'd always wanted!
+January 2015 - December 2015 (1 year)
+Mexico
+Living abroad for a year is something I always wanted to do. I finally made
+it happen: I spent all of 2015 in Mexico, traveling around and improving my
+Spanish (from an intermediate to advanced conversational level). I'm so glad I
+did this!
+Google
+4 years 1 month
+Software Engineer, Google Domains
+November 2012 - August 2014 (1 year 10 months)
+Launched new Google Domains site. Developed primary pages ("Transfer
+In" and "My Domains") from scratch based on mocks, including the pages’
+functionality. Also designed & implemented a job-scheduling framework in
+Java.
+Page 4 of 8
+Collaborated with remote support team to design & implement customer
+service tools. Worked with them to determine what types of issues they
+frequently encountered and how to best help them support those cases.
+Software Engineer, YouTube
+August 2011 - October 2012 (1 year 3 months)
+Mountain View, CA
+YOUTUBE, Video Management team
+Implemented and launched a redesign of the video metadata editor page,
+improving the usability and visual look of a major component of the YouTube
+site used by content creators. Users vastly preferred this less cluttered design.
+Designed, implemented, and launched the new "Creator Dashboard" page,
+consolidating the most common data and actions that YouTube creators
+frequently want to access. We launched to nearly universal praise from
+users (which was very exciting!) and prioritized new features based on user
+feedback.
+Software Engineer, Jambool Acquisiton & Checkout Team
+August 2010 - August 2011 (1 year 1 month)
+Mountain View, CA
+Google acquired Jambool in August. I supported our existing Social Gold
+product, then did all the development tasks to gracefully sunset it.
+On the Checkout team, I created graphs from analytics data to help visualize
+our metrics using the Google Visualization library, Java, and GWT.
+YouTube
+Software Engineer
+August 2011 - October 2012 (1 year 3 months)
+Mountain View, CA
+(see my role under "Google" above for details; Google owns YouTube)
+Jambool
+Software Engineer
+December 2009 - August 2010 (9 months)
+Seattle, WA
+Page 5 of 8
+Developed new analytics graphs with jQuery and Ruby on Rails to help
+users manage their virtual economies. Answered developer-user questions,
+debugged issues for clients, and fixed bugs that were discovered.
+Acquired by Google in August 2010.
+Recruiting.com (formerly Jobster)
+Software Development Engineer
+October 2009 - November 2009 (2 months)
+Seattle, WA
+Improved UX by preserving formatting of documents imported into a custom
+Ruby on Rails CMS. Fixed bugs. Improved coverage by writing test cases
+for each bug opened by QA. Was laid off when staff was reduced across the
+board by ~50%.
+Microsoft
+Software Development Engineer
+February 2008 - July 2009 (1 year 6 months)
+Redmond, WA
+Implemented crawl file generation in C# to enable search of our content;
+added cross-browser features to website to improve user experience
+(Javascript, HTML, CSS); cross-team collaboration with the Search team and
+users of our system; volunteered to implement extra dev tools to reduce wait
+time for dev check-ins.
+Obopay
+Independent Consultant
+February 2008 - March 2008 (2 months)
+Part-time support of the BillMonk.com website.
+BillMonk
+Software Engineer
+April 2007 - December 2007 (9 months)
+Seattle, WA
+Designed and implemented new features for a Ruby on Rails website that
+tracks informal debts among friends; developed Facebook application to make
+BillMonk functionality available from within Facebook
+Obopay Inc.
+Software Engineer
+April 2007 - December 2007 (9 months)
+Page 6 of 8
+Created new web-based tools for marketing department using Java, Struts,
+and JSP. Developed Facebook application to make basic Obopay functionality
+available from within Facebook.
+CustomFlix
+Web Developer
+September 2006 - March 2007 (7 months)
+San Luis Obispo, CA
+Cross-browser HTML and CSS. Gathered requirements and wrote
+specifications for other software engineers.
+Apple Computer
+Software Engineer Intern
+June 2006 - September 2006 (4 months)
+Cupertino, CA
+Basic computational linguistics using Java to identify languages from short
+example texts.
+Microsoft
+Software Design Engineer Intern
+June 2005 - September 2005 (4 months)
+Redmond, WA
+Cross-browser HTML, CSS, and JavaScript. ASP.NET with C# code-behind.
+Vizolutions
+Java Programmer
+June 2004 - October 2004 (5 months)
+San Luis Obispo, CA
+Wrote an automated test framework in Java.
+Cal Poly Computer Science Department
+Student Assistant
+April 2004 - June 2004 (3 months)
+San Luis Obispo, CA
+Graded homework and training assessments for a software engineering
+course for a quarter.
+Cal Poly Computer Science Department
+Student Assistant
+February 2003 - May 2003 (4 months)
+San Luis Obispo, CA
+Page 7 of 8
+Graded students' code for an introductory Java programming course; created
+shell scripts to help automate grading; graded for one quarter.
+Education
+California Polytechnic State University-San Luis Obispo
+B.S., Computer Science, Linguistics · (2002 - 2007)
+Las Lomas High School
+Page 8 of 8

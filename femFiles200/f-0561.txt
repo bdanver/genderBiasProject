@@ -1,0 +1,96 @@
+Contact
+www.linkedin.com/in/livan-haddish
+(LinkedIn)
+Top Skills
+HTML
+MySQL
+RESTful WebServices
+Livan Haddish
+Experienced Java Developer | ✔ Available for Full-Time W-2
+Employment
+Alexandria, Virginia
+Summary
+Skilled, motivated and result-oriented software Developer with 5+
+years of experience creating user-friendly applications and systems
+to meet and exceed client requirements. Expert-level knowledge
+of software development life cycle and passion for seeing projects
+key role in team-base projects. History of utilizing object-oriented
+design principles, preventing and solving problems. Hands on
+experience on, JavaScript, jQuery, AJAX, Angular, Node.js, Java/
+Java EE, Spring, JPA, Hibernate, RESTful webservices, SQL,
+MySQL, Microservice and MongoDB.
+Application Development • Software Development Life Cycle •
+Web Application• Problem Solving • Object Oriented Design •
+Automation Testing & Debugging Enterprise Applications • TDD •
+Report and Documentation • Agile Methodologies • Algorithm Design
+• Microservice
+Languages: Java
+Web: HTML5, CSS3, JavaScript, jQuery, AJAX, Node.js, Servlet,
+JSP, Angular, TypeScript, React Js
+Web Services: REST, SOAP
+Web/App Server: Tomcat, Glassfish, JBoss
+Databases: MySQL, MSSQL, MongoDB, MS Access, PL SQL
+Frameworks: Spring (Spring MVC, Spring Data, Spring Security,
+Spring Boot, Spring AOP, Spring IOC, Spring Integration, Spring
+Cloud), Hibernate, JPA, Jersey, Mockito, Express.js, Junit, Log4j
+Design Patterns: Composite, Singleton, Factory, Mediator
+SDLC: Agile, Waterfall
+Tools: Git, IntelliJ, Eclipse, Smart UML, gulp.js, STS, ATOM, Maven,
+SOAP UI, Postman, VS Code, PCF, Jenkins, Jira
+Platforms: Windows, Linux (Ubuntu)
+Experience
+Page 1 of 3
+BINAT INTERNTIONAL GENERAL TRADING, LLC
+Java Developer
+January 2015 - February 2018 (3 years 2 months)
+Dubai, UAE
+Roles & Responsibilities:
+• Performed Use case design, object modeling and transformed Use Case
+designs into Class Diagrams and Sequence Diagrams
+• Involved in development of RESTful Web Services, using Spring Boot, Spring
+Cloud Spring MVC, JPA, HQL, Spring Security, AOP and PCF.
+• Used spring framework for dependency injection, Spring Web MVC for the
+controllers and created annotation-based mapping using Hibernate ORM tool.
+• Hands on experience in TDD, developed various test cases and performed
+unit testing using JUnit
+• Used Mockito framework to code coverage extensively.
+• Utilized SonarQube for code quality, code coverage, and minimize bugs.
+• Working in Agile Methodology (Daily Stand-up, Sprint Retrospective, Sprint
+Review, Sprint Planning, Backlog grooming)
+continued …
+Achievements:
+• Maximized Security of web application by implementing spring security.
+• Ensured optimal functionality by writing test cases using Junit and Mockito.
+Technical Skills: Java1.8, Spring Boot, Hibernate, Spring Cloud, REST, UML,
+JSON, XML, Tomcat, JBoss 7.0.1, SQL Server, Pl-SQL, JUnit 4, Mockito,
+Log4j, PCF, Jenkins, Maven, Subversion, Git, Swagger, Jira, E
+POLYTECH COMPUTER SERVICES
+Java Developer
+January 2013 - December 2014 (2 years)
+Asmara, Eritrea
+Took an instrumental role in application development and deployment
+throughout the SDLC on client projects.
+Tasks Performed:
+• Designed web applications with Spring MVC, JPA for data persistence, HQL
+for data manipulation, and Spring Security for user authentication.
+• Implemented Spring Aspect Oriented Programming and Inversion of Control
+Page 2 of 3
+• Designed and launched multiple client websites using rich front-end
+technologies to build dynamic UIs
+• Programmed source and version control using Git.
+• Developed code using design patterns such as Singleton, Abstract Factory,
+Factory Pattern, and Prototype.
+• Led tutoring sessions for HTML, CSS, JavaScript, and Java for middle school
+and high school students.
+Achievements:
+• Maximized security of web application by implementing Spring Security.
+• Ensured optimal functionality by writing test cases using JUnit and Mockito.
+Technologies used: Java, Hibernate, Spring MVC, JPA, JTA, JSP, JMS,
+JSON, JUnit, Mockito, HTML5, CSS, AJAX, jQuery, MySQL, Git, Eclipse,
+Windows.
+Education
+Maharishi University of Management
+Master, Computer Science · (2018 - 2019)
+Eritrea Institute of Technology
+Bachelor's degree · (2006 - 2010)
+Page 3 of 3

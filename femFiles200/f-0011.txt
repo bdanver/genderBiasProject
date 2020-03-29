@@ -1,0 +1,93 @@
+Contact
+www.linkedin.com/in/ankitagupta2
+(LinkedIn)
+Top Skills
+Web Development
+JavaScript
+jQuery
+Languages
+English (Full Professional)
+Hindi (Native or Bilingual)
+Bengali (Native or Bilingual)
+Certifications
+Sun Certification Exam for SCJP
+Ankita Gupta
+Software Engineer at Indus Valley Partners
+Greater New York City Area
+Summary
+Experienced Software Engineer with a demonstrated history of
+working in the information technology and services industry. Skilled
+in Tortoise SVN, C#, Visual Studio, SSRS, SSIS, SQL, Java, .Net
+Framework, JavaScript and Php. Strong engineering professional
+with a Master's degree focused in Computer Engineering - Software
+Architecture, Programming and Development from Syracuse
+University.
+Experience
+Indus Valley Partners
+3 years 8 months
+Software Engineer
+February 2019 - Present (1 year 1 month)
+Greater Salt Lake City Area
+1. Engaged with business and technical stakeholders at global hedge funds to
+design and maintain SQLServer based Data Warehouse, facilitated creation
+of rich end user reports using technologies like Tableau, SSRS, SSIS, Crystal
+Reports
+2. Collaborated with subject matter experts and internal stakeholders
+at various project phases to develop desktop and web-based business
+applications using .NET Framework, HTML5, JavaScript Frameworks like
+JQuery and Angular JS
+3. Analyzed different business requirements from clients and identified
+opportunities to enhance the data flow during the implementation of the
+technical solution
+4. Collaborated with the clients technology teams for solution deployment,
+post execution deployment for product enhancements/specific changes and
+support
+5. Created and standardized weekly Hedge funds portfolio performance
+reports using automated and interactive Tableau and SSRS reports
+6. Training new hires on ramping up to speed
+Associate Software Engineer
+Page 1 of 3
+July 2016 - February 2019 (2 years 8 months)
+Greater Salt Lake City Area
+1. Engaged with business and technical stakeholders at global hedge funds to
+design and maintain SQLServer based Data Warehouse, facilitated creation
+of rich end user reports using technologies like Tableau, SSRS, SSIS, Crystal
+Reports
+2. Collaborated with subject matter experts and internal stakeholders
+at various project phases to develop desktop and web-based business
+applications using .NET Framework, HTML5, JavaScript Frameworks like
+JQuery and Angular JS
+3. Training new hires on ramping up to speed
+Wayfair
+Software Engineer
+February 2016 - June 2016 (5 months)
+Greater Boston Area
+1. Spearheaded the development and integration of a Customer Experience
+Section to help online customers view pricing trends, purchase history and
+favorites using MVC with Mustache data for adapting model to the view, PHP,
+Backbone JS, Mustache Templates, SASS for page styling, Redis and SQL
+Server, thereby augmenting the customer experience
+2. Developed a self-service application for business users that retrieves
+and operates upon data from various MS SQL tables, to create a standard
+reporting metrics for the business users
+Analog Devices
+Software Engineer Internship
+August 2014 - December 2014 (5 months)
+Greensboro/Winston-Salem, North Carolina Area
+1. Developed platform to simulate Analog to Digital ADC and Digital to Analog
+DAC Converters using HTML, JavaScript, JQuery, AJAX, C# over ASP.NET
+MVC5
+2. Collaborated with cross-functional teams in an agile environment to test and
+debug the web tool before launch
+3. Automated formation of XML files for ADC models to increase efficiency and
+cut down time using Python script
+4. Automated the log file analysis to handle system failure using C#
+Education
+Page 2 of 3
+Syracuse University
+Master's degree, Computer Engineering - Software Architecture,
+Programming and Development · (2013 - 2015)
+University of Mumbai
+Bachelor of Engineering (BEng), Electrical and Electronics
+Engineering · (2008 - 2012)
+Page 3 of 3

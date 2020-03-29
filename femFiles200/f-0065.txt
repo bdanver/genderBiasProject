@@ -1,0 +1,126 @@
+Contact
+www.linkedin.com/in/catherineguo
+(LinkedIn)
+catherineguo.com (Personal)
+Top Skills
+JavaScript
+React.js
+CSS
+Languages
+Japanese (Elementary)
+English (Native or Bilingual)
+Chinese (Professional Working)
+Honors-Awards
+Cum Laude
+Catherine Guo
+Software Developer at LogicManager
+Cambridge, Massachusetts
+Summary
+I'm a web developer who is passionate about using technology
+to create enjoyable experiences for users. Coding allows me to
+apply my creativity and problem solving skills towards projects that
+excite me and align with my interests. I particularly enjoy frontend
+work in React that incorporates interactive elements and provides a
+seamless user experience.
+Check out my portfolio at https://catherineguo.com/
+Experience
+LogicManager
+Software Developer
+January 2019 - Present (1 year 3 months)
+Greater Boston Area
+Currently, I contribute to the frontend development of LogicManager’s risk-
+management SaaS product using React, Redux, and Typescript. I also write
+unit tests using Jest and Enzyme to ensure the code functions as expected
+when changes are made in the future.
+General Assembly
+Web Developer-in-Training
+July 2018 - October 2018 (4 months)
+Greater Boston Area
+General Assembly's Web Development Immersive program is a 12-week
+career accelerator that focuses on full-stack web development using the latest
+technologies. Projects completed during this program:
+GIF Box - A full stack web application built with React, Sass, Bootstrap, Ruby
+on Rails, and PostgreSQL. Users can search for GIFs in the app and save
+them to their personal collections. The search feature is powered by Tenor's
+GIF API. Start saving GIFs here: https://catherineguo.github.io/gif-box-client/
+Page 1 of 4
+This or That! - A full stack single-page app developed with two other
+developers at General Assembly in three days. Users can create surveys and
+vote on other users' surveys. Built with Express, MongoDB, Node, JavaScript,
+Handlebars, jQuery, Bootstrap, and Sass. Cast your votes here: https://
+onwednesdayswecode.github.io/survey-client/
+PetConnector - A simple solution for pet owners to create checklists to
+share with their pet sitters. Built with JavaScript, Handlebars, jQuery, AJAX,
+Bootstrap, Sass, Ruby on Rails, PostgreSQL. See it in action here: https://
+catherineguo.github.io/pet-connector-client/
+Gradifi, A First Republic Company
+Marketing Associate, Email and Content
+June 2017 - March 2018 (10 months)
+Boston, MA
+- Created and deployed monthly newsletters and promotional email campaigns
+to Gradifi members.
+- Segmented audiences for email campaigns to ensure high open rates and
+clickthrough rates.
+- Developed welcome streams that encourage user engagement with the
+Gradifi platform.
+- Collaborated with outside agency to develop content marketing strategy and
+provide editorial feedback on proposed articles for Gradifi's content site, The
+Notebook.
+- Created reports on inbound leads using data in Salesforce.
+Ready4
+Marketing Associate
+July 2016 - April 2017 (10 months)
+Greater Boston Area
+- Collected qualified leads for the sales team by creating landing pages using
+Instapage.
+- Wrote copy for B2B and B2C emails, one pagers, and landing pages.
+- Planned content calendar for company blog and managed the article writing
+process with in-house and freelance writers.
+- Oversaw content creation in all of Ready4's social media channels: 5
+Facebook pages, 5 Twitter accounts, and 1 LinkedIn page.
+- Reached out to influencers in the industry through social media and email
+communication.
+Page 2 of 4
+Japan Exchange and Teaching Program(me) (JET)
+Assistant Language Teacher
+August 2013 - July 2015 (2 years)
+Chikugo-shi, Fukuoka, Japan
+- Created 40+ original lesson plans incorporating listening, speaking, reading,
+and writing practice for English classes at a Japanese high school.
+- Led 12-14 classes each week with an average class size of 20 students.
+- Graded written and oral assignments for 240 students.
+- Tutored students one-on-one with mock interviews for a standardized English
+speaking exam.
+- Coached students entering English speech contests.
+Wellesley College
+UX Research Assistant
+June 2013 - August 2013 (3 months)
+Wellesley, MA
+As a member of the Wellesley Human Computer Interaction (HCI) Lab under
+Dr. Orit Shaer, I worked as part of the 2013 Wellesley iGEM team to develop
+an application for the Microsoft PixelSense device that aids biologists in the
+design of synthetic biology circuits.
+Responsibilities included:
+- Conducting user experience tests with biology researchers and
+undergraduate students.
+- Creating hand-drawn user interface (UI) mockups on paper.
+- Learning basic programming to aid in the development of the app.
+Brainscape
+Content and Marketing Intern
+June 2012 - August 2012 (3 months)
+Greater New York City Area
+- Corrected errors in Chinese content on Brainscape's flashcard app for Apple
+iOS.
+- Created GIF animations of stroke order for Chinese characters using Adobe
+Photoshop.
+- Created and scheduled Twitter posts using Hootsuite.
+- Analyzed Brainscape's website traffic using data from Google Analytics.
+Education
+Wellesley College
+Page 3 of 4
+B.A., Cognitive and Linguistic Sciences · (2009 - 2013)
+General Assembly
+Web Development Immersive · (2018 - 2018)
+Harbin Institute of Technology
+Chinese Language · (2012 - 2012)
+Page 4 of 4

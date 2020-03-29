@@ -1,0 +1,119 @@
+Contact
+www.linkedin.com/in/ashleycolletti
+(LinkedIn)
+github.com/acolletti21 (Other)
+medium.com/@ashleymcolletti
+(Blog)
+Top Skills
+Ruby on Rails
+JavaScript
+PostgreSQL
+Ashley Colletti
+Full-Stack Software Developer
+Chicago, Illinois
+Summary
+I'm a Developer who loves to build software that can improve
+our everyday lives and make us more productive. I’ve taken my
+experience working with end users and now apply it to custom
+software for clients to make the most of their ideas.
+Experience
+Shedd Aquarium
+Application Developer
+January 2019 - Present (1 year 2 months)
+Chicago, Illinois
+Summary of Role:
+•Full-Stack software development primarily using Ruby on Rails, React,
+tailwind, AWS, C#.NET, handlebars, FormatJS, Node.js, WSL, Visual Studio,
+RubyMine, VS Code, github and git
+Claro Healthcare, LLC
+Application Developer
+June 2018 - November 2018 (6 months)
+Chicago, Illinois
+Claro Healthcare is a premier consulting firm with a depth of knowledge and
+singular focus on healthcare, collaborating with hospitals and health systems
+to help them navigate the unique challenges they face.
+Summary of Role:
+•Full-Stack Application development, primarily using C#, Visual Studio, and
+AngularJS on a number of applications, including both web apps and desktop
+software.
+•Creating stored procedures, database queries, and uploading client data
+using SQL Management Studio.
+•Re-designing and updating all existing dynamic report PDFs using Visual
+Studio.
+Page 1 of 4
+The Difference Engine
+Full Stack Web Developer
+April 2017 - April 2018 (1 year 1 month)
+Chicago
+The Difference Engine is a web development agency that builds websites,
+internal platforms, and other development projects for non-profit and
+charity organizations on a pro bono basis. I'm on a team that is building
+a management system to help connect Veteran owned businesses with
+customers who require their services.
+Summary of Role:
+• Developing back-end features using Ruby on Rails with PostgreSQL
+• Creating and consuming APIs
+• Producing engaging front-end designs with AngularJS, React, JavaScript,
+and CSS
+• Writing tests using RSpec
+Moregidge
+Junior Full Stack Web Developer
+December 2017 - January 2018 (2 months)
+Worked on navigation and partials for the mortgage application process.
+Responsible for creating new models, controllers and routes as necessary,
+using JavaScript, CSS, and Ruby on Rails.
+Vivid Seats LLC
+Business Process Specialist
+October 2014 - October 2017 (3 years 1 month)
+Chicago
+Vivid Seats aims to provide fans with the safest, most affordable and
+convenient ticket purchasing experience in the live event industry.
+Summary of Role:
+• Acting as a liaison between the development team and operations center to
+implement process and protocol improvements
+• Conducting tests on internal site to identify issues and propose solutions
+through user stories
+• Managing administration of call center software; directing call flow, assigning
+appropriate skill levels and security access to different teams, creating new
+accounts, and assisting in the software integration process
+Page 2 of 4
+• Creating reports through our MySQL database to track trends and identify
+areas for improvement
+Promotions:
+• Promoted from Sales Agent to Business Process Specialist - June 2016
+Viper Communications LLC
+Assistant Manager of Support Sales
+March 2013 - December 2013 (10 months)
+Chicago
+Viper Box, formerly Viper Communications, provides systems and facilities
+maintenance to businesses, schools, hospitals, municipalities, and 911
+centers.
+Summary of Role:
+• Managing customer accounts
+• Creating and editing our maintenance website
+• Graphic design for marketing materials
+• Registration and monitoring of government procurement opportunities
+• Acquiring federal and state certifications
+• Processing sales order and purchase orders
+• Assisting with customer service issues
+Nora Del Busto
+Fashion Design Intern
+May 2012 - March 2013 (11 months)
+Chicago
+Nora Del Busto is a Chicago-based Fashion Designer who creates elegant
+women's wear and accessories.
+• Assisting with patterning, cutting, and sewing garment samples
+• Creating spreadsheets for garment costing/ fabric samples/ garment
+inventory/ line sheets
+• Developing our e-commerce store
+• Transitioning the old website to a new web host as well as updating and
+maintaining content
+• Material sourcing
+• Help with fashion shows, sales, and boutique displays
+Page 3 of 4
+Education
+Actualize Coding Bootcamp
+Software Development · (2016 - 2017)
+The School of the Art Institute of Chicago
+Bachelor of Fine Arts (BFA), Fashion/Apparel Design · (2008 - 2012)
+Page 4 of 4

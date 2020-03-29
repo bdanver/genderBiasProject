@@ -1,0 +1,76 @@
+Contact
+www.linkedin.com/in/taylor-kohn-
+b77b7b55 (LinkedIn)
+Top Skills
+Programming
+Java
+JavaScript
+Honors-Awards
+Best Demo - Software Engineering
+Senior Project
+Best Technical Knowledge -
+Software Engineering Senior Project
+Taylor Kohn
+Full Stack Developer at OnShift
+Cleveland, Ohio
+Experience
+OnShift
+Full Stack Developer
+June 2017 - Present (2 years 9 months)
+Cleveland, Ohio
+I work on Engage, our cloud-deployed workforce engagement solution
+which allows retirement and assisted living communities to track employee
+performance and satisfaction and reward them in hopes of lengthening
+turnover time. Our team is made up of nine individuals (three full-time
+developers) and adheres to the Agile methodology. I work on our React/Redux
+Javascript frontend, Python backend, and various custom microservices. We
+use the aforementioned tools, as well as docker, git, Jenkins, REST, GRPC,
+and multiple testing frameworks.
+IBM
+Software Developer
+June 2015 - June 2017 (2 years 1 month)
+Cleveland, OH
+Work on the Integrations team to develop plugins that act as integration points
+between UrbanCode products and customers' existing toolsets. I work closely
+with customers to develop fixes and features for existing plugins, as well as
+to create integrations that are in high demand. I operate mostly using Groovy,
+Java, Ant and XML, as well as a wide array of API's.
+Fast Enterprises, LLC
+Implementation Consultant
+August 2014 - May 2015 (10 months)
+Fast offers commercial-off-the-shelf software for government agencies. I
+worked on GenTax, their integrated tax solution. I was stationed in Santa Fe,
+working closely with the New Mexico state government. The most important
+aspects of the position are Production Support, maintenance and major fixes.
+Operated using ANSI compliant SQL, MS SQL Server, VB.NET and Visual
+Studio.
+University of Colorado at Boulder Department of Computer Science
+Page 1 of 2
+Undergraduate Teaching Assistant
+August 2012 - December 2013 (1 year 5 months)
+Boulder, CO
+Helped CSCI 1300 students understand Python, Java and C++ and write their
+own programs to solve programming puzzles.
+Microsoft
+Software Development Engineer Intern - Application Lifecycle Tools
+May 2013 - August 2013 (4 months)
+Redmond, WA
+Independently developed a new feature of Visual Studio. Became fluent in
+C# and WPF, and followed a code indicator from start to ship. Learned a
+great deal about working for large corporations, as well as with a team of
+experienced developers.
+BirdBox, Inc.
+Intern
+May 2012 - August 2012 (4 months)
+Techstars Boulder
+While Birdbox was a part of Techstars' startup incubation I worked on web
+apps, MVC framework and social media incorporation. Created multiple
+accounts that were used to test and demo the website. Experienced the early
+days of a startup company and became familiar with the world of investors,
+elevator pitches and startup companies.
+Education
+University of Colorado at Boulder
+Bachelor's Degree, Computer Science · (2010 - 2014)
+Chagrin Falls High School
+High School Diploma · (2008 - 2010)
+Page 2 of 2

@@ -1,0 +1,207 @@
+Contact
+www.linkedin.com/in/azengyu
+(LinkedIn)
+Top Skills
+Linguistics
+Unix Operating Systems
+C++/C
+Languages
+English (Native or Bilingual)
+Mandarin Chinese (Native or
+Bilingual)
+Honors-Awards
+UCLA Library Prize for
+Undergraduate Research for Minor
+Project (Arts & Humanities)
+'Numeral-Classifier Reduplication
+and Telicity in Mandarin Chinese'
+Panelist in 'Majoring in Video Game
+Music: How to Put On a Game Music
+Concert'
+‘Substantive Bias and Word-Final
+Voiced Obstruents: An Artificial
+Grammar Learning Study’
+Publications
+Human use of machine translation to
+extract information from texts
+'Numeral-Classifier Reduplication in
+Mandarin Chinese'
+Ann Zeng
+Software Engineer, Data Analysis (Data Engineering) at Factual Inc
+Los Angeles, California
+Summary
+The two things that drive me through my life are chasing intellectual
+stimulation and experiencing the joy of working with awesome, smart
+people. It's what made me want to pick up a Master's degree at the
+same time as my Bachelor's. It's what makes me want to innovate
+and pioneer new directions at all of my jobs. It's pretty much what
+pushes me to be me.
+Experience
+Factual Inc
+Software Engineer, Data Analysis (Data Engineering)
+March 2018 - Present (2 years)
+Century City, CA
+As a member of the Places team, I help to monitor and improve the quality
+of our Global Places dataset as it travels through our data processing
+pipelines. I help the team create and maintain web crawls and trusted partner
+contributions for sourcing data. With all of these individual location data points,
+I run workflows that effectively take millions of inputs from crawls and other
+partner contributed sources in order to summarize them into our global places
+datasets. Before the datasets are released to our clients, I regularly evaluate
+quality of our datasets, and when there are regressions, I design and execute
+solutions to address these regressions or simply to continue increasing the
+quality of our data.
+Materia Collective
+Contributing musician
+October 2015 - Present (4 years 5 months)
+"Founded in 2015 by Sebastian Wolff, Materia Collective began as a
+collection of musicians seeking to celebrate the music of Final Fantasy with a
+massive arrange album. Materia Collective has since grown into a label that
+produces and releases original music alongside creative interpretations and
+arrangements of new and classic game scores.
+Page 1 of 6
+Today, Materia Collective features an international array of musicians, brought
+together by a passion for gaming, music, and creative entrepreneurship to
+continue developing the unique identity of the group."
+https://www.materiacollective.com/artist/ann_zeng
+Contributions to 8 albums and counting.
+Feedonomics
+1 year 8 months
+Junior Feed Dev Engineer
+July 2017 - March 2018 (9 months)
+Woodland Hills
+As a PHP developer on the Feed Development team, I support the
+Feedonomics Fulfillment team by writing web-scraping scripts that help our
+clients better integrate with the Feedonomics platform. I also generate and
+process data feeds for our clients, as well as do data cleanup for them. I'll work
+with the APIs of various Ecommerce platforms, like Bigcommerce or Shopify,
+or shopping engines and shopping marketplaces, like Google, Amazon, etc.
+Sometimes, I write SQL queries to show KPIs to management or to help
+further organize client data.
+Technology Integration Manager
+August 2016 - July 2017 (1 year)
+Woodland Hills, CA
+At Feedonomics, we present a full-service solution for your product feed
+needs. Every potential client gets to speak with the Technology Integration
+team, as we give feedback on how the Feedonomics platform can integrate
+with their current Ecommerce solutions. I consulted with these potential clients
+on integrating with Feedonomics as a sales engineer/support role. As a part
+of this process, I compiled and presented audits to both potential clients
+and signed clients regarding the quality of their current shopping feed, or I
+put together tailored technical demonstrations using client-given data. I also
+coordinated developer requests and resources tasked out by members of the
+fulfillment team.
+Additionally, I oversaw or supported many enterprise/key accounts of
+Feedonomics, providing technical support and coordinating developer
+requests, as these clients use our platform for their data feed needs. To
+assist them, I also helped them clean up and organize their data using
+Page 2 of 6
+the Feedonomics platform. In my spare time, I also pioneered projects
+like new feed analyst training documentation and self-serve client training
+documentation.
+University of Maryland Center for Advanced Study of Language
+(CASL)
+Research Assistant - Machine Translation Study
+June 2015 - October 2015 (5 months)
+College Park, Maryland
+Publication forthcoming: 'Human Use of Machine Translation to Extract
+Information from Texts'
+Book chapter submitted with the team at the University of Maryland, Center
+for Advanced Study of Language. To be published with the John Benjamins
+American Translators Association series.
+During my summer at CASL, I worked as a research assistant on a project
+which explores the interactions of machine translation and human translation
+(so, Google versus a human brain and a dictionary). With the design of
+the experiment already in place, the team and I began work running and
+evaluating the current study. I recruited language learners from across the
+United States and identified a novel method of quantitatively evaluating our
+participants' results, based off of previous similar studies. I also provided
+additional research, reports, and publication reviews on Translation Memory, a
+type of translation tool.
+Aside from my assigned research project, I participated in a weekly python
+seminar taught by one of the research scientists at CASL. Summoning up
+my first-year computer science courses, I helped provide a small additional
+seminar on the basics of object oriented programming.
+U.S. Department of State; U.S. Embassy, Beijing: U.S.-China
+Fulbright Program
+Virtual Student Foreign Service (VSFS) eIntern
+September 2014 - June 2015 (10 months)
+During my senior year in college, I participated in a year-long internship with
+members of the Fulbright Program at the US Embassy in Beijing. Despite our
+16-hour time difference and 6000+ mile location difference, we put together a
+number of different projects throughout the 10 months together.
+Page 3 of 6
+The first project was to edit and proofread the directory of that year's Fulbright
+participants. My bilingualism came in handy, as I could read both the Chinese
+and English portions of the directory. The second project was to create and
+manage the marketing materials for Fulbright conferences and other events.
+An old brochure was revamped with new images, testimonials, and text to be
+handed out throughout the year at all the events that the Fulbright staff would
+attend and host. The last project involved QAing and layout tweaks to the
+current Fulbright website. Different programs had their various content pages
+revamped with updated data and standardized with respect to each other to
+ensure a better user experience scrolling through the site.
+UCLA
+1 year 6 months
+Undergraduate Teaching Assistant - Upper Division Linguistics
+January 2014 - June 2015 (1 year 6 months)
+Once for Syntax I (Winter quarter 2014), once for Syntax II (Spring quarter
+2015).
+Since syntax is my favorite linguistic subject, what better way to fully
+understand it than to teach it? For two separate teachers, I helped put together
+lecture materials and homework assignments for the students. In my own
+time, I put together additional guides and problem sets for midterm and final
+exam review. I held office hours on my own, and put together additional
+review sessions for the midterm and the final, where we went over homework
+problems, lecture concepts, and novel problem sets as well.
+Natural Language Processing Undergraduate Research Assistant
+April 2014 - December 2014 (9 months)
+Led by RedHen Labs and Communication professor Frances Steen, this
+project aims to aid in the development of algorithms used to help make tagging
+of closed captions more accurate and efficient.
+I was brought onboard as one of the first research assistants, and I
+demonstrated enough Unix knowledge at our initial interview that my first
+task was to create a manual for the rest of the RAs who would join our team.
+The manual taught them how to install Python, get used to working with a
+Unix shell, and use the basic Python script that would help them perform
+their research duties. Once the team was assembled and the software was
+acquired, we all worked to hand-tag closed captioned transcripts using the
+Penn Treebank tagging guidelines. These transcripts tagged with parts of
+Page 4 of 6
+speech were to be used as learning data for the machine learning algorithm
+that was being developed by the lab.
+Phonology Undergraduate Research Assistant
+March 2014 - June 2014 (4 months)
+Linguistics research involving African tonal languages:
+Organize written fieldwork data of the Seeku language collected by graduate
+student.
+Cut and organize audio files of fieldwork data of the Seeku language collected
+by graduate student.
+Transcribe folk music of the Tommo So language collected by graduate
+student.
+Hitachi Data Systems
+Global Solution Services Intern - Copyediting
+June 2014 - October 2014 (5 months)
+San Jose, California; Santa Clara, California
+Hitachi Data Systems' Global Solution Services aims to help enterprise
+customers in protecting and managing their data. During my summer there, my
+main project was to revamp and update their internal website resources used
+by the field engineers. Their current website system was more like a forum-
+style system with disorganized pages, so I took inventory of the existing pages
+and began to create both standardized landing pages and content pages that
+would consolidate the scattered information. Team members both in the office
+and in the UK worked with me to put together the new webpages. Their service
+manuals, solutions documents, process checklists, etc. were updated and
+rolled out during that same summer for some of the most commonly provided
+services.
+An additional project I picked up that summer was upkeep of the HDS
+community site for partners, which mirrors internal website resources that were
+nonconfidential.
+Education
+University of California, Los Angeles
+Master of Arts (M.A.), Linguistics · (2015 - 2016)
+University of California, Los Angeles
+Page 5 of 6
+Bachelor of Arts, Linguistics · (2011 - 2015)
+College of San Mateo
+Page 6 of 6

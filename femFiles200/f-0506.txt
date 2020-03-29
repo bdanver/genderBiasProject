@@ -1,0 +1,114 @@
+Contact
+www.linkedin.com/in/susan-ngo28
+(LinkedIn)
+Top Skills
+Java
+JavaScript
+Software Development
+Languages
+English (Native or Bilingual)
+Cantonese, Chinese (Limited
+Working)
+Korean (Elementary)
+Susan Ngo
+Software Engineer/Developer Intern at Oil Price Information Service
+(OPIS)
+Gaithersburg, Maryland
+Summary
+Software developer/engineer skilled in computing and programming
+in languages such as Java, C#, JavaScript, and SQL. Also skilled
+with applications like Eclipse, and Microsoft Visual Studio.
+Undergraduate student from University of Maryland College Park
+striving to receive a Bachelors for Computer Science.
+Experience
+Oil Price Information Service (OPIS)
+Software Engineer/Developer
+May 2018 - Present (1 year 11 months)
+Rockville, Maryland
+Fall 2019 Part-Time Intern:
+- Balancing 20 work hrs a week while taking 2 CS major courses at UMCP
+working towards B.S. in CS
+- Assisting to refactor black boxes and writing unit tests to meet at least 80%
+code coverage
+- Implementing new common subsite while transitioning to using Azure Devops
+and Git more
+- Implementing MVC pattern programming in C#, JavaScript/JQuery, HTML/
+CSS/Bootstrap
+Summer 2019:
+- Programming using ASP.Net Core MVC pattern with dependency injection on
+Visual Studio
+- Implementing MVC pattern from scratch as continuation from last year's
+project on web scrapers
+- Programming using languages such as C#, JavaScript/Jquery, HTML/CSS/
+Bootstrap, and Ajax
+- Assisted with creating custom files using a black box for various oil
+companies
+- Attended meetings for backlog, backlog refinement, architecture, and daily
+scrum meetings
+Page 1 of 3
+Summer 2018:
+- Redesigned an internal site following a prototype using ASP.NET Core
+framework on Visual Studio
+- Developed front-end implementation using programming languages like
+HTML/CSS, JavaScript
+- Worked on a back-end implementation to add user role maps, coding in C#;
+used MVC pattern
+- Worked in an agile work environment and lead some meetings; daily scrum
+and backlog meeting
+- Collaborated with other interns in the office to create and present a pitch as a
+global project
+- Researched how to implement web scrapers for PDF/HTML (Selenium,
+HTML Agility Pack, iMacros)
+Coder Kids, Inc.
+Tutor
+September 2017 - November 2017 (3 months)
+Lead/organizer
+- Created spreadsheets to help organize tutors and their schedules
+- Attended frequent calls to discuss agenda, issues, resolutions
+- Tutored 4-10 elementary kids in programming concepts using Python, Java,
+Roblox, Minecraft, and/or Scratch
+Teado
+Barista
+June 2016 - August 2017 (1 year 3 months)
+Rockville, MD
+Maki Cafe
+Waitress
+April 2015 - August 2017 (2 years 5 months)
+Rockville, MD
+Ten Ren's Tea Time
+Waitress
+July 2017 - 2017 (less than a year)
+College Park, Maryland
+Main store location in College Park however helped out at Rockville and
+Gaithersburg location as well.
+Page 2 of 3
+Hollister Co.
+Model
+June 2014 - August 2015 (1 year 3 months)
+701 Russell Ave, Gaithersburg, MD 20877
+Main store is Hollister located at Lakeforest Mall in Gaithersburg however
+helped out at other partnering companies such as Abercrombie & Fitch and
+Abercrombie & Fitch Kids at Montgomery Mall.
+Montgomery County Public Schools
+Webmaster Assistant
+June 2014 - July 2015 (1 year 2 months)
+Rockville, MD
+- Redesigned, edited, and updated school webpages using HTML/CSS on
+Dreamweaver application
+- Created templates using Photoshop
+- Researched further HTML/CSS and explored Bootstrap when tasks were
+completed early
+Abercrombie & Fitch
+Model
+August 2014 - 2014 (less than a year)
+7101 Democracy Blvd, Bethesda, MD 20817
+Borrowed in to work
+Education
+University of Maryland College Park
+Computer Science · (2016 - 2020)
+Montgomery College
+Associate of Arts (A.A.) in Computer Science, Computer
+Science · (2014 - 2016)
+Poolesville High School
+High School Diploma, Global Ecology Studies Program · (2010 - 2014)
+Page 3 of 3

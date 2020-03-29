@@ -1,0 +1,118 @@
+Contact
+www.linkedin.com/in/ankeetan
+(LinkedIn)
+Top Skills
+Java
+Eclipse
+C++
+Ankeeta Nandal
+Software Engineer at Apple
+Greater Boston Area
+Summary
+Ankeeta is currently a graduate student at Northeastern University,
+pursuing her Masters in Computer Science program. She forayed
+into the world of Information Technology as a Software Engineer at
+Accenture Services Pvt Ltd.
+In her 2 years of experience, she has served as a software
+engineer for various clients of Accenture like Vodafone, Germany
+and AllState Insurance, New Jersey. She has a thorough
+knowledge of the Software Development Life Cycle with focus
+on Implementation, Quality Assurance and testing of web based
+applications, applications on the AS400 Mainframe platform and
+using telecommunications network infrastructure and configuration
+tools like Cramer. It was at Accenture that she developed expertise
+in Software Development, Manual Functional Testing, Automation
+Testing and Performance Testing.
+She is actively seeking an internship / coop where she aspires to
+enhance her technical acumen and add value to the organization.
+Technical skills:
+IDE/Development tools: Eclipse, Microsoft Visual Studio, Racket,
+SQL Developer
+Testing tools: QTP, RFT, Load Runner, Quality Centre
+Programming languages: Java, C++, C#, Scheme, Linux Shell
+Scripting, C
+Databases: Microsoft SQL Server 2012, MySQL, Oracle 11g
+Web Technologies: HTML5, CSS, JavaScript, JQuery, XPATH,
+XML, Java Struts, Java Spring
+Professional experience:
+Comprehensive understanding of the Software Development Life
+Cycle
+Page 1 of 4
+Requirement Analysis
+Strong analytic skills
+Expertise in functional testing
+Documenting Minutes of Team Meetings
+Effective communication with Clients
+Experience
+Apple
+Software Engineer
+March 2016 - Present (4 years)
+Cupertino, California
+Northeastern University
+6 years 6 months
+Graduate Student
+September 2013 - Present (6 years 6 months)
+Undergraduate Teaching Assistant - Algorithms and Data
+September 2014 - December 2014 (4 months)
+LinkedIn
+Site Reliability Engineer Intern
+June 2015 - August 2015 (3 months)
+Mountain View, CA
+Project: InRealTime
+• Implemented a concurrent, scalable and data agnostic real time monitoring
+tool in Go
+• Modified the OS Metrics Python service to add support for real time
+monitoring
+Notable Accomplishment: This tool will be used company wide by the
+developers and reliability engineers to monitor the effect of their changes and
+track the general health of the site
+Intuit
+Software Developer Coop
+January 2015 - May 2015 (5 months)
+Project: Affordable Care Act (ACA), Turbo Tax
+• Worked on the latest ACA module which was introduced in 2014
+Page 2 of 4
+• Worked on many high priority defects during the tax season to deliver the
+best possible experience to the customers
+• Represented my team in the war room sessions during high traffic to monitor
+the health of the module and work on fixing any issues found in production at
+that time
+• Implemented some new ideas for the tax year 2015 as part of a POC
+• Presented the implemented POC idea in front of the executives
+• Participated in the Intern Hack Day to suggest and implement new solutions
+to make taxes simpler
+Notable Accomplishment: All the executives appreciated the new ideas
+showcased by me in the POC and have assigned an entire team to accomplish
+the task of implementing those ideas
+Akamai Technologies
+Summer Internship
+June 2014 - August 2014 (3 months)
+Worked as in intern in the Mapping QA team.
+• Wrote a Perl script to compare the versions of software installed in the stubs
+network and those present in the production environment
+• Performed analysis on previous division of components among team
+members using a Perl script, to enable easy assignment of components during
+future releases
+• Designed a release report by a Perl script that aggregates metrics data from
+various sources
+• Implemented a Perl script that checks the cycle time of various components
+in production and logs an error if it is not within the desired range
+Accenture
+Software Engineer
+June 2011 - July 2013 (2 years 2 months)
+Roles and Responsibilities:
+Analysis of Requirements, design documents
+Implementation of requirements
+Fixing critical bugs
+Preparation of Test plans, test data
+Test case execution and Defect reporting and tracking till fix
+Testing of critical bug fixes
+Page 3 of 4
+Providing daily status updates
+Drafting Minutes of Team Meetings
+Education
+Northeastern University
+Master of Science (M.S.), Computer Science · (2013 - 2015)
+Vivekananda Education Society's Institute of Technology
+Bachelor of Engineering (B.E.), Information Technology · (2008 - 2011)
+Page 4 of 4

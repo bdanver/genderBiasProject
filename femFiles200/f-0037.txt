@@ -1,0 +1,68 @@
+Contact
+www.linkedin.com/in/nicole-g-hart
+(LinkedIn)
+Top Skills
+Programming
+Software Development
+Github
+Languages
+Spanish
+Certifications
+Amazon Web Services Cloud
+Practitioner
+Nicole Hart
+Senior Software Engineer at Capital One
+Washington D.C. Metro Area
+Summary
+Experienced Software Engineer with a demonstrated history of
+working in the financial services industry. Strong engineering
+professional graduated from Penn State with a Computer Science
+degree as well as Big Nerd Ranch certificate.
+Experience
+Capital One
+3 years 8 months
+Senior Software Engineer / Principal Associate (Streaming Data
+Pipeline)
+July 2019 - Present (8 months)
+Software Engineer / Senior Associate (Streaming Data Pipeline)
+August 2018 - Present (1 year 7 months)
+- Developing integration tests and automation for Capital One's Streaming
+Data Pipeline
+- Building tooling to assist with monitoring and deployment of streaming
+application
+Software Engineer / Senior Associate (iOS Flagship Application)
+July 2017 - August 2018 (1 year 2 months)
+Washington D.C. Metro Area
+- Developing automation for continuous integration and continuous
+development processes for Capital One's mobile platform
+- Assisting with fixing defects, upgrading UI and implementing new features for
+Capital One's Enterprise iOS mobile application
+Associate Software Engineer (Digital Reliability Engineering - iOS/
+Android)
+July 2016 - July 2017 (1 year 1 month)
+Washington D.C. Metro Area
+- Responsible for creating automation and CI/CD tools for DevOps engineering
+team in support of mobile infrastructure and development teams across the
+company
+Page 1 of 2
+- Assisted in shipping Capital One's iOS Mobile applications to its many users
+Cooperative Education Program
+Software Developer
+August 2013 - December 2015 (2 years 5 months)
+Maryland
+Completed a highly technical 52 week development program in 4 separate
+offices with different technology focuses utilizing technologies such as Java,
+Python, Splunk, Arduino, Linux, etc.
+Penn State University
+Learning Assistant for Discrete Mathematics Course
+August 2014 - January 2015 (6 months)
+University Park, PA
+Assisted the professor of the University Park course CMPSC 360: Discrete
+Mathematics with grading homework assignments weekly, grading exams,
+holding office hours for students and teaching recitation classes.
+Education
+Penn State University
+Bachelor of Science (BS), Computer Science · (2011 - 2016)
+Big Nerd Ranch
+iOS Essentials with Swift · (2017 - 2017)
+Page 2 of 2

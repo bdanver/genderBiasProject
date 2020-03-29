@@ -1,0 +1,194 @@
+Contact
+www.linkedin.com/in/
+mirandaxuanmo (LinkedIn)
+Mirandacooksofficial.com (Blog)
+github.com/mirandamo94
+(Portfolio)
+Top Skills
+Java
+C
+Python
+Languages
+English (Native or Bilingual)
+Chinese (Native or Bilingual)
+Spanish (Limited Working)
+Certifications
+Introduction to Programming Using
+JavaScript
+CITI Program Certification
+Honors-Awards
+Merit Based Scholarship
+Dean's List
+Neo of the year
+National Honor Society
+Order of Omega National Honors
+Society
+Publications
+My Website
+Delta Phi Lambda, DePaul
+University, Eta Chapter's official
+website
+Miranda Mo
+Senior Software Developer at LQD Business Finance
+Chicago, Illinois
+Summary
+M.S. Computer Science Graduate from DePaul University with a
+concentration in software engineering.
+Programming languages: Python, Java, SPSS, PL/SQL, Swift,
+Objective-C, C, C#, C++, Scala, Scheme
+Web: JavaScript, CSS, HTML, React.js, NPM Packaging, Ruby on
+Rails, PHP
+Others: Maven, Git, OO Design, Data Structure, Distributed
+Systems, Algorithms, Agile, Scum, Software/Junit Testing
+Leadership: Multicultural Greek Council President
+| Vice President of Delta Phi Lambda Sorority,
+Inc.
+Honors: University Honors Program, Order of Omega Honors
+Society, Honors Student Government Society,
+Recipient of Merit-based Scholarship, Schmitt Leadership
+Scholarship, Dean’s List
+Native Proficiency: English, Mandarin
+Business Proficiency: Italian, Spanish
+Honors B.A. in Economics and International Studies, Marketing and
+Italian minor at DePaul University
+Experience
+LQD Business Finance
+6 months
+Senior Software Developer
+February 2020 - Present (1 month)
+Greater Chicago Area
+Software Developer
+September 2019 - February 2020 (6 months)
+Greater Chicago Area
+Page 1 of 5
+Miranda Cooks Official
+Software and Web Developer, Founder
+April 2017 - Present (2 years 11 months)
+Greater Chicago Area
+• Built and developed IOS mobile application using Xcode and Swift/Objective-
+C with Object Oriented principles to diversify product offerings to clients, and
+increased user experience; resulted in a partnership of MCO product line with
+an emerging beverage company.
+• Programmed website (mirandacooksofficial.com) using Wordpress, CSS, php
+and HTML, focusing on enhancing customer exposure,
+o Delivering a branded experience to over 31,000 Instagram followers (MCO) |
+100,000 total (Food Co-Op)
+• Partnered with 250+ brands, to effectively promote their products and
+increase sales through Instagram and website
+• Built mock food market website via NetBeans with MVC Framework coded in
+Java
+DePaul Innovation Development Laboratory
+Software Developer | CDW
+October 2018 - April 2019 (7 months)
+Chicago, Illinois
+• Worked for CDW with a scrum team to create a chat bot using Microsoft
+Azure and C# in a .NET framework
+o Delivered product that led to CDW implementing the application for their
+entire IT department
+• Consulted CDW to alter the chat bot’s code through programing in C#, added
+GlobalMessageHandler and altered QnA Knowledge base, able to expand
+initial scope of work to deliver a more effective program
+o Improved chat bot accuracy by 20 percent
+• Worked for Continental AG with a scrum team to build a music-tuning
+interface in vehicles using C# and Visual Studios, and prepared doxygen
+comments for all functions
+o Delivered product to Continental AG that led to contract extension with
+DePaul for an additional year
+• Updated, redesigned, and maintained lab website (depaulidlab.com) with
+Word Press plugins, HTML, and PHP
+DePaul University
+Coordinator of Adult Student Affairs
+August 2017 - March 2019 (1 year 8 months)
+Page 2 of 5
+Greater Chicago Area
+• Managed and updated department website with HTML and SharePoint
+• Supported department with research, data assessment, and provided
+resources for students
+Cheff
+Software Engineer Intern
+June 2018 - August 2018 (3 months)
+Chicago, Illinois
+• Built and developed website (cheff.com) with React.js and Java through
+IntelliJ in a peer-programming setting
+• Customized calendar on website using React.js and NPM packaging for
+improved interaction between clients and chefs.
+DePaul University College of Computing and Digital Media
+Graduate Research Assistant
+April 2018 - August 2018 (5 months)
+Greater Chicago Area
+• Utilized Git and Xcode software to implement Text To Speech and Speech
+to Text IOS application to assist professor’s research revolving Affective
+Reasoning
+Ezra's
+Marketing Intern
+February 2016 - June 2016 (5 months)
+Chicago
+DePaul University
+Vincentian Service Day Coordinator
+January 2016 - June 2016 (6 months)
+Greater Chicago Area
+Design, develop, coordinate and execute event day planning for Vincentian
+Service Day
+Provide marketing, logistical, clerical, and organizational support
+DePaul University-College of Education
+Technology Consultant of Center for Educational Technology
+February 2015 - July 2015 (6 months)
+Greater Chicago Area
+Page 3 of 5
+• Consulted and supported College of Education faculty and students to
+identify problems and customize solutions
+• Developed and designed PowerPoint presentation integrating YouTube
+videos that were published for training purposes
+• Compiled 20+ resources using Google Docs to improve faculty proficiency
+with technology
+Lango
+Language Teacher
+January 2015 - June 2015 (6 months)
+Chicago
+DePaul University Department of Writing, Rhetoric, and Discourse
+Administrative Assistant
+November 2013 - January 2015 (1 year 3 months)
+Chicago
+City Point Realty
+Marketing and Sales Intern
+June 2014 - August 2014 (3 months)
+Managed social media, published listings, and real estate statistics weekly
+Answered customer inquiries and resolved scheduling appointments
+Dell EMC
+Sales and Communications Intern
+March 2014 - August 2014 (6 months)
+Greater Chicago Area
+Interviewed Regional Trade Managers on business and contract wins and
+documented and formatted the context for distribution
+Collaborated with the Associate Director to generate a cadence of divisional
+internal communications
+Tracked the competitive wins and published a newsletter with information that
+can be used within the division
+Shanghai Triolion Optical&Electrical Technology Co.,Ltd.
+Intern
+August 2011 - August 2013 (2 years 1 month)
+Shenzhen, Guangdong, China
+Page 4 of 5
+Hollister Co.
+Sales and Marketing Associate
+June 2012 - September 2012 (4 months)
+Assisted and advised customers on purchases of various merchandise.
+Promoted brand and clothes with advertisement and fliers
+Dealt with customer inquiries and complaints in a polite and efficient manner.
+Executed special customer orders via telephone, email, and fax.
+Benefit Cosmetics
+Sales Associate
+2011 - 2012 (1 year)
+Assisted and advised customers on purchases of various merchandise.
+Promoted brand and clothes with advertisement and fliers
+Dealt with customer inquiries and complaints in a polite and efficient manner.
+Executed special customer orders via telephone, email, and fax.
+Education
+DePaul University College of Computing and Digital Media
+Master of Science (M.S.), Computer Science · (2016 - 2019)
+DePaul University
+Bachelor of Arts (B.A.), Economics and International Studies Major, Marketing
+and Italian Minor · (2012 - 2016)
+LaSalle Catholic College Preparatory
+High School · (2009 - 2012)
+Page 5 of 5

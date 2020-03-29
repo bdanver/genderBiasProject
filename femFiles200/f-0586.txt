@@ -1,0 +1,48 @@
+Contact
+www.linkedin.com/in/
+briannapellicane (LinkedIn)
+Top Skills
+JavaScript
+C#
+Databases
+Brianna Krisher
+Senior software developer with strong communication skills
+Trenton, New Jersey
+Summary
+• Highly skilled and detail-oriented senior software developer with
+strong communication skills
+• Currently maintaining an ASP.NET based web application using
+C#, JavaScript, LINQ Framework, SQL, HTML, CSS, XML, and Ajax
+• Leading the development of all product updates through the
+software lifecycle, from requirements definition through successful
+deployment
+• Leading the migration of the ASP.NET Web Forms based web
+application using LINQ Framework to ASP.NET Core MVC Razor
+Pages using Entity Framework
+• Working with REST APIs to integrate with outside software such as
+QuickBooks, Constant Contact, MailChimp, DonorSearch, Braintree,
+ProPay, Stripe, and Google Calendar
+• Developed automated tests emulating user interaction using
+Selenium WebDriver in Visual Studio resulting in the increase of
+testing effectiveness, efficiency, and coverage
+Experience
+Community Software Solutions, Inc.
+4 years 7 months
+Senior Software Developer
+November 2017 - Present (2 years 5 months)
+Princeton NJ
+Software Developer
+September 2015 - November 2017 (2 years 3 months)
+Princeton NJ
+Page 1 of 2
+Chubb Insurance
+Software Developer
+August 2013 - September 2015 (2 years 2 months)
+Warren, NJ
+Developing software for the various sections of Administrative Services as
+well as maintaining and being a source of information for current third party
+software used throughout the department.
+Education
+Monmouth University
+Bachelor’s Degree, Computer Science · (2008 - 2013)
+Page 2 of 2

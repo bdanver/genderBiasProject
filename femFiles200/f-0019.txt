@@ -1,0 +1,216 @@
+Contact
+www.linkedin.com/in/emma-
+demango (LinkedIn)
+Top Skills
+Windows Vista
+Mac
+Windows XP Pro
+Languages
+English (Native or Bilingual)
+Certifications
+LINQ with C# Essential Training
+C#: Design Patterns
+C#: Interfaces and Generics
+Behavior-Driven Development
+Test Automation Foundations
+Honors-Awards
+Big East Academic All Star
+Rutgers University Deans List
+Psi Chi Psychology Honors Society
+Emma DeMango
+Software Engineer
+Denver, Colorado
+Summary
+Java | Javascript | React | Angular
+Experience
+Vertafore
+Software Development Engineer In Test
+May 2018 - Present (1 year 10 months)
+Denver, Colorado
+- Aid in creating a new automation framework to help pave the way for faster in
+sprint automation
+- Develop automated tests in C# and Java
+- Use of AWS to build new software products
+- Implement Behavior Driven Development principles using Specflow and
+Serenity BDD to structure tests
+- Use of Selenium web-driver to automated UI tests
+- Automated testing of UI, SQL Database and APIs
+- Create automated testing plan each sprint to ensure full test coverage
+- Work in conjunction with QA throughout each sprint
+- Maintain the current framework and work towards creating a modernized
+testing framework
+- Ensure test runs pass with each build and fix and errors
+- Mentorship and training of new SDETs
+- Lead five offshore SDETs by conducting daily checkins, training sessions and
+code reviews
+Emma DeMango
+Freelance Web Developer
+January 2018 - Present (2 years 2 months)
+Greater Denver Area
+- Build/update custom websites for clients based on individual needs
+- Create custom layouts in Sketch/ Photoshop
+- Wordpress sites
+- Deployment of site (dreamhost, heroku, githubpages, transmit)
+- Please see portfolio site below for updated list of projects
+Page 1 of 6
+General Assembly
+Web Developer
+September 2017 - January 2018 (5 months)
+Greater Denver Area
+Immersive study of full stack web development to master front end dynamic
+design, back end data management, and combine the two to create a
+seamless user experience. 80 hours of weekly programming cumulating in
+several front end and full stack web apps. Skills include:
+- HTML
+- CSS
+- JS
+- Jquery
+- Angular 4+
+- A Frame
+- React
+- Agile/SCRUM
+- SASS
+- Bootstrap
+- API's
+- AJAX
+- JSON
+- MongoDB
+- Express
+- Node.js
+- PSQL
+- OAUTH with passport, jwt with Angular
+- Gulp task manager
+- Git/Github workflow
+- Deployment: Heroku/GH-Pages/DreamHost
+- NPM Packages
+-PHP
+Projects:
+Are You Happy? (React and Aframe)
+https://cryptic-citadel-91160.herokuapp.com/
+SwipeBite (Angular 4)
+https://swipebite.herokuapp.com/
+Page 2 of 6
+My Closet (HTML, CSS, JS, NODEJS, Express, Mongo)
+https://thawing-caverns-98263.herokuapp.com/
+Matching Game (HTML, CSS, JS)
+https://emmadema.github.io/project-1/
+Cloudy (Phython, RasperryPi)
+A weather predicting cloud lamp
+CAP Management - Denver
+2 years 5 months
+Property Manager
+May 2015 - September 2017 (2 years 5 months)
+Greater Denver Area
+- Managed services provided in community associations.
+- Responsible for daily operations of 10 planned communities.
+- Moved from assistant property manager to full time property manager in
+under one year.
+- Managed an average of 30 construction projects per month.
+- Resolved an average of 100 tenant complaints per day over phone, email
+and in person.
+- Managed a $200,000 roof replacement.
+- Created nonprofit budgets for all associations annually.
+- Edited financial documents for all associations monthly.
+- Advised and supported board members for all 10 associations.
+- Made decisions involving construction projects and funding for all HOAs.
+Assistant Property Manager
+May 2015 - September 2017 (2 years 5 months)
+Denver, CO
+- Maintain website documents for 45 HOAs
+- Troubleshoot website issues
+- Answer phones for five property managers and solve all homeowner issues
+- Acquire bids for various construction projects, insurance, and other
+maintenance related items for all 45 HOAs
+- Ensure all refence spreadsheets and software systems are kept up to date
+with vendor, HOA and homeowner information
+- Schedule access for leaks and other maintenance items with homeowners,
+property manager and vendors
+Page 3 of 6
+- Respond to homeowner messages on two email addresses as well as
+through an online messaging system
+RMB Capital
+Administrative Assistant
+November 2014 - February 2015 (4 months)
+Denver, CO
+- Maintained schedules of four wealth management advisers
+- Communicated with clients to schedule meetings
+- Ran reports in Black Diamond and Salesforce
+- Prepared agendas and took meeting notes
+- Continually Updated the Salesforce data base with information
+- Completed expense reports for four advisers each month
+- Sent client gifts and birthday cards each month
+- Booked and maintained travel schedules for all four advisors
+QEP Resources, Inc.
+Contractor
+July 2014 - October 2014 (4 months)
+Denver, CO
+Assisted in implementing a new filing system
+Oversaw all functions of the filing department
+Organizing over 50,000 files
+MillerCoors
+Guest Relations Officer
+March 2014 - August 2014 (6 months)
+Golden, CO
+Give brewery tours to guests daily
+Maintain and organize all functions of the Coors Brewery Tour
+Ensure guests are fully satisfied with their experience
+ANN INC.
+Retail Sales Associate
+January 2014 - August 2014 (8 months)
+Denver, CO
+Sell credit cards to clients
+Assist customers with product selection and payments
+Maintain awareness of all promotions and advertisements
+Ensure clenlines of store and stock
+Gather, package and ship online orders
+Page 4 of 6
+Member of Loft visual team
+Everest Realty Group
+Temporary Secretary
+August 2013 - August 2013 (1 month)
+Freehold, NJ
+Screened telephone calls and guests and resolved routine and multifaceted
+inquiries
+Maintained electronic and paper filing
+Prepared letters for staff and clients
+Proofread important documents and projects
+Brookside Kennels of Warren
+Kennel Worker
+August 2011 - October 2011 (3 months)
+Warren, NJ
+Interacted with customers as they dropped off and picked up dogs for
+grooming and kennel stays
+Ensured cleanliness and organization of kennel and dogs, administered daily
+medications
+Breeders Network
+Kennel Worker
+June 2011 - September 2011 (4 months)
+Manalapan, NJ
+Trained new employees including teaching proper cleaning and grooming
+techniques
+Instructed co-workers how to properly medicate dogs and keep medical
+records
+Payless ShoeSource
+Retail Sales Associate
+June 2008 - June 2009 (1 year 1 month)
+Freehold, NJ
+Assisted customers with product selection and payments
+Completed training on sales, customer service and management
+Maintained awareness of all promotions and advertisements
+Maintained orderly appearance of retail store and stock
+Target
+Front End Cashier
+Page 5 of 6
+June 2007 - September 2007 (4 months)
+Manalapan, NJ
+Assisted customers in paying for merchandise
+Maintained orderly appearance of register area and retail supplies
+Education
+Rutgers, The State University of New Jersey-New Brunswick
+Bachelor of Arts (B.A.), Psychology and Anthropology · (2009 - 2013)
+University of Cape Town
+Bachelor's degree, Anthropology and Psychology · (2012 - 2012)
+General Assembly
+WDI - Web Development Immersive, Front End / Back End Web
+Development, Web/Multimedia Management and Webmaster · (2017)
+Page 6 of 6

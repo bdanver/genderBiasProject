@@ -1,0 +1,442 @@
+Contact
+www.linkedin.com/in/michelle-
+johnson-09029718 (LinkedIn)
+Top Skills
+SharePoint
+InfoPath Forms
+Powershell
+Certifications
+Certified ScrumMaster (CSM)
+Michelle Johnson
+AWS Application Developer at Jacobs
+Suitland, Maryland
+Summary
+SUMMARY
+More than 20 years Software Engineering experience and 10 years
+Team Lead experience.
+GOAL
+To find a contract or full-time permanent position as a Team Lead
+or Software Engineer creating innovative technology solutions that
+met specific business challenges and extends my clients products/
+services well beyond the usual limits.
+CLEARANCE: TS/SCI with CI Polygraph granted and FBI CI Poly
+granted.
+Experience
+Jacobs
+AWS Application Developer/Senior Software Engineer
+February 2019 - Present (1 year 1 month)
+Reston, VA
+• Architecting, developing and re-engineering applications that can fully
+leverage the following technologies: Amazon Web Services(AWS)/
+Commercial Cloud Services (C2S), EC2, Auto Scaling, Elastic Load Balancing,
+Elastic Beanstalk, Jenkins, Git/GitHub, TFS, Visual Studio 2015, ASP.Net
+4.5, SharePoint Designer, Angular, Bootstrap, C#, SharePoint APIs, REST,
+SOAP, Microsoft IIS Web Server, SQL Server DB/Report Services/Integration
+Services.
+• Design and develop application services and end-points to implement
+business and system capabilities using Amazon Web Services, API’s, SDKs,
+SOAP/JSON, and cross domain solutions
+• Work with business analysts, user experience developers, Agile Scrum
+Master, and project management to estimate and provide updates for Sprints.
+Page 1 of 12
+• Coordinate with Amazon Technical Staff, Cloud Engineering, Information
+Security Staff, Infrastructure Team to design and build a DevSecOps pipeline
+for Continuous Integration/Deployment/Delivery.
+• Draft white paper with analysis of proposed CI/CD pipeline for development
+team and DHS project management staff.
+• Coordinate with Infrastructure Team, Cloud Engineering, Information
+Security, Staff, and DHS Project Management to create new process for
+maintaining baseline AMI(patched and STIG), VM for developers, and
+inventory VM no longer in use.
+• Coordinate with Infrastructure Team, Information Security Staff, DHS Project
+Management and Amazon Technical Staff to create internal process for on-
+boarding new team members and requesting new VM for developers.
+• Draft white paper with recommendation for internal processes/responsibilities
+for on-boarding and maintaining updated AMI for DHS project management
+staff.
+TEKsystems
+2 years 1 month
+Senior Software Engineer Technical Lead
+June 2018 - Present (1 year 9 months)
+935 Pennsylvania Ave NW, Washington, DC 20535
+Federal Bureau of Investigation, Director of Intelligence Office,
+935 Pennsylvania Ave NW, Washington, DC 20535
+Lead team to develop, test, integrate, and maintain MS SharePoint and .NET
+applications for the customer's knowledge management, content management,
+and business intelligence systems to facilitate access to vital data for mission
+support and the business enterprise using the following technologies: Visual
+Studio 2012, ASP.Net 4.0, SharePoint Designer, Angular, Bootstrap, Kendo,
+C#, SharePoint APIs, AJAX. Jquery, JavaScript, HTML, Microsoft IIS Web
+Server, SQL Server.
+• Work with SME and customer to architect complex systems that include
+sending data across closed networks, creating of API’s, creation of Web
+Services, and expert level knowledge of SharePoint 2013 and 2016
+development using Agile Scrum Development Methodology
+• Assists clients in locating and resolving complex problems with the suite of
+tools available.
+• Serves as a technical advisor to the customers and development team.
+• Creates technical and user documentation for all phases of the SDLC and
+users.
+Page 2 of 12
+• Work with Scrum Master, customers, SME, other support teams to assess
+project feasibility, create requirements as requested by client.
+• Prepares project plans, maintain backlog, and sprint planning/tracking for
+assigned tasks and provides recommendations to client.
+• Inventory existing systems in preparation to migrate from SP 2010 to SP
+2013, SP OnPremise, to MS Cloud solutions.
+• Provides expert support, analysis and research into exceptionally complex
+problems, and processes relating to the new project development and support
+of existing production systems.
+• Create deployment packages and coordinate with Architecture Review
+Boards and SP Administrators group to deploy new projects and apply
+upgrades to existing production environments.
+Senior Software Engineer/SharePoint Developer
+February 2018 - June 2018 (5 months)
+Defense Threat Reduction Agency, Fort Belvoir VA 22060
+• Develop, integrate, and maintain MS SharePoint and .NET applications for
+the customer's knowledge management, content management, and business
+intelligence systems to facilitate access to vital data for mission support and
+the business enterprise using the following technologies: Visual Studio 2012,
+ASP.Net 3.5, SharePoint Designer, SP workflows, C#, SharePoint APIs, AJAX.
+Jquery, JavaScript, HTML, Microsoft IIS Web Server, SQL Server, VMWare
+vSphere Hypervisor/ESXi.
+• Customizing SharePoint portal applications, gather requirements, create
+RTM, create Project Plans and schedules as required to create solutions that
+meet customer’s needs.
+• Develop, test, and deploy PowerShell scrips for List Definitions, Site
+Templates, Master Pages and other SP tasks.
+• Refactor existing SP2010 in preparation to migrating to SP2013 and to
+Microsoft Cloud Environment.
+• Submit content for/conduct source code peer reviews.
+• Create deployment packages.
+Prince George's Community College
+Software Engineering Trainer (Part-Time)
+July 2017 - January 2019 (1 year 7 months)
+• Teaching training session for Private Industry Clients
+• HTML, CSS, Oracle PL/SQL v 11.2
+• JavaScript and Web Services
+• Work with client to create course syllabus
+Page 3 of 12
+• Research subject matter and draft course slides
+• Mentor students with challenges on work-related projects
+• Training sessions are usually one or two full day/s (6-8) hours.
+• Class size varies (8-15 employees)
+Metrica, Inc.
+Senior Software Engineer, US Air Force Office of Special Investigations
+December 2016 - February 2018 (1 year 3 months)
+Russel Knots Building, Quantico, VA
+US Air Force Office of Special Investigations, Quantico, VA
+• Manage upgrade of an existing learning tracking system for all USAF Special
+Agents using the following technologies: Visual Studio 2013, Classic ASP,
+ASP.Net 2.0/4.0, PhP 5.6, Moodle 3.0, JavaScript, HTML, Microsoft IIS Web
+Server, Oracle v11g Database, VMWare 12.0, and Windows 2008.
+• Meet with customer and stakeholders to determine requirements, establish
+priorities, define project scope, and define appropriate methods for completing
+project deliverables.
+• Create Virtual Test Lab with Production VM Clones/Snapshots as Staging
+and Individual test environments.
+• Develop project plan for upgrading system components and software; Oracle
+DB, Windows OS, PHP, Classic ASP, and ASP.Net 2.0/4.0.
+• Design and Develop code upgrades for custom Moodle/PHP modules,
+Classic ASP.Net 2.0/4.0.
+• Evaluate Cloud providers that support FED Ramp Security Levels and PKI
+CAC Authentication.
+• Maintain backlog of project tasks, define work items, plan sprints, and
+conduct user acceptance testing.
+• Implement SDLC best practices; software change management,
+configuration management, integration testing, deployment packages, source
+code repositories.
+• Devise, develop, and champion system engineering best practices in system
+engineering procedures.
+• Coordinate operational tasks with multiple team managers to plan, deploy,
+and support system engineering responsibilities.
+Booz Allen Hamilton
+2 years 5 months
+Technical Team Lead, US Army INSCOM
+June 2015 - February 2016 (9 months)
+Page 4 of 12
+Ft Belvoir
+US Army Garrison, Intelligence and Security Command(INSCOM), Fort
+Belvoir, VA
+* Manage a complete Systems Engineering Team (Developers, System
+Engineers, Database
+Administrators) to
+* provide maintenance of existing cyber security systems
+* redesigning existing external/internal sites using the following technologies:
+SharePoint Designer 2010/2013, Visual Studio 2013, SharePoint Server 2013,
+JavaScript, HTML, Microsoft Web Server, Unix/HP ArcSight v5.0 Platform,
+Oracle Database, and various website used by a number of cyber teams.
+* Meet with customer and stakeholders to determine requirements, establish
+priorities, define project
+scope, and define appropriate methods for completing project deliverables.
+* Responsible for creating, and maintaining, a project plan to manage and
+report team progress on
+meeting defined requirements, milestones, and contract deliverables.
+* Design and develop user interfaces by setting expectations and features
+priorities throughout the SDLC using Agile design methodologies and tool sets.
+Lead Software Engineer
+April 2015 - June 2015 (3 months)
+US Army Garrison, AFRICOM Command
+• Redesign and upgrade existing SharePoint 2010 Site using the following
+technologies: SharePoint 2013, SharePoint Designer 2013, MS Visual Studio
+2010, Javascript, XML, XSL/XSLT, HTML.
+• Evaluate existing functionality and build working prototype using SharePoint
+2013 technologies.
+• Develops customized interactive web based work flow applications with
+event driven notification systems, within the existing Knowledge Management
+Operations application architecture framework.
+• Design, develop, and deploy new features/functionality throughout the SDLC
+using Agile design methodologies and tool sets.
+Lead Technologist
+August 2014 - May 2015 (10 months)
+Arlington, VA
+NGA, Office of Communications
+• Lead a team of developers in redesigning/converting existing external
+SharePoint Site using the following technologies: SharePoint Designer 2013,
+Visual Studio 2013, SharePoint Server 2013, JavaScript, and HTML.
+Page 5 of 12
+• Meet with customer and stakeholders to determine requirements, establish
+priorities, define project scope, and define appropriate methods for completing
+project deliverables.
+• Responsible for creating, and maintaining, a project plan to manage and
+report team progress on meeting defined requirements, milestones, and
+contract deliverables.
+• Design and develop user interfaces by setting expectations and features
+priorities throughout the SDLC using Agile design methodologies and tool sets.
+• Coordinate with NGA Web Application and System Teams on approved
+features/functionality, release package criteria, release package
+documentation, server configuration requirements, and test procedures.
+Defense Intelligence Agency, Defense Critical Infrastructure Information
+Network
+* Design and develop updates and new SharePoint websites that supports
+the intelligence groups working on the DCIIN using the following technologies:
+SharePoint Designer 2013, SP 2013, Visio, REST/SOAP, SQL Server,
+JavaScript, XML, XSL/XSLT, CSS, and HTML.
+* Troubleshoot development and production problems associated with
+migrating the site and data from SharePoint 2010 to SharePoint 2013.
+* Created project/task work estimates, tracked development progress, and
+communicate task status to Project Management and client.
+* Created detailed test plans and test data for Customer Acceptance and
+Quality Assurance testing.
+* Design and develop Python scripts to ingest SharePoint XML data into
+ESRI GeoSpatial Databases, created customized visual tools, and shared
+customized views/data using ESRI
+GeoSpatial Web Services.
+Lead Technologist
+October 2013 - August 2014 (11 months)
+Indian Head, MD
+Defense Intelligence Agency, CRATE Stone Ghost Project
+• Manage and Lead a software development team on a R&D project; analysis
+and development of a working prototype based on existing software (CRATE)
+adapted for the Intelligence and Collection Management Staff working on the
+Stone Ghost Network.
+• Interview multiple project stakeholders, users, and IC SME to gather
+requirements, specifications, and acceptance criteria for new software
+Page 6 of 12
+• Responsible for day to day coaching of the team, establishing estimates for
+requirements and meeting project timelines.
+• Author a series of White Papers using the Department of Defense
+Architecture Framework (DoDAF) that details the recommended system
+enhancements and solutions based on feedback from users and
+stakeholders.
+• Providing estimates and track development progress to insure working
+prototype meets software requirements outlined in White Pagers using
+the following technologies: Eclipse, PHP, Oracle 11g, Apache, J-Query,
+JavaScript, XML, XSL/XSLT, and HTML.
+• Design and develop user interfaces by setting expectations and features
+priorities throughout the development life cycle using Agile design
+methodologies and tool sets, and design and conduct tests.
+• Coordinate with Network Engineering Team & Government contacts during
+planning and migration of the applications to production servers.
+• Create weekly and monthly team status reports as specified by Project/
+Program Management.
+• Create Project Progress and Management presentations for Booz Allen
+Senior Leadership..
+• Host review meetings, lead stakeholder presentations, and participate in
+architectural discussions throughout all phases of the SDLC.
+• Troubleshoot development and production problems across multiple
+environments and operating platforms.
+CACI
+Lead Software Engineer
+June 2009 - June 2013 (4 years 1 month)
+US Army, Knowledge Management Operations
+* Evaluates existing applications and perform program enhancements for
+several applications or projects using the following technologies: SharePoint
+2010, SharePoint Designer, InfoPath, MS Visual Studio
+2010, SQL Server 2008, ASP.Net 3.5, C#, XML, XSL/XSLT, Windows Server
+2008, and HTML.
+* Develops customized interactive web based work flow applications with
+event driven notification systems, within the existing Knowledge Management
+Operations application architecture framework.
+* Specify and coordinate all new requirements for all changes requested
+by Command Leadership with the supporting commands groups in order to
+provide required capabilities to the Command SharePoint Portal. Participates
+in software development scheduling and resource planning/estimation.
+Page 7 of 12
+National Archives
+* Performs software design, development, integration, support and testing
+of the NARA-Unclassified Redaction and Tracking System website using
+the following technologies: MS Visual Studio 2010, Oracle 11, ASP.Net 4.0,
+MVC, AJAX, C#, XML, XSL/XSLT, Windows Server 2008, and HTML/J-Query,
+Microsoft Workflow.
+* Participates in software development scheduling and resource planning/
+estimation.
+* Consult with Software Architecture Team to create system releases to
+include new functionality required for UI customization as specified in user/
+functional requirements.
+US Army, Genesis Project
+* Performs software design, development, integration, support and testing of
+the Genesis Intranet Website using the following technologies: MS Visual
+Studio, SQL Server 2008, Windows Server 2003, ASP.Net, AJAX, C#, VB
+script, ADO, ADO.Net, and HTML/JavaScript.
+* Participates in software development scheduling and resource planning/
+estimation.
+* Provide application & database support for Genesis Project Management
+Office and intranet users.
+Northrop Grumman
+Senior Software Engineer
+March 2004 - June 2009 (5 years 4 months)
+US Marine Corp
+* Performs software design, development, integration, support and testing of
+the Marine Corp MCATS Intranet Website using the following technologies:
+MS Visual Studio, TOAD, SQL Server 2000/2005,
+Windows Server 2003, classic ASP, ASP.Net, VB script, ADO, ADO.Net,
+HTML, and Oracle 10.
+* Performs requirements analysis and configuration management to maintain
+software/hardware
+baselines.
+GSA
+* Serve as a senior software engineer that designs, codes, test, and deploy
+GSA web applications for
+Page 8 of 12
+using the following technologies: MS Windows Server 2003, SQL Server 2000,
+MS Visual Studio,
+Macromedia MX, ASP.NET 2.0, ASP, C#, JavaScript, VBscript, ADO.Net,
+ADO, and HTML.
+* Deploy Microsoft Sharepoint Portal for technology preview and proof of
+concept for customer GSA.
+U.S. Army Human Resource
+* Convert the AKO Web Portal Application, Personnel Data Information, to .Net
+framework using the
+following technologies: ASP.NET, C#, ADO.Net, TOAD, Oracle 9i, JavaScript,
+HTML, T-SQL, and
+Mainframe Database.
+* Serve as a senior software engineer on a team responsible for the design,
+development, unit test,
+Product Level Testing and Production support for the U.S. Army Human
+Resource Command AKO
+Web Portal and client-server applications.
+* Coordinate with Quality Assurance Team during planning and migration of
+the application.
+* Specify, construct, and document the artifacts of the Personnel Data
+Information Application using
+UML. Perform use case and scenario analysis. Design class, use case and
+object models. Prepare
+and execute unit test plans. Prepare and execute integration test plans.
+* Instruct government personnel in the fundamentals of PowerBuilder 8/9 and
+Java J2EE technologies.
+* Provide Production Level Support for the EPM/SEPM applications using
+PowerBuilder 8.0, C
+modules, and Oracle 9.0.
+Johns Hopkins University
+Instructor
+May 2004 - May 2005 (1 year 1 month)
+Teaching Java and .NET technologies in the JHU Computer Career Institute,
+Software Development Certification Program evening &amp; weekend classes.
+Sapphire Technology
+Web Development & Support
+August 2003 - February 2004 (7 months)
+Page 9 of 12
+* Design and develop web applications for the Department of Defense/NATO
+Partnership for Peace
+Project website using the following technologies: ASP.NET, C#, ADO.NET,
+VB, VB.Net, Microsoft
+SQL Server, Java, JavaScript, HTML, and SQL/PL.
+* Design and implement enhancements for existing website to incorporate new
+technologies, user
+statistics, and usability studies.
+* Configure server to deliver streaming media content using Real Networks
+Helix Universal Server.
+Document configuration and installation of streaming media server. Format
+raw audio/video files for
+delivery by Helix Universal Server over the Internet. Coordinate testing and
+integration of media
+server into existing network environment.
+* Training non-technical clients how to create web pages/sites and maintain
+web contents.
+* Assisting technical clients in identifying and implementing new technologies
+and troubleshooting
+functionality issues.
+Michelle Johnson & Associates
+Software Engineer
+January 2002 - January 2003 (1 year 1 month)
+Design, code and test components for database-drive e-commerce website,
+Women to Women Network. Designed promotional/advertising web pages
+for emerging companies. The web pages were developed using following
+technologies: HTML, Active Server Pages, SQL 2000, VBScript and
+JavaScript.
+Technical Consultant for Marketing Staff of IT Consulting Firm, Molen
+&amp; Associates. Assist sales and business development staff when
+evaluating contracting opportunities and creating work estimates. Meet with
+third party vendors to ensure product compliance with system functionality
+requirements.
+Manage hardware additions, software upgrades for Union Temple Baptist
+Church website. Designed layout for new multimedia website, developed code
+for the streaming media functionality for website, configured streaming media
+server to developer video on-demand, and developed scripts for daily updates
+to web pages and streaming video.
+Page 10 of 12
+LORAL CYBERSTAR
+Senior Web Engineer
+August 2000 - January 2002 (1 year 6 months)
+Design, Develop, Test and Integrate streaming media web portal using the
+following technologies:
+Active Server Pages, SQL 2000, XML, HTML, VBScript and JavaScript
+(browser- and server- side), ActiveX, ADO, COM, and Windows Media, Visual
+InterDev, Dreamweaver, HomeSite, Windows Adv Server, IIS.
+Coordinate implementation of application to insure the effective delivery of on-
+demand and live web content/video over satellite and terrestrial lines to client
+intranet websites.
+Interface with Product Management and Human Factors personnel to clarify
+requirements for system functionality.
+Interface with Content Providers for delivery and implementation of graphics,
+news feed, and video components of web application.
+Maintain expertise in specific core technology area(s); web caching, content
+management, workflow management, IIS, and third party software.
+Ensure documentation of projects and processes.
+Managing hardware additions and deletions, software upgrades and fixes,
+outside development, and facilitating contractual relationships.
+Operational Technologies Services, Inc
+Systems Analyst
+March 1999 - August 2000 (1 year 6 months)
+Write, maintain, and optimize application components; PowerBuilder user
+interfaces, Oracle database, network connections, PL/SQL procedures and
+scripts, etc. for FAA Training Planning System.
+Migrate existing FAA Training Planning System from PowerBuilder to a web
+enable version using ASP and XML.
+Developed modules for Satellite Communications Project using Visual C++.
+Analyze needs, develop alternatives, evaluate costs and solutions to identify
+and implement solutions to effectively address needs of customer.
+Coordinate definition, testing, and implementation of solutions, working with
+OTS staff, contractors, and solution providers. Ensure documentation of
+projects and processes.
+Yellow Freight, Inc
+Programmer Analyst
+April 1997 - February 1999 (1 year 11 months)
+Page 11 of 12
+Member of a client/server, 3-tier architecture development team. Created
+and maintained a tracking system that monitored freight flow, employees,
+trucks, delivery times, etc. The application used the following technology:
+mainframe scripts/programs, DB2 and Oracle 7.0 databases, C/UNIX modules,
+Powerbuilder user interface, Messaging System, and Mobile Handheld
+Computers.
+Conduct comprehensive analysis of Powerbuilder user interfaces, C/Unix
+modules, SQL/PL performance, and Oracle 7.0 tables to determine optimum
+solutions to meet customer requirements.
+Design and develop effective updates and enhancements to Powerbuilder
+user interfaces, C/Unix modules with embedded SQL, and Oracle 7.0 tables as
+outlined by development methodology.
+Education
+University of Missouri-Kansas City
+Bachelor of Science - BS, Computer Science · (1992 - 1997)
+Page 12 of 12

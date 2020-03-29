@@ -1,0 +1,64 @@
+Contact
+www.linkedin.com/in/yanjoyce
+(LinkedIn)
+Top Skills
+iOS development
+iPhone Application Development
+Objective-C
+Honors-Awards
+Recipient, Black Hat USA
+Scholarship
+Finalist, SalesForce UX Portfolio
+Competition
+Recipient, Grace Hopper Conference
+Scholarship
+Recipient, Google I/O Scholarship
+2nd Place, Airport Cooperative
+Research Program (ACRP)
+University Design Competition
+Joyce Yan
+Software Engineer at Spotify
+New York, New York
+Experience
+Spotify
+Software Engineer
+August 2017 - February 2020 (2 years 7 months)
+New York, NY
+• Backend engineer (Java) working on product infrastructure for Canvas, which
+is a feature that allows artists to upload vertical videos in lieu of album artwork
+on the Spotify for Artists app
+• Leveraged our A/B testing platform to launch this feature
+• Supported the iOS, Android, and web clients for both the consumer Spotify
+app and and Spotify for Artists
+• Worked on developing a transcoding algorithm that decreases file size and
+data usage by 70%
+• Previously worked full-stack on developing data privacy internal tools for
+GDPR compliance in Java and React
+Google
+Software Engineering Intern
+September 2016 - December 2016 (4 months)
+Munich, Germany
+Worked on the growth team for iOS Snapseed, a stand-alone photo editing
+app that got acquired by Google in 2012. I worked on integrating machine
+learning technology from Google Photos into Snapseed to help better suggest
+creative tools.
+Snapchat, Inc.
+Software Engineering Intern
+May 2016 - August 2016 (4 months)
+Venice, CA
+Worked on the mobile security team to use steganography to help detect
+users using unofficial Snapchat clients and integrated signal detection on
+our backend services (Java AppEngine) and both Snapchat clients (iOS and
+Android).
+Facebook
+Page 1 of 2
+Software Engineering Intern
+June 2015 - August 2015 (3 months)
+New York, NY
+Worked with the product infrastructure team to update our Objective-C++ data
+model layer to decrease memory usage and the binary size of the Facebook
+iOS app, which is the largest app on the App Store.
+Education
+University of Southern California
+B.S. in Computer Science
+Page 2 of 2

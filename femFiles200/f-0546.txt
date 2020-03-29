@@ -1,0 +1,90 @@
+Contact
+www.linkedin.com/in/olivia-carnes
+(LinkedIn)
+github.com (Portfolio)
+Top Skills
+Data Analysis
+Python
+Machine Learning
+Certifications
+Engineer Intern
+Olivia Carnes
+Data Scientist
+Denver, Colorado
+Summary
+I am a data scientist specializing in NLP and deep learning with
+a background in engineering, physics, and the energy industry. I
+love uncovering the stories that data has to offer and am stubbornly
+persistent in looking for answers. Past projects include process
+automation with python, document classification with CNNs and
+NLP, and pipeline route optimization with excel and ArcGIS. When
+I’m not cozied up with my laptop and an interesting data set, I enjoy
+running, cycling, and giving old furniture new life.
+Experience
+BP
+Land Modernization & Data Transformation Scientist
+April 2018 - Present (2 years)
+Greater Denver Area
+BP L48 is the US onshore production branch of British Petroleum. In this
+role I'm helping to modernize BP L48's Land and Finance group with both
+automation and data science initiatives.
+Tallgrass Energy
+Assistant Engineer
+August 2014 - July 2017 (3 years)
+Greater Denver Area
+Tallgrass Energy is a natural gas pipeline company with assets spread
+across the continental US. The water division, BNN Water Solutions, provides
+permanent water infrastructure for clients across multiple industries. As
+a member of the BNN team, I was involved in designing, building, and
+operating both fresh and produced water infrastructure. My main roles
+included optimizing pipeline routes and designs, mapping potential areas of
+development by COGCC permit location, and creating and tracking O&M plans
+for freshwater and SWD facilities. Being a part of a small team allowed me
+to gain additional exposure to functions outside of my job including project
+management, materials sourcing, SCADA installation and operation, and
+client outreach.
+Page 1 of 3
+University of Colorado Boulder
+Graduate Teaching Assistant
+August 2014 - December 2014 (5 months)
+Boulder, CO
+The graduate level Sustainable Energy Engineering class, taught by Jana
+Milford, covered subjects ranging from solar panel installation economics to
+ocean thermal energy conversion techniques. In this position I helped grade
+student homework and tests, in addition to holding weekly tutoring sessions.
+BNN Water Solutions
+Summer Intern
+June 2014 - August 2014 (3 months)
+Greater Denver Area
+BNN Water Solutions, acquired by Tallgrass Energy in June 2014, owns and
+operates fresh and produced water assets in Colorado, Wyoming, and Texas.
+As an intern, my tasks included optimizing pipeline routes using both Matlab
+and ArcGIS.
+University of Colorado Boulder
+GK-12 Fellow
+August 2013 - May 2014 (10 months)
+Boulder, CO
+The GK-12 fellowship, funded by the NSF, aims to place graduate students in
+K-12 education settings to help bring STEM into classrooms for all ages. In this
+position, I aided in teaching engineering skills to grades 9-12 for Engineering
+Design, Computer Science and Software Engineering at Centaurus High
+School.
+Tulane University
+PolyRMC Intern
+May 2012 - May 2013 (1 year 1 month)
+Greater New Orleans Area
+Tulane based PolyRMC focuses on research and development in
+polymerization reaction monitoring. As an intern, I created CAD models
+for existing equipment, in addition to helping create a heated flow cell for
+monitoring time and heat dependent properties of polymer solutions.
+Education
+Galvanize - Denver, Platte
+Page 2 of 3
+Data Science Immersive, Data Science · (2017)
+University of Colorado Boulder
+Master of Engineering - MEng, Mechanical Engineering - Energy & the
+Environment · (2013 - 2014)
+Tulane University
+Bachelor of Science and Engineering (BSE), Engineering
+Physics · (2009 - 2013)
+Page 3 of 3

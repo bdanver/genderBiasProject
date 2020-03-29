@@ -1,0 +1,161 @@
+Contact
+www.linkedin.com/in/vanesaortiz
+(LinkedIn)
+www.vanesaortiz.com (Personal)
+github.com/vanesa (Other)
+Top Skills
+Go
+Web Development
+Python
+Languages
+German (Native or Bilingual)
+English (Native or Bilingual)
+Spanish (Native or Bilingual)
+Certifications
+Hackbright Academy
+Honors-Awards
+Uber Prize Scalability & Global
+Impact Award
+HACK OF THE MONTH - Kid-O
+Google.org Impact Challenge
+Vanesa O.
+Software Engineer at Sourcegraph
+San Francisco, California
+Summary
+Full-stack Software Engineer -
+I work on tools that help developers code better. Favorite Stack:
+Go (golang), Python, Typescript and React. Women Who Go San
+Francisco Organizer.
+Experience
+Sourcegraph
+Software Engineer
+October 2017 - Present (2 years 5 months)
+San Francisco Bay Area
+Working with Go, TypeScript/React and GraphQL and bringing great code
+search and code intelligence to every coder.
+So far I have:
+- Introduced the light theme in the Sourcegraph web app as well as other nifty
+features that make using Sourcegraph a pleasant experience.
+- Introduced the directory view to get a more detailed and accessible overview
+of folder contents in the web app. Now you can instantly see information like
+author, commit hash, last commit and commit message of all the files in a
+folder.
+- Added search scopes to the web app, making it possible to save frequently
+used regex in search filters available under the search bar.
+- Introduced dynamic filters which auto-generate based on the search results
+and help you refine them leading to a faster and more efficient search
+experience.
+- Worked on the Sourcegraph Extensions API, built the Datadog and Sentry
+extensions and helped build the GitHub Extras extension.
+Codemotion Berlin
+Tech Talk at Codemotion 2016 - "Why we need women focused
+communities in tech"
+October 2016 - October 2016 (1 month)
+Berlin Area, Germany
+Why we need women focused communities in tech
+Page 1 of 5
+http://berlin2016.codemotionworld.com/speaker/2650/
+Video recording: https://youtu.be/wQbh2aneWUA
+When I started Women Who Go Berlin, I didn't think I would encounter any
+kind of opposition for creating a learning space for women to learn Golang. I
+was wrong. I was soon accused of being sexist, separatist and breaking the
+Berlin Code of Conduct. This, of course, was a slap in the face, as my goal
+was and is to increase diversity in the tech community, not to create a gap.
+In my presentation, I will explain why I stand by WWGBerlin's mission, why
+we urgently need women focused groups in the tech community and why we
+shouldn't focus on finger pointing, but work together.
+LOVOO
+Software Engineer
+May 2016 - October 2016 (6 months)
+Berlin und Umgebung, Deutschland
+I worked at the IT Operations Team as a Backend Engineer/SRE (Site
+Reliability Engineer), mostly writing software to help monitor LOVOO's
+Infrastructure.
+Most of my work consisted of:
+- Building internal monitoring & alerting services
+- Working with Prometheus, e.g. building exporters including the official open-
+source Jenkins exporter for the Prometheus project
+- Working with Jenkins building API consumers
+- Worked on internal tools to improve developer's code quality
+code.talks
+Tech talk code.talks 2016 - "Social Impact Apps – How apps can help
+where it's really needed"
+September 2016 - September 2016 (1 month)
+Hamburg Area, Germany
+Social Impact Apps – How apps can help where it's really needed
+We live in times where we can solve numerous business and entertainment
+challenges with useful apps. These apps have fundamentally changed our way
+of living and have made everyday processes more transparent and efficient.
+But what about the social challenges this world faces? Nearly half of the
+world’s population lives in poverty. Shouldn’t we be using more of our energy
+Page 2 of 5
+and problem solving skills to solve these challenges? We are so focused on
+working on our personal achievements that we tend to forget, that we are the
+lucky ones: The ones that live in the safe part of the world, where there is
+abundance of water, food, access to health and education, social security and
+no war.
+We already know of the transforming power of technologies and we are
+blessed with the ability to build these kinds of tools. Now it’s up to us to
+channel some of our energy into building apps that can truly make a difference
+where it’s needed most. This presentation will show how simple, easy to build
+apps can make a huge impact in the lives of people who are in need and make
+this world a better place.
+Independent
+Software Engineer
+September 2015 - January 2016 (5 months)
+Stack: Python, Flask, Django, JavaScript, jQuery, AJAX, SQL, SQLite,
+SQLAlchemy (ORM), PostgreSQL (ORDBMS), Jinja, HTML5, CSS3,
+Bootstrap, XML, Git
+Hackbright Academy
+Software Engineering Fellow
+June 2015 - September 2015 (4 months)
+San Francisco Bay Area
+Completed an intensive, 12-week software engineering fellowship to
+gain proficiency in Python, SQL, JavaScript, jQuery, HTML, CSS, Git
+version control, pair programming, data structures, algorithms, and Agile
+methodologies. Four weeks dedicated to coding a personal project (see
+Projects: Kid-O).
+Vanesa Ortiz
+Web Developer
+August 1998 - April 2015 (16 years 9 months)
+Cologne, Germany
+Built and designed dozens of websites for small business owners.
+The London School of Economics and Political Science (LSE)
+Overseas Researcher
+December 2011 - June 2012 (7 months)
+Argentina and Chile
+Page 3 of 5
+Overseas Researcher for the London School of Economics and Political
+Science. Assistant in the European Research Council funded research
+project conducted in Argentina and Chile: “Global Governance and Gender
+Disparities. Explaining Developments in Key Labor related Human Rights
+Indicators”
+University of Cologne
+IT-Management
+October 2009 - October 2010 (1 year 1 month)
+Cologne, Germany
+Web developer at the IT-Management of the arts and letters faculty. Built and
+maintained homepages in Typo3 CMS.
+Institute of the Americas
+Intern
+January 2009 - February 2009 (2 months)
+San Diego, California
+Internship at the think tank IOA of the University of California San Diego
+(UCSD)
+Habitat for Humanity Deutschland
+Web Developer
+May 2007 - June 2007 (2 months)
+Germany
+Programmed the donation-forms for the webpage of Habitat for Humanity
+Deutschland (Germany).
+Education
+Hackbright Academy
+Computer Software Engineering · (2015 - 2015)
+Universität zu Köln
+Diplom - Masters, Latin American Studies
+Université du Québec à Montréal
+UQAM French Certificate, Intensive French Summer Course
+San Diego State University-California State University
+Graduate semester abroad, Latin American Studies
+Page 4 of 5
+Page 5 of 5

@@ -1,0 +1,50 @@
+Contact
+www.linkedin.com/in/emma-
+j-99366512a (LinkedIn)
+Top Skills
+Programming
+Creative Writing
+Software Development
+Emma J.
+Software Engineer Intern at Mastercard
+Rockville, Maryland
+Summary
+I am proficient in Java, Python, C/C++, SML, R, C#, HTML, and
+SQL, and can easily pick up new languages. I have programmed
+since middle school and, due to my experience researching at Johns
+Hopkins University and Carnegie Mellon University, as well as my
+internships with Intelligent Automation, Inc. and Mastercard Data &
+Services, can work well in teams.
+Experience
+Carnegie Mellon University School of Computer Science
+Computer Science Teaching Assistant
+August 2018 - Present (1 year 8 months)
+Pittsburgh
+Led recitation to reinforce class concepts, provided students with feedback,
+held office hours to give students personalized assistance
+Mastercard
+Software Engineer Intern
+May 2019 - August 2019 (4 months)
+Arlington, VA
+Improved the Test & Learn software’s flexibility in matching test and control
+groups. Implemented usability improvements including front end redesign
+and a new method for performing analyses. Coordinated with PM interns to
+investigate significance formulas. Used C#, SQL, R, and Javascript (Knockout
+and React) to develop, and Jira and Stash for team organization.
+Intelligent Automation, Inc.
+Software Engineering Intern
+May 2018 - August 2018 (4 months)
+Designed, created, and integrated an Android app with the ARGUS perimeter
+security system that tracks guards and allows them to interact with the system.
+Wrote tests for and otherwise supported the RFNest radio channel emulator
+system project.
+Page 1 of 2
+Johns Hopkins University School of Education
+Intern
+June 2015 - August 2016 (1 year 3 months)
+Created pipeline to cluster repetitive genomic sequences so that researchers
+can more efficiently and accurately classify new repetitive elements.
+Education
+Carnegie Mellon University
+Bachelor's degree, Computer Science · (2017 - 2021)
+Page 2 of 2

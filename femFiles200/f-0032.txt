@@ -1,0 +1,139 @@
+Contact
+www.linkedin.com/in/
+nataliianewyork (LinkedIn)
+Top Skills
+LAMP
+MERN
+React.js
+Languages
+Russian (Native or Bilingual)
+English (Professional Working)
+Certifications
+HTML/CSS, JS, and SQL
+Computer Science -Stanford
+University
+PHP
+Node with React: Fillstack Web
+Development
+SSR with React and Redux
+Publications
+Opencart extension developer page
+Nataliia B.
+React.js, Redux, Node. Full Stack Engineer
+Greater New York City Area
+Summary
+I am a Software Engineer with 10+ years of experience in MERN and
+LAMP stacks, developing robust code for high-volume businesses.
+Increased code-efficiency of Splashlihgt Management System by
+40%.
+Boosted customer acquisition & retention at Alwaysmed.com by
+more than 1000%.
+Contributed to e-commerce cms Opencart, developing extensions
+and themes.
+I have a passion for solving complex problems using the latest
+frameworks, languages and best practices.
+Experience
+Dauntless
+Full Stack Engineer
+March 2018 - Present (2 years)
+Greater New York City Area
+Splashlight
+Software Engineer
+October 2016 - April 2017 (7 months)
+New York
+Inventory Management System provide interfaces for managers,
+photographers, retouchers and others to collaborate delivering high quality
+digital product .
+- Consulted team about MVC pattern logic, anti-patterns, frameworks, CMS
+logics and best practices.
+- Defined anti-patterns in the system, legacy code and planned refactoring
+solutions.
+- Rebuild user roles/permissions logic for multi clients support.
+- Performed Database refactoring.
+Page 1 of 4
+- Defined major bugs on the system, created issues in Jira and scheduled the
+work flow.
+- Created interfaces by client’s (Victoria’s Secrets, Target) request.
+Software used: PHP, Backbone.js, Codeigniter, MariaDB, Git, SourceTree,
+BitBucket, Jira, Laravel Homestead pre-packaged Vagrant box.
+AlwaysMed
+3 years 8 months
+Full Stack Engineer
+February 2013 - September 2016 (3 years 8 months)
+Brooklyn
+Project: Triptrailing.com - The Social Network for travelers.
+- Managed AWS EC2 IaaS system.
+- Designed and developed from scratch the social network using Codeigniter
+MVC framework on backend and Backbone.js on frontend.
+- Developed UI using Google Map API and Backbone.js allowing users to
+draw multi-part directions using a series of waypoints.
+Software used: PHP, MySQL, Javascript, jQuery, Ajax, HTML5, CSS,
+Bootstrap
+API: Google Maps Javascript V3
+Search Engine Optimization: Basic + Open Graph
+Full Stack Engineer
+February 2013 - September 2016 (3 years 8 months)
+Greater New York City Area
+Alwaysmed.com - Online medical records profile.
+- Rebuild legacy and poor organized system from scratch using Codeigniter
+MVC framework and javascript.
+- Designed API for web and ios app.
+- Designed and developed “Medical Vault” system for storing users medical
+records and personal information.
+- Designed and developed “Records Request” system which helps patients
+request their records from medical offices without visiting them in person.
+System prepared HIPPA-aproved form in pdf format using user information,
+user signed it using mouse, and afterward the form was sent to the doctor with
+a unique link with interface to send requested documents back to the user.
+Page 2 of 4
+- Developed “Doctors Database” for website visitors and inner users. User can
+find his doctor in database and attach to profile. In case of emergency access
+to profile, doctors contact information and diagnosis will be in a prominent
+place
+Customer capture: applying new features of technology for websites such as
+Google Contacts API in order to increase the number of the customers, just as
+LinkedIn does with its user's connection. This solution is increasing the number
+of the customers by 10,000 users on a monthly basis
+Infrastructure: AWS EC2
+Software used: PHP, MySQL, CodeIgniter, Backbone.js, jQuery, Javascript,
+HTML, CSS
+CMS: Drupal
+API: Google Contacts API, PayPal API
+TurkishNY
+Software Engineer
+November 2012 - February 2013 (4 months)
+Brooklyn
+TurkishNY.com - A high loaded news portal for Turkish people living in the US
+- Redesigned the website to become a mobile compatible modern website
+- Applied new features of technology for websites to make it more appealing
+and efficient
+- Developed new features, such as slideshows, weather channel, horoscope,
+etc
+- Managed daily mailing newsletters for subscribers
+Software used: PHP, MySQL, Joomla, jQuery , Javascript
+Sarbc / Web studio
+Software Engineer
+December 2010 - August 2012 (1 year 9 months)
+Project: sarbc.ru - A high loaded web portal including 50+ subdomains such
+as auto, real estate, news, etc
+- Developed new features for projects: realty.sarbc.ru, news.sarbc.ru,
+health.sarbc.ru
+- Performed full redesign and search engine optimization for realty.sarbc.ru,
+health.sarbc.ru
+Page 3 of 4
+Project: Web Studio
+- Involved in a full-cycle website and application development from concept to
+completion, for clients in diverse industries, such as: non-profit, financial,
+healthcare and e-commerce
+- Integrated REST APIs such as Google Maps, Google Analytics, PayPal,
+Facebook
+- Met with clients to access needs, determine site specifications, answer
+technical questions and provide in-person instruction on CMS administration
+Education
+Moscow Technology Institute. (UNESCO)
+Bachelor's degree, Software Development Technologies · (2015 - 2019)
+SGAU
+Economics and management of enterprises · (2004 - 2006)
+Stanford University
+Computer Science · (2014 - 2014)
+Page 4 of 4

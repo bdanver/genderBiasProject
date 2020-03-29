@@ -1,0 +1,89 @@
+Contact
+www.linkedin.com/in/latikagulati
+(LinkedIn)
+Top Skills
+JavaScript
+D3.js
+Java
+Languages
+Hindi
+Punjabi
+Spanish
+Latika Gulati
+Software Developer at Capital One
+Annandale, Virginia
+Summary
+Software developer experienced with a strong technology
+background in multiple industries and across different platforms.
+Innovative and adaptive in analyzing and resolving complex
+problems. Strengths include communicating and collaborating
+with managers and technical staff and designing elegant software.
+Recognized for dependability, innovation, and dedication.
+Experience
+Capital One
+3 years 8 months
+Software Developer
+September 2017 - Present (2 years 6 months)
+Tysons Corner, VA
+Software Developer
+July 2016 - August 2017 (1 year 2 months)
+San Francisco, CA
+Spark Pay
+- A product to aid small businesses by providing an online store and a mobile
+point of sale device
+- Created alerts for production monitoring to ensure resource allocation within
+the UI and API layers
+- Primary technologies used were Perl, MySQL, and Postman
+National Small Business Online Account Opening
+- Primary technologies used were Optimizely, Java, Angular, Javascript,
+Typescript, XML, Gherkin, Protractor, and Jade/Pug
+- Transferred ownership of the decision engine microservice to our team.
+This microservice determines the status of the user within the Online Account
+Opening flow if they've closed the browser in between sessions.
+- Thoroughly documented the software architecture and created a
+comprehensive resource library
+Page 1 of 3
+- Carried the First Time Funding product all the way through design thinking
+and user testing stages to implementation and delivery
+- Integrated A/B testing using Optimizely to determine the best User
+Experience
+- Developed the landing page within First Time Funding for users to pick their
+funding method
+- Transitioned the codebase from Javascript to Typescript to utilize Angular 2
+Capital One
+Technology Development Program Intern
+June 2015 - August 2015 (3 months)
+Richmond, VA
+- Created a JavaScript graphing library with Data Driven Documents (D3) to
+replace a costly external software for Data Analysts
+- Produced a robust random data generator and testing suite for the graphing
+library to support development
+- Designed a drag-and-drop user interface editor to make graph
+personalization intuitive
+- Presented to senior managers and fellow interns about the benefits of D3 and
+the progress made on the project with positive feedback from participants
+The Washington Post
+Video Intern
+May 2014 - August 2015 (1 year 4 months)
+Washington D.C.
+- Collaborated with a designer to modify the PostTV website and build the
+header module for a more streamlined user experience
+- Thoroughly tested the PostTV Android Application and created a library
+of unit tests for future developers to use to ensure that their changes were
+implemented correctly
+Fairfax Collegiate, LLC
+Teacher
+June 2011 - August 2013 (2 years 3 months)
+Alexadria, VA
+- Taught Java, Python, BASIC, Robotics, Electronics, Cryptography, Film
+Making, Architecture, Algebra, SAT test prep, and Writing to children ages 8 to
+15
+- Emphasized thinking creatively and analytically to solve engineering
+problems
+Page 2 of 3
+Education
+Virginia Polytechnic Institute and State University
+Bachelor of Science (BS), Computer Science · (2012 - 2016)
+Thomas Jefferson High School for Science and Technology
+Computer Aided Design · (2008 - 2012)
+Page 3 of 3

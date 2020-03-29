@@ -1,0 +1,66 @@
+Contact
+www.linkedin.com/in/miraholford
+(LinkedIn)
+Top Skills
+Java
+Python
+Public Speaking
+Mira H.
+Software Engineer at Google
+Oakton, Virginia
+Experience
+Google
+Software Engineer
+August 2018 - Present (1 year 7 months)
+New York, New York
+Google
+Software Engineering Intern
+May 2017 - August 2017 (4 months)
+New York, New York
+Developed workflow to aggregate, analyze, and visualize information about
+edits to Google Maps. System quantifies information relating to flow of edits
+and sends alerts upon significant changes in flow.
+Worked on both back-end and front-end of an application (primarily Java)
+used to debug issues in edit resolution. Implemented features to surface new
+information and graph data over time.
+Google
+Engineering Practicum Intern
+May 2016 - August 2016 (4 months)
+Seattle, WA
+Designed and implemented system to aggregate, process, analyze, and output
+data relating to Google's Data Centers using Python. Implemented supervised
+and unsupervised machine learning algorithms to gain richer understanding of
+big data.
+NASA Goddard Space Flight Center
+Software Engineering Intern
+June 2014 - August 2014 (3 months)
+Greenbelt, MD
+Installed and explored cutting-edge, poorly documented, audio-visualization
+software in openSUSE and CentOS. Developed design for novel system in
+which 17 nodes driving 15-monitor display was reduced to a single node. Gave
+demonstration to NASA scientists and other interns.
+Page 1 of 2
+National Institute of Standards and Technology
+Software Engineering Intern
+June 2013 - August 2013 (3 months)
+Gaithersburg, MD
+Accelerated materials simulations in Python using the FiPy partial differential
+equation solver. Worked alongside the two inventors of FiPy and two college
+students to predict future behavior of physical phenomena. Profiled code to
+locate bottlenecks, then implemented new algorithms and parallelization to
+improve performance. Gave poster presentation summarizing findings to NIST
+scientists.
+Zeta Associates
+Software Engineering Intern
+June 2012 - August 2012 (3 months)
+Fairfax, VA
+Supported development of novel geolocation radio system; utilized Matlab
+and linear algebra techniques to compute multivariate optimizations and
+subsequently determine accuracy of emitter location. Provided field test
+technological and logistical support.
+Education
+University of Virginia
+B.S. Computer Science, Minor: Biomedical Engineering · (2014 - 2018)
+Thomas Jefferson High School for Science and Technology
+Physics, Mathematics, Computer Science · (2010 - 2014)
+Page 2 of 2

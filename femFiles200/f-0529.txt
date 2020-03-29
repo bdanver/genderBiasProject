@@ -1,0 +1,104 @@
+Contact
+www.linkedin.com/in/
+emmachirapongse (LinkedIn)
+Top Skills
+PHP
+jQuery
+KnockoutJS
+Emma Chirapongse
+Engineer 4, Software Dev & Engineering at Comcast
+Philadelphia, Pennsylvania
+Summary
+‍Passionate, resourceful fullstack developer with 10+ years of
+professional experience.
+Fluent in PHP, Javascript (Node, React, Redux), and Go.
+Regularly geeks out on Machine Learning, Video Games, Comic
+Books and all things fluffy and furry
+Experience
+Comcast
+Engineer 4, Software Dev & Engineering
+April 2019 - Present (1 year)
+Greater Philadelphia Area
+• Senior Lead on Sprint team for enterprise-level React application for
+Comcast Business
+ActiveCore SDN Platform
+• UI Architect for Comcast Business My Account program and involved in the
+future state
+architecture group, transitioning the business services into bleeding edge
+technologies by
+building POCs, most prominently with CloudFormation templates deploying
+Lambda
+functions, API Gateways, IAM Roles, and SNS/SQS
+TEKsystems
+Senior Software Engineer
+October 2018 - March 2019 (6 months)
+Greater Philadelphia Area
+Contracted for Comcast Business Services, built complex features on an
+enterprise React and Redux application.
+Rakuten Marketing
+1 year 3 months
+Page 1 of 3
+Lead Software Engineer
+May 2018 - October 2018 (6 months)
+Greater Seattle Area
+Managing 3 Software Engineers, focusing on skill development, mentorship,
+and career path. Leading the authentication and security effort; Working with
+Product Owners on requirements, Architects on system design, and my team
+on the implementation plan. Technologies include Hashicorp Vault integration,
+first party OAuth2 implementation, and Kong as an API Gateway
+Senior Software Engineer
+August 2017 - April 2018 (9 months)
+Greater Seattle Area
+Working with senior level and above development members on high-impact,
+customer-facing products including a White Label Dashboard solution for our
+Advertisers (Customers include Birchbox, Jet, Saraiva and Dr. Axe). I have
+been involved on all aspects of this project, from backend (PHP Symfony 3)
+to frontend (AngularJS), including deployment (Dockerization, Jenkins, Circle
+CI) and testing strategies (Backend: PHPUnit, Automated Functional API tests;
+Frontend: Protractor, E2E Automated Tests). Other projects include creating
+various apps for GDPR compliance (Go microservices, Go packages, ReactJS
+apps).
+EmmaCodes, LLC
+Freelance Software Engineer
+September 2016 - July 2017 (11 months)
+Consulted for Rakuten Marketing on a Symfony 3 + AngularJS project
+Bark & Co.
+Technical Lead
+March 2016 - August 2016 (6 months)
+Directly managed 2 software engineers, through a range of projects ranging
+from custom implementations on BarkPost.com, a WordPress site, to backend
+Laravel apps that support our mobile app push notifications as well as a
+complex migration of 2.5M email subscribers from one ESP to another.
+Implemented a SMS management app in Laravel that interfaces with Twilio to
+reach our audience and manage SMS subscriptions.
+Rakuten Marketing
+4 years 10 months
+Software Engineer
+October 2013 - March 2016 (2 years 6 months)
+Page 2 of 3
+Greater New York City Area
+Lead and manage a team of up to 5 senior engineers, both onshore and
+offshore to deliver on time a complex Symfony 2 and AngularJS application
+that allowed our clients to build custom reports, querying vast terabytes of
+data.Also lead and managed a team of 3 senior engineers on a new project
+using Symfony 3 and AngularJS. While managing, I enforced code quality with
+code reviews and design discussions, as well as implementation.
+Junior Software Engineer
+June 2011 - September 2013 (2 years 4 months)
+Fixed bugs as well as implementing new features in legacy interfaces. Involved
+in developing new APIs and Front End Applications, Publisher Registration
+Form and Custom Reporting application, with Symfony 2 Framework and
+Knockout.js. Worked on unit testing our new Node.js Data Mart process and
+created automated backend PHP scripts to backup a sharded Mongo cluster.
+LinkShare
+LinkShare Leadership Development Program
+July 2010 - May 2011 (11 months)
+Participated in a rotational program across the Systems Development and
+Database Administration departments. Wrote and maintained back-end Perl
+scripts, client-facing and internal system web applications utilizing PHP and
+MySQL. Created a complex data model, documenting the relationships in each
+of our Tier 1 services.
+Education
+New York University
+Bachelor's Degree, Computer Science · (2007 - 2010)
+Page 3 of 3

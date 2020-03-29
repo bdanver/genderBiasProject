@@ -1,0 +1,221 @@
+Contact
+www.linkedin.com/in/tambriakemp
+(LinkedIn)
+github.com/tambriakemp (Other)
+Top Skills
+HTML
+Website Development
+Cascading Style Sheets (CSS)
+Tambria Kemp
+Software Engineer at The Home Depot
+Dallas/Fort Worth Area
+Summary
+Motivated Front-End Developer with experience creating custom
+websites through various front-end technologies such as HTML5/
+CSS3 and JavaScript frameworks. Strong collaboration skills and
+proven history of website and application development. Strong
+analytical skills with focus on accurate and prompt results. Result
+driven, high personal level of integrity and work ethics with a
+dynamic balance of people skills. Ability to learn and adapt quickly in
+a fast-paced environment and to take on initiatives.
+Experience
+The Home Depot
+Software Engineer
+August 2019 - Present (7 months)
+Cre8 Visions
+Web Developer
+February 2006 - Present (14 years 1 month)
+Atlanta, GA
+Translating a client's marketing or informational content into a functional
+and cross-browser compatible responsive websites and landing pages
+using HTML, CSS, JavaScript, Bootstrap, React, NodeJS and WordPress
+technologies. Builds APIs using NodeJs and Express for clients requiring
+backend applications. Creating or editing images and graphics for website use
+using Adobe Photoshop and other design tools. Collect coding requirements
+for site creation including: Ecommerce capability, forms, and plugins. Map
+out user flow and plugins for more complicated sites. Designing wireframes
+and complete layouts/concepts of websites using Adobe Photoshop. Malware
+cleaning of WordPress sites infected. Site migrations for one hosting company
+to another. Configure e-commerce plugins such as woocommerce on
+WordPress websites. Integrate basic SEO (Search Engine Optimization)
+features on newly developed websites. Generate monthly analytic reports for
+clients.
+Page 1 of 6
+Ionic Security
+3 years
+Front-End Developer
+2018 - June 2019 (1 year)
+Collaborate with other front and back end developers to implement new
+features for the www.ionic.com WordPress brochure site. Implement design
+requirements using custom HTML, CSS and PHP. Install and configure
+plugins to internal customers’ requirements. Troubleshoot and resolve
+WordPress problems with themes, plugins and theme builders. Work with
+MySQL database. Use GIT version control.
+Software Test Engineer
+July 2016 - June 2019 (3 years)
+Atlanta, GA
+Design, develop and execute automated and manual test cases, scripts,
+plans and procedures for the Analytics, Policy and Plugin teams. Setup QA
+processes and needed environments that contributes to the manual and
+automation testing strategy. Maintain and update the regression test plan
+and test cases based on new functionality. Work with software developers to
+identify and resolve defects/bugs. Participate in product team sprint planning
+meetings and formulate testing approach. Triage issue items in JIRA backlog
+for development and release readiness. Setup, organized and documented
+process flows for qTest application for other QA team members. Setup testing
+efforts and processes on three different teams/products (Analytics, Policy
+and Plugin). Use of encryption/decryption and command line tools to test
+application functionality.
+Thinkful
+Full Stack Developer Apprentice
+2018 - 2018 (less than a year)
+Learned industry best practices and practical software development standards
+with a focus on HTML5, CSS3, JavaScript, jQuery, Node.js, React, Redux, and
+algorithms & data structures.
+Created and deployed mobile-first applications while learning new languages
+and frameworks by collaborating several hours every week with a senior web
+developer.
+Kabbage, Inc
+Software Test Engineer
+July 2015 - May 2016 (11 months)
+Page 2 of 6
+Greater Atlanta Area
+• Responsible for the manual testing of new product features, for web and
+mobile applications primarily written in Python, AngularJS, HTML5, CSS3,
+jQuery, Django.
+• Developed test data, executed test plans, cases, and/or scripts for
+automation.
+• Reviewed business requirements for new application features and verified
+new development meet those requirements.
+• Deployed new feature development to QA environments for testing using
+Bamboo.
+• Used a combination of Selenium, Protractor and JavaScript to write and run
+automated test.
+• Used Jira to track and record software defects as well as to document
+process and test results.
+• Interviewed job candidates for open development and quality assurance
+roles.
+Telular Corporation
+Software Test Engineer
+February 2014 - July 2015 (1 year 6 months)
+Atlanta, GA
+* Responsible for testing security web applications used by residential and
+commercial security companies such as ADT and Comcast.
+* Ensure web based application are delivered to meet client requirements and
+service requirement levels.
+* Lead the design, development, and testing of web based application
+components in support of sales and operation.
+* Responsible for deploying and monitoring web application pre and post
+production.
+* Facilitate Release Readiness Reviews prior to web application development.
+* Setup Microsoft Test Manager environment to ensure quality delivery of web
+based application and web portals.
+* Aiding in the implementation of an automated testing facility using both
+internal and external engineering resources.
+* Gathered business requirements and converted them into application
+requirements for the web based application.
+* Communicate project status and data quality status to internal and external
+teams.
+* Prepare documentation for test strategy, test plans, test estimation, test
+cases, and test scripts.
+Page 3 of 6
+* Develop test data, execute test plans, cases, and/or scripts for automation
+using Visual Studios.
+* Leads test execution efforts and ensures that all aspects of engineering,
+production, sales and operations are ready for product launch.
+Landis+Gyr
+Software Test Engineer
+October 2011 - February 2014 (2 years 5 months)
+Alpharetta, GA
+* Performed web application testing on Landis+Gyr’s web based software
+application for service meters.
+* Analyzed test results, perform data validation and track any defects that
+occurs.
+* Wrote queries to retrieve test data used in testing of different modules of the
+application.
+* Developed test plans, tests cases, and /or automated test scripts using
+technical requirements and design specification as input.
+* Designed and coordinate the implementation of test environments.
+* Developed test data, execute test plans, cases, and/or scripts using
+automated test tools.
+* Documented test results and provide SQA test progress reports as
+appropriate.
+* Collaborated with Software engineers in developing test cases for Unit and
+System Tests.
+* Managed user tests and coordinate with the Project team to take appropriate
+actions required to correct software defects.
+* Reviewed user stories and work with business partners to refine the
+requirements such that they can be objectively tested using the Agile/Scrum
+process.
+* Coordinated with engineering and development to establish a well-
+constructed testing environment.
+* Worked closely with developers and business partners to ensure all aspects
+of the product are tested.
+ADP
+Carrier Connection Specialist
+October 2007 - October 2011 (4 years 1 month)
+Alpharetta, GA
+Page 4 of 6
+* Resolved client internal application problems and new requests in the area of
+system set up, product functionality and product enhancements in addition to
+other services issues in the complex arena of payroll and Human Resources.
+* Programmed new electronic data interchange files as well as maintenance
+production files using proprietary coding that follow various HIPAA and HR &
+Benefit standards.
+* Worked with clients and third party vendors to gather business requirements
+and configure electronic data exchange files in between application systems.
+* Researched, designed and modified complex mainframe features or software
+applications to meet the client's specific needs.
+* Implemented web services for clients who required real time access to data
+stored on ADP’s databases.
+* Assisted clients with coding and troubleshooting JAVA/XML based API calls
+for web services purposes.
+* Wrote JAVA code to provide to clients needing assistance in setting up web
+services.
+* Assisted clients in integrating ADP's Human Resource and Benefits
+application with their third party vendors applications.
+Geek Squad
+Technician
+August 2004 - December 2010 (6 years 5 months)
+* Responsible for repairing any Windows 98/2K/NT/XP/Vista/Win7 computer as
+well as any hardware, software or peripheral.
+* Performed new and used computer setups, installs, diagnostics and
+upgrades.
+* Performed data backups as well as data transfers for computer systems.
+* Completed services such as system functionality checks and network
+functionality for small to medium sized business.
+* Troubleshot wireless and wired networks in various small to medium sized
+business.
+Aon Hewitt
+Setup Configuration Analyst
+August 2006 - October 2007 (1 year 3 months)
+Atlanta, GA
+Page 5 of 6
+* Responsible for configuring and testing Hewitt’s proprietary Total Benefits
+Administration (TBA) system to meet the Health and Welfare needs of clients’
+requirements.
+* Used the SDLC (System Development Life Cycle) principles and concepts to
+manage day to day client projects.
+* Complete analysis artifacts with configuration needs passed down from client
+requirements for new setup.
+* Wrote intermediate SQL queries to retrieve information stored on client
+databases.
+* Used SQL to pull reports and analyze data off the Oracle database.
+* Tested new modules created against the clients databases.
+* Executed test plans by first identifying test cases and then conducting testing
+based on plan to determine if program functions without defects (including
+regression testing).
+* Documented defects and may investigate and resolve issues when actual
+results don't meet expected results.
+* Analyzed issues/defects and debugged the system when configuration is not
+producing expected results. Researched issues to determine if source of error
+is with the test data, test plan, or configuration.
+Education
+Thinkful
+Full Stack · (2018 - 2019)
+Keller Graduate School of Management of DeVry University
+Master’s Degree, Project Management · (2010 - 2012)
+Fort Valley State University
+Bachelor’s Degree, Computer and Information Sciences,
+General · (2002 - 2006)
+Page 6 of 6

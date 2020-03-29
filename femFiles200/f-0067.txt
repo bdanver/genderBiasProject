@@ -1,0 +1,89 @@
+Contact
+www.linkedin.com/in/aditidass
+(LinkedIn)
+Top Skills
+Python
+Project Management
+Java
+Languages
+Japanese (Elementary)
+English (Native or Bilingual)
+Bengali (Native or Bilingual)
+Honors-Awards
+Dean's List
+Dean's List
+Dean's List
+Aditi Dass
+Software Developer
+Greater Boston Area
+Summary
+Experienced software developer with a focus on back-end
+development and system architecture. Masters in Computer Science
+graduate. Language agnostic with solid theoretical foundation and
+able to adapt to any stack. Currently on Stem OPT, will require H1B
+or H1B1 sponsorship in the future.
+Experience
+State Street
+Senior Associate, Software Developer
+May 2018 - Present (1 year 11 months)
+Greater Boston Area
+• Developed, tested and deployed REST API's in Java with Spring, Maven,
+Jenkins and AWS
+• Identified design flaw with high future impact, contributed to solution design
+and led refactoring effort
+• Led architecture design rework and development of production grade
+backend web service in Python with Flask, Redis, SQL, Oracle DB
+• Devised mathematically provable change in formula reducing amount of data
+transfer by 83% and speeding up time of requests by up to 2500 times
+Boston University Software & Application Innovation Lab
+Software Developer Intern
+May 2017 - August 2017 (4 months)
+Greater Boston Area
+• Designed a cryptographic protocol for privacy preserving data aggregation for
+a NIH funded healthcare firm
+• Implemented algorithm in C++ for an untrusted, anonymous digital coin
+tumbler
+• Developed AJAX API routes and models for $1M funded synthetic biological
+tool
+• Co-managed project to transition backend framework from Java to
+JavaScript
+Page 1 of 3
+Boston University Software & Application Innovation Lab
+Software Developer Intern
+May 2016 - July 2016 (3 months)
+Greater Boston Area
+• Assessed several open source backend frameworks based on individual
+project requirements
+• Built accessible adaptive survey platform with Node.js frameworks and Ionic
+Ack3 Bionetics
+Software Engineer Intern
+June 2015 - August 2015 (3 months)
+Singapore
+• Gathered information from clients on implementation of demo sites
+• Managed relational databases using MYSQL
+• Created web sites using PHP, JavaScript, HTML, CSS for clients
+• Performed network analysis with Wireshark to debug system issues
+Thome Ship Management PTE. LTD.
+Intern
+August 2014 - August 2014 (1 month)
+• Projected company financials and created marketing strategies for vessel
+takeovers
+• Collaborated with international offices to streamline data management and
+adapt new procedures
+• Attended takeover meetings with company executives and clients
+Math Vision Enrichment Centre
+Chemistry Tutor
+February 2013 - July 2013 (6 months)
+Singapore
+• Taught grades 10 and 12 Chemistry and Physics for the GCSE ‘O’ and ‘A’
+Levels, IGCSE ‘O’ Levels and International Baccalaureate exams
+Education
+Boston University
+Master of Science - MS, Computer Science · (2017 - 2018)
+Boston University
+Page 2 of 3
+Bachelor's degree, Computer Science, Minor in Mechanical
+Engineering · (2013 - 2017)
+Anglo-Chinese Junior College
+GCE Advanced Level Diploma
+Page 3 of 3

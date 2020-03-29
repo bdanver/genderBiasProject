@@ -1,0 +1,80 @@
+Contact
+www.linkedin.com/in/stacy-lafume
+(LinkedIn)
+www.stacylafume.com (Portfolio)
+github.com/StacyLafume (Other)
+twitter.com/stacylafume1 (Other)
+Top Skills
+Photography
+HTML&CSS
+JavaScript
+Stacy Lafume
+Full-stack Software Engineer
+Boston, Massachusetts
+Summary
+I am a relentless learner, who believes in understanding all facets
+of the products I am building. I’m a dedicated and empathetic team
+player who leads with emotional intelligence. I am now looking to
+bring my software engineering and graphic design experience to a
+creative team.
+Experience
+Wayfair
+Software Engineer
+September 2019 - February 2020 (6 months)
+Way Space is a full-stack social media site for Wayfair customers. Way
+Space allows users to send friend requests, and allows them to see
+what their friends favorited, as well as their purchased items. Users
+are also able to delete friend requests and see pending friend
+requests. The tech stack for this application is React JS components,
+and for the back end, data was fetched with Apollo Client and GraphQL
+with a SQL database. For this feature, I also had to build the tests in
+PHP testing for backend and jest testing for front end.
+Dimension Update Tool is a tool for warehouse employees to view and
+update the dimension of stocked items. Employees can search a SKU
+via AJAX request and load the item and switch dimension from imperial
+to metric. When employees save the updated information on the
+product, it updates the SQL databases.
+Resilient Coders
+Software Engineer
+May 2019 - August 2019 (4 months)
+-Collaborate with a team of developers to build modern web
+applications using best practices
+-Utilize front-end and back-end technologies to create fullstack
+web applications
+Page 1 of 3
+-Review, refactor, and revisited projects.
+-Worked with client to build a user friendly web page with
+carefully crafted code.
+Whole Foods Market
+Cashier
+September 2018 - May 2019 (9 months)
+Boston, Massachusetts
+- Checks out customer's groceries efficiently
+- Assists supervisor in controlling customer flow and backed up
+lines
+-Cleans and stocks Front End areas, including own register
+-Helping reduce customer waiting time.
+Somerset Club
+Waitress
+November 2017 - May 2019 (1 year 7 months)
+Boston, Massachusetts
+-Prepare tables by setting up linens, silverware and glasses
+-Arrange table settings and maintain a tidy dining area
+-Clearing dirty dishes, glasses, and tables after meals
+-Providing excellent wait service to ensure satisfaction
+Foundation for Boston Centers for Youth & Families (BCYF)
+Photographer
+June 2016 - August 2016 (3 months)
+Boston, Massachusetts
+Boys & Girls Club
+Art Teacher
+June 2015 - August 2015 (3 months)
+Boston, Massachusetts
+Facilitated art classes
+Organized and painted a mural.
+Ensured space was clean and ready to use again
+Education
+Bunker Hill CC
+Associate's degree, Graphic Design · (2017 - 2019)
+Page 2 of 3
+Page 3 of 3

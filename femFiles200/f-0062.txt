@@ -1,0 +1,101 @@
+Contact
+www.linkedin.com/in/jaedynlee
+(LinkedIn)
+jaedynlee.com (Personal)
+Top Skills
+Java
+Python
+MATLAB
+Languages
+Spanish (Limited Working)
+English (Native or Bilingual)
+Certifications
+CompTIA A+ 220-901, 220-902
+Jaedyn Lee
+Software Engineer Co-op at Toast
+Boston, Massachusetts
+Summary
+I'm a fourth-year computer science major at Northeastern University.
+I am currently looking for a part-time or full-time opportunity
+beginning in September 2020, as I complete my Master's degree in
+Computer Science. I'm interested in full-stack software development
+and artificial intelligence, and I want to make the world a better place
+with technology.
+www.jaedynlee.com
+Experience
+Generate Product Development
+Build Studio Engineer (Spring 2019), Software Project Lead (Fall 2019)
+January 2019 - December 2019 (1 year)
+Boston, Massachusetts
+- As a Build Studio Engineer, helped build an iOS app that stores clothing
+items and recommends outfits.
+- Led the implementation of a machine learning recommender algorithm that
+improves with user feedback.
+- As a Software Project Lead, implemented an Agile development process and
+organized tasks for developers.
+- Communicated with the client to understand their project’s requirements,
+restrictions, and end goals.
+Toast, Inc.
+Software Engineer Co-op
+January 2019 - June 2019 (6 months)
+Greater Boston Area
+- Developed production features and bug fixes for the back-end server and
+front-end Android and web UIs.
+- Produced a guest report feature tied to over $680,000 in live annual recurring
+revenue.
+Page 1 of 3
+- Migrated long-running Selenium UI tests to integration, Espresso, and unit
+tests to reduce deploy times.
+- Modularized legacy monolithic codebase by separating view, application, and
+business logic layers.
+- Created new API endpoints and extended a Python API testing framework to
+verify functionality.
+- Onboarded new team members, mentored newer interns, and educated
+others on team practices.
+Game User Interaction and Intelligence Lab
+Undergraduate Research Assistant
+July 2018 - December 2018 (6 months)
+Greater Boston Area
+- Analyzed the evolution of NSF Awards over time.
+- Generated keywords using TF-IDF and created a sankey diagram using
+d3.js.
+- View a preliminary data visualization at nsf.jaedynlee.com
+Draper
+Machine Intelligence Co-op
+January 2018 - August 2018 (8 months)
+Cambridge, MA
+- Produced an application that takes in a search term, scrapes the web for
+relevant images, performs image segmentation, and produces a range of
+desired outputs.
+- Automated large-scale object and character recognition using MATLAB’s
+Computer Vision Toolbox.
+ResNet Resource Center
+Computer Technician
+July 2016 - January 2018 (1 year 7 months)
+Northeastern University
+- Diagnosed and repaired hardware and software issues, remediate malware,
+recover, backup, and transfer data, configure applications, and provide cable
+TV and Internet support for over 20,000 students.
+- Led teams of technicians checking data ports, TV ports, and wireless signal
+in over 10,000 dorm rooms.
+- Promoted MacBooks at orientations and information sessions, increasing
+Northeastern’s Apple sales by over 200%.
+Page 2 of 3
+Staples
+Copy & Print Associate
+May 2015 - July 2016 (1 year 3 months)
+18 Lyman St. Westborough, MA
+- Produced complex orders for copies, flyers, booklets, business cards,
+posters, calendars, and much more.
+- Cultivated relationships with customers to provide copy and print solutions.
+- Designed personalized orders with customers through extensive knowledge
+of products and usage of Microsoft Publisher, Adobe Photoshop, and Adobe
+Illustrator.
+Education
+Northeastern University
+Bachelor's degree, Computer Science · (2016 - 2020)
+Northeastern University
+Master's degree, Computer Science · (2019 - 2021)
+Advanced Math and Science Academy
+· (2012 - 2016)
+Page 3 of 3

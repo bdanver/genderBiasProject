@@ -1,0 +1,116 @@
+Contact
+www.linkedin.com/in/ashleyansell
+(LinkedIn)
+Top Skills
+Software Engineering
+Software Development
+Objective-C
+Ashley Norman, CSM
+Software Developer at Data Works Inc
+Fairfax, Virginia
+Summary
+Mrs. Norman is a full stack JavaScript developer, with knowledge
+on developing scalable web applications in a fast paced agile
+environment. Current tech stack includes Reactjs, Nodejs, Express,
+Spring Boot hosted on AWS. Knowledgeable in web design and has
+experience with ElasticSearch, Angularjs, and Hadoop, as well as
+other web development technologies.
+Experience
+Data Works Inc
+Software Developer
+May 2017 - Present (2 years 10 months)
+Reston, VA
+▪ Designed and developed a screening application using a full stack
+JavaScript framework, including React.js, Nodejs, and PostgreSQL.
+▪ Formulated and executed new API methods in Nodejs, and develops a
+robust unit testing suite using Jasmine to test branch and error conditions for
+each API method developed.
+▪ Applied styling to the web application using Material-UI, Bootstrap, and
+various CSS3 techniques.
+▪ Maintains production level software packaging using npm and Webpack.
+▪ Participates in daily scrums, continuous requirements refinement
+discussions, and presents a demonstration of new functionality developed to
+the customer at the end of each two week sprint.
+▪ Designed and developed new features for a core correlation application,
+including introducing a tagging system, developing and displaying relationship
+information between records, and updating a complex filtering system used by
+various datasets within the application.
+▪ Implemented core application updates using React.js front-end development
+and Java and Spring Boot middle-tier development.
+▪ Collaborated with user engagement, user experience, and test teams
+to ensure features were developed to bring the most useful and critical
+functionality that the users required.
+Page 1 of 4
+CSRA Inc
+Software Engineer
+November 2015 - May 2017 (1 year 7 months)
+Chantilly, VA
+• Developed a mission critical scheduling web application for the Army. The
+system is used across the country by members of the Army, Air Force, and
+Marines to ensure all live fire training activities are conducted in a safe and
+reliable environment
+• Collaborated on an agile team of developers to create functioning software
+on a monthly basis that is reviewed and critiqued by the team and the
+customer
+• Researched, designed, and implemented an architectural change to the
+application to allow developers to incorporate unit testing into the development
+cycle.
+• Developed the web application using C#, .NET, javascript, including the
+ArcGIS javascript API’s, python scripting, and SQL
+• Lead the Mobile App Development group within the company’s communities
+of practice. Lead monthly meetings to discuss mobile application development,
+teach fellow employees about mobile development best practices, and
+facilitates discussion across the company. Has limited experience in iOS
+development, as well as working with the cross-platform development tool,
+Sencha Touch
+SRA International
+3 years 4 months
+Software Engineer
+July 2013 - November 2015 (2 years 5 months)
+Fair Lakes, Virginia
+• Developed a mission critical scheduling web application for the Army. The
+system is used across the country by members of the Army, Air Force, and
+Marines to ensure all live fire training activities are conducted in a safe and
+reliable environment
+• Collaborated on an agile team of developers to create functioning software
+on a monthly basis that is reviewed and critiqued by the team and the
+customer
+Page 2 of 4
+• Researched, designed, and implemented an architectural change to the
+application to allow developers to incorporate unit testing into the development
+cycle.
+• Developed the web application using C#, .NET, javascript, including the
+ArcGIS javascript API’s, python scripting, and SQL
+• Lead the Mobile App Development group within the company’s communities
+of practice. Lead monthly meetings to discuss mobile application development,
+teach fellow employees about mobile development best practices, and
+facilitates discussion across the company. Has limited experience in iOS
+development, as well as working with the cross-platform development tool,
+Sencha Touch
+Business Analyst
+August 2012 - July 2013 (1 year)
+Fair Lakes, Virginia
+• Collaborated with many people through the company to develop high quality
+proposals for the government on a variety of topics, including health and
+defense focused proposals
+• Contributed to all aspects of proposals focusing on Veterans Affairs, including
+technical, management, level of effort, and graphics support
+• Developed detailed graphics for several proposals using both MS PowerPoint
+and MS Visio, as well as open source graphics editors
+Ansell, Buffington & Company, CPA, P.C.
+Accountant
+2009 - 2012 (3 years)
+• Developed the company website using a combination of HTML and CSS
+• Analyzed bank and transaction information for Chapter 13 and Chapter 12
+Trustees and prepared monthly reports, as well as bank reconciliations and
+proof of cash
+• Used Quickbooks and MS Excel to record and analyze trust and expense
+information for United States Trustees
+Williamsville Planetarium
+Digital Sky Programmer
+July 2007 - August 2009 (2 years 2 months)
+Page 3 of 4
+Education
+Rensselaer Polytechnic Institute
+Bachelor of Science (B.S.), Computer Engineering · (2008 - 2012)
+Page 4 of 4

@@ -1,0 +1,123 @@
+Contact
+www.linkedin.com/in/
+khushbuparekh (LinkedIn)
+Top Skills
+SQL
+Java
+JavaScript
+Certifications
+Information Storage Management
+khushbu parekh
+Software Developer at Globalization Partners
+Boston, Massachusetts
+Summary
+Graduated with Masters of Science in Information Systems from
+Northeastern University, as a part of my course work I underwent a
+Co-op for 6 months At Micro Systems Engineering as a C# Software
+Developer, prior to which worked at Accenture for 2 years and
+2 months as a .net Developer right after completing my Under-
+graduation from NMIMS University in Information Technology.
+After honing my development skills now I am currently focusing on
+building Big Data projects using some of the Map Reduce design
+patterns available and I am also diligently looking for full-time
+opportunities in Big Data Engineering or Software Development
+starting August 2017
+Following are my Skill Sets:
+Languages: Java, Python, VB.Net, C#
+Web Technologies: J2EE, JSP, AngularJS, Jinga2, Node.js,
+JavaScript, jQuery, AJAX, JSON, XML, Bootstrap, HTML, CSS
+Tools and IDE: Eclipse, Anaconda, STS, MySQL
+Workbench, TFS, PTC, Git, Visual Studio, NetBeans, Visio, StarUML
+Database: MySQL, SQL Server, Oracle, Redis,
+MongoDB, PostgreSQL
+Big Data Technologies: Hadoop, MapReduce, Pig, Hive, HBase,
+Mahout
+ML and DL Algorithms: Linear Regression, Logistic Regression,
+Random Forest, SVM, KNN, RNN, CNN, K-means, LSTM
+Frameworks: Spring Boot, Hibernate ORM, Java Swing,
+WCF, WPF, LINQ, Flask
+Cloud & Deployment Tools: AWS, Microsoft Azure, IBM, Docker
+Operating Systems: Windows, Ubuntu, Linux
+Experience
+Globalization Partners
+Page 1 of 4
+Software Developer
+November 2017 - January 2020 (2 years 3 months)
+Greater Boston Area
+• Creating new features, enhance existing features and optimize existing
+functionality
+• Performing code review for the peers and deploying it to the test server.
+• Implemented service layer using Spring IOC and annotations and Controllers
+using Spring MVC.
+• Implemented DAOs, entities using Hibernate API and Hibernate QL.
+• Wrote client-side code for web-based applications using AngularJS and
+jQuery.
+• Implemented Java EE components using Spring MVC, Spring IOC, Spring
+transactions and Spring security modules, Hibernate ORM.
+• Improving application stability with the development and implementation of
+bug fixes, enhancements, and alerts.
+• Deployed Code on the AWS Server and Git hub for version control.
+MSEI
+Software Development Co-op
+July 2016 - December 2016 (6 months)
+Lake Oswego, Oregon
+• Enhanced an application built using WPF technology by consolidating
+existing functionalities into a single page.
+• Developed a functionality to generate customized queries and retrieved
+reports by building complex stored procedures.
+• Conducted meetings for requirement gathering, analyzed them and created a
+document for the finalized requirements.
+• Created a software development plan document and software design
+document for projects.
+• Designed a database architecture and developed a code to enable
+communication between client and server using WCF.
+• Presented and demonstrated work done on the project to over 25 interns and
+15 project leads.
+Accenture
+2 years 3 months
+Software Engineering Analyst
+December 2014 - July 2015 (8 months)
+Mumbai
+• Developed, tested and deployed a website utilizing VB.net and SQL.
+Page 2 of 4
+• Gathered requirements from the clients and performed Impact Analysis on
+those requirements.
+• Identified defects by scrutinising the website in the assembly testing, product
+testing and user acceptance testing phase.
+• Implemented and introduced AJAX and LINQ, fixed defects at different
+testing phases of the project.
+• Created stored procedures for incorporating reporting features, created Jobs
+on Control-M for timely execution.
+• Trained 10 team members on technical and functional approaches of the
+project.
+Associate Software Engineering Analyst
+May 2013 - November 2014 (1 year 7 months)
+Mumbai Area, India
+• Led and managed a team of 5 members within the first 8 months of joining
+Accenture.
+• Improved the look and feel of the project using HTML and incorporated
+validations using JavaScript.
+• Presented new features and demonstrated their functionalities to the clients
+before its deployment on the Server.
+• Prepared test cases, performed testing and provided support to the users
+who faced any technical/functional issues.
+Mahindra and Mahindra Private Ltd.
+Intern
+June 2012 - July 2012 (2 months)
+Mumbai
+Worked as an Intern for a month wherein I learned on how to use Business
+object tools to develop reports to predict the future demands for each of the
+products sold by the company and maintain the profit of the company.
+Tech Mahindra Private Ltd
+Project Trainee
+May 2011 - July 2011 (3 months)
+Worked as a part of the Technical Support team wherein I learned how VPN
+works and how active server directory of the company is created and also
+performed Research on Cloud Computing.
+Education
+Page 3 of 4
+Northeastern University
+Master’s Degree, Information Systems · (2015 - 2017)
+Narsee Monjee Institute of Management Studies
+Engineer's Degree, Information Technology · (2009 - 2013)
+Page 4 of 4

@@ -1,0 +1,77 @@
+Contact
+www.linkedin.com/in/ayushi-
+samaddar (LinkedIn)
+Top Skills
+Programming
+Java
+Python
+Ayushi Samaddar
+Senior Backend Engineer, Slack
+Berkeley, California
+Experience
+Slack
+Senior Engineer, Backend
+November 2018 - Present (1 year 4 months)
+Working on features for Slack's Enterprise customers
+Workday
+5 years 4 months
+Senior Software Development Engineer
+May 2018 - November 2018 (7 months)
+* Leading project to handle partitioned business processes across Workday
+version updates
+* Design and oversee scheduled background process framework
+* Resolve customer issues
+Software Development Engineer
+November 2015 - May 2018 (2 years 7 months)
+* Created platform tool that schedules business processes across multiple
+customer tenants at recurring frequencies.
+* Triage customer problems, maintain, and build new features for Workday's
+background processing framework that handles business reports and
+integrations
+* Enabling partitioned tasks for business processes to survive Workday version
+changes/updates
+* Optimized data slicing for update tasks to persist changes in chunks for
+better throughput
+Associate Software Development Engineer
+August 2013 - November 2015 (2 years 4 months)
+Pleasanton, CA
+* Enhanced framework that identifies and tracks issues from audit processes to
+ensure data integrity from release to release
+* Developed enterprise level logging and worked briefly on authorization /
+security group logic for
+* Mentor interns, lead Women @ Workday and organize team events
+Page 1 of 2
+Zynga
+Software Engineer Intern
+May 2012 - August 2012 (4 months)
+Implemented CityVille's special "Featured Quests" and created CityVille
+Games' item upgrade. Designed tools to simplify analytics experiments and
+game object deletion.
+Workday
+Software Development Intern
+June 2011 - August 2011 (3 months)
+Developed general server and client OAuth2 (Open Authorization) framework
+for future clients.
+Hybrid Systems Lab, UC Berkeley
+Undergraduate Research Assistant
+June 2010 - August 2010 (3 months)
+Berkeley
+Analyzed data and logs of unmanned aerial vehicles and designed the
+developer website of Contrails, an air traffic control mobile app.
+http://hybrid.eecs.berkeley.edu/starmac/
+Metropolitan Transportation Commission
+Engineering Intern
+June 2008 - August 2008 (3 months)
+Designed intricate maps of covering street sweeping routes, storm drains,
+aerials and hiking trails using AutoCAD and GIS software. Contacted over
+90 contractors regarding a $1.38 million park improvement project. Located
+and reviewed field visits of construction sites. Handled applications for Safe
+Routes to School federal funds and created graphics for pedestrian safety
+improvements for downtown Saratoga, CA.
+Education
+UC Berkeley
+Bachelor of Science (B.S.), Electrical Engineering and Computer
+Science · (2009 - 2013)
+Monta Vista High School
+· (2005 - 2009)
+Page 2 of 2

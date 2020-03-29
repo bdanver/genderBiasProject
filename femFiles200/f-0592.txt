@@ -1,0 +1,134 @@
+Contact
+www.linkedin.com/in/bornbrie
+(LinkedIn)
+Top Skills
+Swift
+Customer Service
+Leadership
+Brianna Lee
+Product Support Analyst at Accretive Technology Group
+Greater Seattle Area
+Summary
+I started coding the day that Swift was in beta on October 22, 2014. I
+have started companies, managed service departments, fixed Apple
+products, built apps for large companies, built websites/marketing/
+inventory/pos for small companies, and I have since grown more
+and more fascinated with the depths of Artificial General Intelligence
+and the onset of blockchains and decentralized data. Growing is my
+objective, and fostering experiences and communities that fulfill the
+positive aspects of ourselves, such as connection, compassion, and
+empathy, is the vision I have for my future.
+Experience
+Accretive Technology Group
+Product Support Analyst
+December 2018 - Present (1 year 4 months)
+Seattle, Washington
+Hot Feet Fitness
+X21 Instructor
+December 2018 - Present (1 year 4 months)
+Burien, Washington
+The X21 Workout is designed to produce quick weight loss and muscle tone
+improvement results. Using the bodies own weight as resistance is the key
+component to the success of the X21 Workout. Being only 21 minutes means
+it is a quick, high intensity workout that can be enjoyed multiple times a week.
+When combined with the Hot Feet Fitness diet guides, optimal results can be
+achieved.
+Eightfold Yoga Clothing Co.
+Co-Founder/Software Developer
+January 2018 - Present (2 years 3 months)
+Greater Seattle Area
+Contribute to marketing concepts and branding of the company, including
+logo, Instagram campaigns, color schemes, user experiences, user interface
+Page 1 of 4
+continuity, etc. Contributed to design of the Wordpress website. Helped
+configure products across manufacturing chain, from website to manufacturing
+to shipment. Developed open source WooCommerce SDK in Swift to enable
+developers to build apps for iOS, macOS, tvOS, and watchOS and allow a
+native shopping experience for customers. Designed and developed an iOS
+app for iPhone/iPad in Swift using latest SDKs and libraries.
+Experimac
+Lead Technician
+March 2017 - Present (3 years 1 month)
+Seattle, Washington
+Part of the opening team launching a franchise location and kickstarting
+business operations. Designed, built, and maintained an intuitive cloud-based
+point-of-sale and service-ticketing system. Synced accounting software,
+inventory, customer loyalty program, email newsletter, customer training class
+schedules, service ticketing system, automated email follow-ups, and more
+with point-of-sale.
+Managed inventory, employee schedule, trained staff on repairs and
+operations, submitted and approved payroll, and bought and sold inventory
+from suppliers and customers.
+Built multiple custom applications for iOS and Mac using Swift to boost
+operations and repair productivity in-store.
+Hands-on repairs consisting of troubleshooting, diagnosing and repairing all
+customer Apple devices, including iPhones iPads, Macs, Apple Watches,
+iPods, server-side maintenance, in-home repairs, and more. Consistently
+created and maintained purchase orders for all repairs and interfaced with
+customers for timely follow-ups with the status of their device.
+Maintained a perfect 5-star rating across the board on many relevant review
+sites, such as Yelp and Google Business. Built a positive reputation in the local
+community around West Seattle.
+CityMac
+Service Manager
+March 2014 - April 2016 (2 years 2 months)
+Greater Seattle Area
+Page 2 of 4
+Apple Certified Mac Technician (ACMT). Responsible for all repairs of every
+type of Apple product. Managed inventory, trained staff on repairs and
+operations, interfaced directly with all customers for status updates and ETAs.
+Managed certified Apple Service Center to facilitate AppleCare claims. Taught
+public classes, both group sessions and one-on-one classes for laymen on
+how to utilize their Apple products (i.e. what is iCloud, how does the iPhone
+work, etc.). Consistently met and exceeded many peer salesman level quotas
+despite also running service department simultaneously.
+Salon Creative Design
+iOS Developer
+January 2015 - August 2015 (8 months)
+Greater Seattle Area
+Worked with existing design language to implement an iPhone app for
+exploring everything there is to know about the Alaskan Holland America
+cruise lines. Sole iOS developer on the team, responsible for bug fixes and
+all implementation to the platform. Successfully released to the App Store
+in August 2015. Winner of the Best Overall Cruise Mobile App by the Travel
+Weekly magazine in 2015.
+Game Thrift
+Co-Founder/CEO
+2015 - August 2015 (less than a year)
+Greater Seattle Area
+Founded startup focused on creating and fostering an environment and
+marketplace for gamers to buy, sell, trade and bond over their favorite video
+games. Our main product was an iOS app (that was never released) built from
+scratch in Swift with a custom API writing with Django in Python running on
+a remote server, allowing users to open a storefront and sell their used video
+games across the country to and from one another.
+PEAKS FROZEN CUSTARD LLC
+Assistant Manager
+September 2011 - August 2013 (2 years)
+Greater Seattle Area
+Managed fast-paced frozen custard (ice cream) shop. Implemented custom
+scheduling system, order ticketing system, Square point-of-sale, opening
+and closing procedures, tip distribution, trained employees on product quality
+including prepping ingredients, fulfilling orders in a timely manner, barista skills
+such as foaming lattes and espresso best-practices, and keeping face with
+Page 3 of 4
+customers. Left this job to attend El Camino de Santiago in Spain for 2 months
+and travel the world.
+FakeBaby Studios
+Lead Producer / Co-Founder
+January 2006 - June 2010 (4 years 6 months)
+Greater Seattle Area
+Produced and recorded multiple artists on a weekly basis. Maintained
+recording gear and instruments including analogue mixers, PA systems,
+condenser/dynamic/ribbon microphones, electric/acoustic guitars, drum sets
+and hardware, digital audio converters, preamplifiers, outboard gear, etc.
+Remodeled basement to accommodate isolation booth, tracking room, and
+control room with soundproofing. Responsible for the end product and mixing/
+mastering of most projects. Gave creative influence when necessary to adapt
+an artist’s sound to a recorded format, working with the latest production
+techniques in the audio engineering world. Dropped out of high school to run
+this business full-time and attend audio engineering school.
+Education
+Shoreline Community College
+Associate's degree, Digital Audio Engineering · (2008 - 2010)
+Page 4 of 4

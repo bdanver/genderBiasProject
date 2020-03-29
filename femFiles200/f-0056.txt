@@ -1,0 +1,85 @@
+Contact
+www.linkedin.com/in/ishwant
+(LinkedIn)
+Top Skills
+Agile Methodologies
+Data Structures
+Software Design
+Languages
+English (Full Professional)
+Hindi (Native or Bilingual)
+Punjabi ( Regional ) (Full
+Professional)
+Certifications
+Exam 532: Developing Microsoft
+Azure Solutions
+Oracle Certified Professional, Java
+SE 6 Programmer
+Ishwant Kaur
+Software Developer at Microsoft
+Greater Seattle Area
+Summary
+I am an ambitious and responsible worker, and am open to new
+challenges. I am self motivated and a good team player. My curiosity
+in trying to understand why programs worked in a certain way, got
+me into coding. I love the combination of creative and problem-
+solving skills I get to use when writing code.
+I am currently working as a software developer in Microsoft
+(Universal Store). I worked in Commercehub for 2 years after
+graduating from Seattle University with a Masters degree in
+Computer Science (GPA 3.81).
+Experience
+Microsoft
+Software Developer
+April 2018 - Present (1 year 11 months)
+Redmond, Washington
+CommerceHub
+Software Engineer
+May 2016 - April 2018 (2 years)
+Greater Seattle Area
+Worked extensively as Software Engineer on SaaS platforms like Amazon,
+Walmart, eBay and Jet, experience include,
+- Implement new channel feeds for marketplaces by developing RESTful api,
+programming stored procedures using TSQL and monitoring integration tests
+on end to end path.
+- Facilitate data manipulation for merchants using MSSQL.
+- Collaborate with the team to enhance our customer experience.
+- Plan and make requirement analysis for the upcoming features.
+- Design and develop frameworks, tools, tests and reviewing peer code.
+- Find/Fix bugs in product/test code.
+Page 1 of 2
+Microsoft
+Software Engineer
+August 2013 - July 2015 (2 years)
+Redmond, WA
+- Operated the migration of SharePoint 2010 On-Premise sites to SharePoint
+2013 in the Azure (cloud).
+- Tested UI features of migrated sites.
+- Programmed PowerShell scripts to automate the migration process.
+- Deployed SharePoint environments using Hyper-V and SQL servers.
+- Developed scripts to automate the deployment of SharePoint farms.
+- Handled configuration of SQL databases.
+- Learned new tools and technologies and got an insight into the professional
+work environment
+Idea Cellular Ltd
+Switch Engineer
+June 2011 - December 2011 (7 months)
+Mohali, Punjabi, India
+- Tested and debugged new switching centers.
+- Analyzed performance indices like ASR, Blocking rate etc.
+- Created databases for new centers.
+- Handled issues related to call flows.
+- Day to day system maintenance and activities like debugging issues,
+escalating issues, communicating between different teams etc.
+- Suggested measures to improve ASR and reduce blockage.
+- Learned new tools and technologies and got an insight into the professional
+work environment
+Education
+Seattle University
+Master’s Degree, Computer Science · (2013 - 2016)
+DAV Institute of Engineering and Technology
+Engineer’s Degree, Electronics and Communications
+Engineering · (2008 - 2012)
+Swami Sant Dass Public School
+High School, Physics Chemistry and Mathematics · (2008)
+Page 2 of 2

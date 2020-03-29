@@ -1,0 +1,99 @@
+Contact
+www.linkedin.com/in/qinyingsi
+(LinkedIn)
+scholar.google.com/citations
+(Other)
+Languages
+Spanish (Elementary)
+Mandarin (Native or Bilingual)
+Cantonese (Native or Bilingual)
+Honors-Awards
+Edwin Foster Kingsbury Department
+Prize in Physics
+Bronze Medal (Team Competition)
+CRA-W Grace Hopper Celebration
+Research Scholar for Excellence in
+Computing Research
+Dean's Award for Academic
+Excellence with Distinction
+Best in Fair, 1st Prize at Science Fair
+(1/316)
+Publications
+Pendulum Beams: Light Beams
+Simulating the Quantum Pendulum
+Yingsi Qin
+Software Engineering Intern at Google
+New York, New York
+Experience
+Google
+Software Engineering Intern
+May 2019 - August 2019 (4 months)
+Mountain View, CA
+• Worked on a full-stack project to develop a high-precision-low-recall
+recommendation feature for Interesting Finds on the mobile Search Engine
+Result Page
+• Delivered versions of the feature and analyzed their live experiment
+feedback through performing iterative quality improvement, designing flexible/
+extensible infrastructure, and implementing agile development strategies
+• Worked on query expansion, result retrieval/filtering/clustering, and
+classification label extraction and validation
+• Extracted intuitions on user interaction pattern, presented to team –
+beneficial for future feature development
+• Worked cross-functionally with product managers, designers, and other
+teams to refine technical features
+Colgate University Physics Department
+1 year 9 months
+Quantum Pendulum (Optics) Student Research Fellow
+May 2018 - May 2019 (1 year 1 month)
+Hamilton, New York
+• Performed theoretical derivation and iterative experimental testing under
+Prof. Enrique (Kiko) Galvez’s guidance
+• Simulated and regenerated the quantum pendulum using MATLAB and
+the Spatial Light Modulator and found quantitative agreement between the
+measured angular spectrum and the quantum mechanical probabilities
+• Research was published in Frontiers in Optics and Bulletin of the American
+Physical Society
+Intro to Electricity and Magnetism Teaching Assistant
+August 2018 - December 2018 (5 months)
+• Led weekly homework help sessions and guided students to solve problems
+Page 1 of 3
+Computational Environmental Engineering Research Assistant
+September 2017 - May 2018 (9 months)
+Hamilton, NY
+• Used MATLAB to help model Los Angeles storm drains data Under Prof.
+Linda Tseng’s guidance
+• Learned graphing methods of quantitative microbial risk assessment (QMRA)
+Colgate University Computer Science Department
+2 years 1 month
+Data Structures in Java Teaching Assistant
+September 2017 - May 2019 (1 year 9 months)
+Hamilton, NY
+• Help students debug and answered questions on programming problems by
+being approachable, proactive, and empowering
+Web Application Student Developer
+May 2017 - March 2018 (11 months)
+Hamilton, NY, USA
+• Designed a web application from scratch using HTML, CSS, JavaScript, and
+PHP, to improve video co-watching experience, following user-centered design
+principles
+• Analyzed user requirements through interviews and applied iterative UCD-
+Agile feedback methods
+• Project was presented at ACM GROUP Conference 2018 and published in
+ACM digital library
+Tsinghua University
+Petrochemical Wastewater Summer Research Assistant
+July 2015 - August 2015 (2 months)
+Beijing City, China
+• Helped design and tested the metal-impregnation approach to produce
+catalysts for petrochemical wastewater treatment
+• Learned and performed electrolysis & ozonation tests
+Education
+Columbia University in the City of New York
+Bachelor of Science - BS, Computer Science (Intelligence Systems
+Track) · (2019 - 2021)
+Page 2 of 3
+Colgate University
+Bachelor of Arts - BA, Physics · (2016 - 2019)
+Nansha College Preparatory Academy
+High School · (2012 - 2016)
+Page 3 of 3

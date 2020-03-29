@@ -1,0 +1,134 @@
+Contact
+www.linkedin.com/in/
+poonamchawla2010 (LinkedIn)
+Top Skills
+Databases
+Program Management
+SQL
+Poonam Chawla
+Software Engineer at Google
+Natick, Massachusetts
+Experience
+Google
+Software Engineer
+August 2016 - Present (3 years 7 months)
+The MathWorks
+Software Developer
+January 2013 - Present (7 years 2 months)
+Natick, MA
+Member of MATLAB Enterprise Deployment team, currently working on the
+product MATLAB
+Production Server (MPS) to provide deployment solutions for MATLAB based
+applications in a
+client-server environment to solve important issues like scalability and
+reliability. Working to provide solutions to Java, .NET, Python and Excel
+clients.
+• Currently working on adding support for an Asynchronous Client API for
+the Java MPS Client. The API provides Future-based results and a listener
+interface for status updates. The internal
+implementation must keep state for every outstanding request on multiple
+server instances and
+update them as the request state changes on the server.
+• Designed and implemented an API, in Java and C#, that allows users to
+dynamically invoke
+MATLAB functions deployed on the server. This required a full refactoring of
+the existing client
+code for both languages.
+• Designed and implemented the Python MLArray, a multi-dimensional array
+implementation for
+Python that could be serialized/deserialized to/from MATLAB. This is a core
+component of the
+MATLAB Python interface which is used by multiple teams inside MathWorks.
+Page 1 of 4
+• Designed and implemented the Python Client and user-facing API for the
+MATLAB Production
+Server. Users can now call MATLAB functions deployed on the production
+server from Python.
+The client is responsible for encoding/decoding between Python and MATLAB
+data structures;
+providing access to MATLAB functions available on the server; and interacting
+with the server
+through a RESTful API.
+• Worked on data conversion library for marshaling non scalar data between
+MATLAB types and
+types supported by other languages like Java, C# and Excel, using Google
+Protocol Buffers for data serialization.
+Mathworks
+Application Support Engineer
+2011 - 2012 (1 year)
+• Worked as part of Engineering and Development Group providing instant
+technical feedback and help to our many customers.
+• Effectively communicated customer's feedback to our development teams in
+order to enhance our products based on their requirements.
+• Provided escalated technical support to other team members, and actively
+contributed to our knowledge database for up-to-date customer information
+and solution.
+University of Delaware
+2 years
+Research Assistant
+June 2010 - December 2010 (7 months)
+• Worked on Automatic Comment Generation for MPI (Message Passing
+Interface) Programs
+• Designed software tool to overcome the lack of human-written summary
+comments within
+developed software applications and provide a check mechanism against
+obsolete comments
+Page 2 of 4
+Graduate Assistant
+January 2009 - December 2010 (2 years)
+• Obtained, documented, and processed prospective students data
+• Established and maintained interpersonal relationship with overseas agents
+and students
+• Improved process and service time for efficiency
+• Maintained inter department communication on individual application status
+Accenture Services Pvt. Ltd.
+System Engineer
+October 2006 - December 2008 (2 years 3 months)
+I led the design and maintenance of the network based inventory database
+for Arcor AG &amp; Co. KG, Germany’s second largest telecom operator,
+renamed to Vodafone AG &amp; Co. KG on 8/1/2009.
+Tool: Cramer6 OSS Suite, TOAD
+Cramer Components : Resource Manager, Task Engine, Interfaces.
+Configurator and Database
+• Device Modeling : Circuit Type, Port Type, Location Type, Service
+type etc.using configurator.
+• Build an Oracle Database for storing, retrieving and displaying
+information about networks.
+• Create hierarchal dependencies between equipments and services.
+System Requirements/Design Specifications
+• Analyze the function specifications for change requests.
+• Diagnose the compatibility issues.
+• Prepare a low level design document to be used by the
+other project resources.
+Cramer Development : PL/SQL and JAVA
+• Customize Cramer modules.
+• Implement change requests.
+• Develop Task Engine : Network Process Automation.
+Software Quality
+Page 3 of 4
+• Develop test conditions and expected results based on the requirements.
+• Confirm requirements coverage for the test cases developed by other
+resources.
+• Execute test cases, Log and communicate test results. Verify defect
+resolution.
+Software Management
+• Manage the daily build and resolve various build/deployment
+issues.
+• Maintain issue tracking and bug reporting for various modules.
+• Ensure the quality of the deliverables by categorizing the bug
+reports
+depending upon the priority.
+Project Documentation
+• Review project deliverables for completeness and quality, and compliance
+with established project standards.
+• Peer review work done by other team members.
+• Assist in producing documentation required for deliverables.
+Leadership/Project Management:
+• I led up to 5 members of my team to perform change requests and
+testing.
+• Conducted Orientation sessions for the new associates of the
+project.
+Education
+University of Delaware
+M.S, Computer Science · (2009 - 2010)
+Page 4 of 4
