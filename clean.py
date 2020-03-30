@@ -42,7 +42,7 @@ def checkLink():
             
             # Find line with LinkedIn link. Join it with next line '(LinkedIn)'
             # Attempted to swap the contents on the 2nd line with the link
-	    # If you run this now it might delete entire file 	
+	    # If you run this now will delete this entire file 	
 	            
             # elif not lines[1].startswith('www.linkedin.com/in/'):
             #       with open(join(path, file), 'w') as f:
