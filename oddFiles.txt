@@ -1,0 +1,35 @@
+clean.py
+First line not Contact: import os
+
+m-0077.txt
+First line not Contact: 연락처
+
+m-0500.txt
+First line not Contact: 연락처
+
+m-0588.txt
+First line not Contact: Coordonnées
+
+clean.py
+Second line not LinkedIn link: import re
+
+m-0034.txt
+Second line not LinkedIn link: rob_hendrickson@yahoo.com
+
+m-0511.txt
+Second line not LinkedIn link: btapiasierra@outlook.com
+
+m-0535.txt
+Second line not LinkedIn link: mailthomasb@gmail.com
+
+m-1004.txt
+Second line not LinkedIn link: 5408481172 (Home)
+
+m-1027.txt
+Second line not LinkedIn link: bseager21@gmail.com
+
+m-1051.txt
+Second line not LinkedIn link: aidanlegaspi1@gmail.com
+
+m-1058.txt
+Second line not LinkedIn link: bryantcabrera@alumni.stanfo
