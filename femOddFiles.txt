@@ -1,0 +1,44 @@
+clean.py
+First line not Contact:import os
+
+femOddFiles.txt
+First line not Contact: clean.py
+
+clean.py
+Second line not LinkedIn link: import re
+
+f-0057.txt
+Second line not LinkedIn link: raginimalhotra08@gmail.com 
+
+f-0556.txt 
+Second line not LinkedIn link: shante@thewoman.com 
+
+f-0558.txt 
+Second line not LinkedIn link: nianhu96@gmail.com 
+
+f-1025.txt 
+Second line not LinkedIn link: holly.e.wilsey@gmail.com 
+
+f-1026.txt 
+Second line not LinkedIn link: lucybain@gmail.com 
+
+f-1027.txt 
+Second line not LinkedIn link: hmorganmail@gmail.com 
+
+f-1028.txt 
+Second line not LinkedIn link: dalina.vuong@gmail.com 
+
+f-1060.txt 
+Second line not LinkedIn link: karinnainiguez@gmail.com 
+
+f-1067.txt 
+Second line not LinkedIn link: chantelle.belic@gmail.com 
+
+f-1091.txt 
+Second line not LinkedIn link: 7038355564(Mobile)
+
+f-1093.txt 
+Second line not LinkedIn link: rcarigna@gmail.com 
+
+femOddFiles.txt 
+Second line not LinkedIn link: First line not Contact: import os
